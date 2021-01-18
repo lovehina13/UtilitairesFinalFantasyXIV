@@ -30,3 +30,7 @@ class Ensemble:
         from UtilitairesFinalFantasyXIV.Structure.Filtre import Filtres
         filtres = filtres if isinstance(filtres, Filtres) else Filtres()
         return [element for _, element in self.elements.items() if filtres.valider(element)]
+
+    def texte(self):
+        # Note: Réimplémenter le format texte pour chaque ensemble si nécessaire
+        return ",".join([element.texte() for _, element in self.elements.items()])
