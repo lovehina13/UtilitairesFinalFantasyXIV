@@ -7,7 +7,7 @@
 # Description : Définition d'une page, d'une page d'élément et d'une page d'ensemble
 # ==================================================================================================
 
-from urllib import request
+import urllib.request
 from bs4 import BeautifulSoup
 from UtilitairesFinalFantasyXIV.Structure.Element import Element
 
@@ -22,7 +22,7 @@ class Page(Element):
 
     def lire(self):
         # TODO: Implémenter une nouvelle tentative en cas d'échec ?
-        self.texte = request.urlopen(self.adresse).read()
+        self.texte = urllib.request.urlopen(self.adresse).read()
         self.soup = BeautifulSoup(self.texte, "html.parser")
 
     def extraire(self):
