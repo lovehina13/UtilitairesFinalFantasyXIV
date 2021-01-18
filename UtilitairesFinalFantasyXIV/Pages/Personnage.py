@@ -4,7 +4,7 @@
 # Name        : Personnage.py
 # Author      : Alexis Foerster (alexis.foerster@gmail.com)
 # Version     : 3.0.0 (DD/MM/YYYY)
-# Description : Définition d'une page de personnage et d'une page d'un ensemble de personnages
+# Description : Définition des pages relatives aux personnages
 # ==================================================================================================
 
 from UtilitairesFinalFantasyXIV.Donnees.Personnage import Personnage, Personnages
@@ -20,6 +20,7 @@ class PagePersonnage(PageElement):
     def extraire(self):
         # TODO: Implémenter l'extraction d'une page de personnage
         self.element = Personnage()
+        self.element.nom = self.soup.find("p", {"class": "frame__chara__name"}).contents[0].strip()
 
 
 class PagePersonnages(PageEnsemble):

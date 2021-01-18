@@ -4,7 +4,7 @@
 # Name        : Recette.py
 # Author      : Alexis Foerster (alexis.foerster@gmail.com)
 # Version     : 3.0.0 (DD/MM/YYYY)
-# Description : Définition d'une page de recette et d'une page d'un ensemble de recettes
+# Description : Définition des pages relatives aux recettes
 # ==================================================================================================
 
 from UtilitairesFinalFantasyXIV.Donnees.Recette import Recette, Recettes
@@ -20,6 +20,7 @@ class PageRecette(PageElement):
     def extraire(self):
         # TODO: Implémenter l'extraction d'une page de recette
         self.element = Recette()
+        self.element.nom = self.soup.find("h2", {"class": "db-view__item__text__name"}).contents[0].strip()
 
 
 class PageRecettes(PageEnsemble):

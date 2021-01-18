@@ -4,7 +4,7 @@
 # Name        : Recolte.py
 # Author      : Alexis Foerster (alexis.foerster@gmail.com)
 # Version     : 3.0.0 (DD/MM/YYYY)
-# Description : Définition d'une page de récolte et d'une page d'un ensemble de récoltes
+# Description : Définition des pages relatives aux récoltes
 # ==================================================================================================
 
 from UtilitairesFinalFantasyXIV.Donnees.Recolte import Recolte, Recoltes
@@ -20,6 +20,7 @@ class PageRecolte(PageElement):
     def extraire(self):
         # TODO: Implémenter l'extraction d'une page de récolte
         self.element = Recolte()
+        self.element.nom = self.soup.find("h2", {"class": "db-view__item__text__name"}).contents[0].strip()
 
 
 class PageRecoltes(PageEnsemble):
