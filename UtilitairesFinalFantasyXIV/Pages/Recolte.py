@@ -7,6 +7,8 @@
 # Description : Définition des pages relatives aux récoltes
 # ==================================================================================================
 
+from UtilitairesFinalFantasyXIV.Donnees.Classe import Classe
+from UtilitairesFinalFantasyXIV.Donnees.Lieu import Lieu
 from UtilitairesFinalFantasyXIV.Donnees.Recolte import Recolte, Recoltes
 from UtilitairesFinalFantasyXIV.Structure.Page import PageElement, PageEnsemble
 
@@ -18,9 +20,46 @@ class PageRecolte(PageElement):
         self.adresse = str("https://fr.finalfantasyxiv.com/lodestone/playguide/db/gathering/%s/" % nom)
 
     def extraire(self):
-        # TODO: Implémenter l'extraction d'une page de récolte
+
+        def _classe(sousClasse):
+            classes = {str("Extraction de minerai"): Classe.MIN,
+                       str("Extraction de pierre"): Classe.MIN, str("Coupe"): Classe.BOT,
+                       str("Fauche"): Classe.BOT}
+            return classes[sousClasse] if sousClasse in classes else None
+
+        def _simplifier(texte):
+            return " ".join(texte.replace("\n", " ").replace("\t", " ").split())
+
+        def _nomLieu(texte):
+            return " ".join(_simplifier(texte).split()[2:])
+
+        def _niveauLieu(texte):
+            niveau = _simplifier(texte).split()[1]
+            return int(niveau) if niveau.isdigit() else niveau
+
+        def _identifiantLieu(nom, compteur):
+            return str("%s:%d" % (nom, compteur))
+
         self.element = Recolte()
         self.element.nom = self.soup.find("h2", {"class": "db-view__item__text__name"}).contents[0].strip()
+        self.element.classe = _classe(self.soup.find("p", {"class": "db-view__item__text__job_name"}).contents[0].strip())
+        self.element.sousClasse = self.soup.find("p", {"class": "db-view__item__text__job_name"}).contents[0].strip()
+        self.element.niveau = int(self.soup.find("span", {"class": "db-view__item__text__level__num"}).contents[0].strip())
+        self.element.categorie = self.soup.find("p", {"class": "db-view__gathering__text__category"}).contents[0].strip()
+        itLieu = 1
+        for item in self.soup.find_all("dl", {"class": "db-view__gathering__point"}):
+            for item2 in item.contents:
+                if item2.name == str("dd"):
+                    lieu = Lieu()
+                    lieu.nom = _nomLieu(item2.contents[-1].strip())
+                    lieu.zone = item.contents[1].contents[0].strip()
+                    lieu.region = item.parent.contents[1].contents[0].strip()
+                    lieu.niveau = _niveauLieu(item2.contents[-1].strip())
+                    lieu.temporaire = len(item2.contents) > 1
+                    # Note: Ajout manuel car identifiant unique nécessaire
+                    # self.element.pointsRecolte.ajouter(lieu)
+                    self.element.pointsRecolte.elements[_identifiantLieu(lieu.nom, itLieu)] = lieu
+                    itLieu += 1
 
 
 class PageRecoltes(PageEnsemble):
@@ -32,5 +71,4 @@ class PageRecoltes(PageEnsemble):
     def extraire(self):
         self.ensemble = Recoltes()
         for item in self.soup.find_all("a", {"class": "db_popup db-table__txt--detail_link"}):
-            page = PageRecolte(item.get("href").split("/")[5])
-            self.ensemble.ajouter(page)
+            self.ensemble.ajouter(PageRecolte(item.get("href").split("/")[5]))
