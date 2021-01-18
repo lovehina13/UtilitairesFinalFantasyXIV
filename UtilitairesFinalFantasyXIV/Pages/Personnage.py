@@ -13,6 +13,10 @@ from UtilitairesFinalFantasyXIV.Structure.Page import PageElement, PageEnsemble
 
 class PagePersonnage(PageElement):
 
+    def __init__(self, nom=str()):
+        super().__init__(nom, None)
+        self.adresse = str("https://fr.finalfantasyxiv.com/lodestone/character/%s/" % nom)
+
     def extraire(self):
         # TODO: Implémenter l'extraction d'une page de personnage
         self.element = Personnage()
@@ -20,6 +24,12 @@ class PagePersonnage(PageElement):
 
 class PagePersonnages(PageEnsemble):
 
+    def __init__(self, nom=str()):
+        super().__init__(nom, None)
+        self.adresse = str("https://fr.finalfantasyxiv.com/lodestone/freecompany/%s/member/?page=%s" % (nom.split(":")[0], nom.split(":")[1]))
+
     def extraire(self):
-        # TODO: Implémenter l'extraction d'une page d'un ensemble de personnages
         self.ensemble = Personnages()
+        for item in self.soup.find_all("a", {"class": "entry__bg"}):
+            page = PagePersonnage(item.get("href").split("/")[3])
+            self.ensemble.ajouter(page)
