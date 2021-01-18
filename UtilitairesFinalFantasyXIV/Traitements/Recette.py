@@ -7,35 +7,39 @@
 # Description : Définition des traitements relatifs aux recettes
 # ==================================================================================================
 
+import os
 from UtilitairesFinalFantasyXIV.Pages.Recette import PageRecette, PageRecettes
 from UtilitairesFinalFantasyXIV.Structure.Traitement import Traitement
 
 
 class TraitementPageRecette(Traitement):
 
-    def __init__(self, donnee=str(), compteur=int(), nombre=int()):
+    def __init__(self, donnee=str(), compteur=int(), nombre=int(), fichier=str()):
         super().__init__(None)
         self.donnee = donnee
         self.compteur = compteur
         self.nombre = nombre
+        self.fichier = fichier
 
     def executer(self):
         self.afficher("Traitement de la recette %d sur %d" % (self.compteur, self.nombre))
-        recette = PageRecette(self.donnee).traiter()
-        self.afficher(recette.nom)  # TODO: Supprimer la trace
+        open(self.fichier, "a").write(PageRecette(self.donnee).traiter().nom + "\n")
 
 
 class TraitementPageRecettes(Traitement):
 
-    def __init__(self, nombre=int()):
+    def __init__(self, nombre=int(), fichier=str()):
         super().__init__(None)
         self.nombre = nombre
+        self.fichier = fichier
 
     def executer(self):
+        if os.path.exists(self.fichier):
+            os.remove(self.fichier)
         pages = list()
         for item in range(self.nombre):
             self.afficher("Traitement de l'ensemble de recettes %d sur %d" % (item + 1, self.nombre))
             pages += PageRecettes(str("%d" % (item + 1))).traiter().lister()
         for item, page in enumerate(pages):
-            TraitementPageRecette(page.nom, item + 1, len(pages)).executer()
+            TraitementPageRecette(page.nom, item + 1, len(pages), self.fichier).executer()
             if item > 0: break  # TODO: Supprimer le break

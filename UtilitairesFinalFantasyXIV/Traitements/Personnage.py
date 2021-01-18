@@ -7,36 +7,40 @@
 # Description : Définition des traitements relatifs aux personnages
 # ==================================================================================================
 
+import os
 from UtilitairesFinalFantasyXIV.Pages.Personnage import PagePersonnage, PagePersonnages
 from UtilitairesFinalFantasyXIV.Structure.Traitement import Traitement
 
 
 class TraitementPagePersonnage(Traitement):
 
-    def __init__(self, donnee=str(), compteur=int(), nombre=int()):
+    def __init__(self, donnee=str(), compteur=int(), nombre=int(), fichier=str()):
         super().__init__(None)
         self.donnee = donnee
         self.compteur = compteur
         self.nombre = nombre
+        self.fichier = fichier
 
     def executer(self):
         self.afficher("Traitement du personnage %d sur %d" % (self.compteur, self.nombre))
-        personnage = PagePersonnage(self.donnee).traiter()
-        self.afficher(personnage.nom)  # TODO: Supprimer la trace
+        open(self.fichier, "a").write(PagePersonnage(self.donnee).traiter().nom + "\n")
 
 
 class TraitementPagePersonnages(Traitement):
 
-    def __init__(self, donnee=str(), nombre=int()):
+    def __init__(self, donnee=str(), nombre=int(), fichier=str()):
         super().__init__(None)
         self.donnee = donnee
         self.nombre = nombre
+        self.fichier = fichier
 
     def executer(self):
+        if os.path.exists(self.fichier):
+            os.remove(self.fichier)
         pages = list()
         for item in range(self.nombre):
             self.afficher("Traitement de l'ensemble de personnages %d sur %d" % (item + 1, self.nombre))
             pages += PagePersonnages(str("%s:%d" % (self.donnee, item + 1))).traiter().lister()
         for item, page in enumerate(pages):
-            TraitementPagePersonnage(page.nom, item + 1, len(pages)).executer()
+            TraitementPagePersonnage(page.nom, item + 1, len(pages), self.fichier).executer()
             if item > 0: break  # TODO: Supprimer le break
