@@ -7,16 +7,19 @@
 # Description : Définition d'une classe et d'un ensemble de classes
 # ==================================================================================================
 
-from UtilitairesFinalFantasyXIV.Structure.Element import Element
+from UtilitairesFinalFantasyXIV.Structure.Element import SousElement
 from UtilitairesFinalFantasyXIV.Structure.Ensemble import Ensemble
 
 
-class Classe(Element):
+class Classe(SousElement):
 
     def __init__(self, nom=str(), categorie=str(), niveau=int()):
         super().__init__(nom)
         self.categorie = categorie
         self.niveau = niveau
+
+    def texte(self):
+        return str("%s:%d" % (self.nom, self.niveau))
 
     # Noms des classes
     PLD = str("Paladin")

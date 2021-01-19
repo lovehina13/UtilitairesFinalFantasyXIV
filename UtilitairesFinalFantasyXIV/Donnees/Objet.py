@@ -7,11 +7,11 @@
 # Description : Définition d'un objet et d'un ensemble d'objets
 # ==================================================================================================
 
-from UtilitairesFinalFantasyXIV.Structure.Element import Element
+from UtilitairesFinalFantasyXIV.Structure.Element import SousElement
 from UtilitairesFinalFantasyXIV.Structure.Ensemble import Ensemble
 
 
-class Objet(Element):
+class Objet(SousElement):
 
     def __init__(self, nom=str(), quantite=int()):
         super().__init__(nom)

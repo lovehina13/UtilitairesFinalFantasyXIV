@@ -23,7 +23,7 @@ class TraitementPageRecolte(Traitement):
 
     def executer(self):
         self.afficher("Traitement de la récolte %d sur %d" % (self.compteur, self.nombre))
-        open(self.fichier, "a").write(PageRecolte(self.donnee).traiter().nom + "\n")
+        open(self.fichier, "a", encoding="utf-8").write(PageRecolte(self.donnee).traiter().texte() + "\n")
 
 
 class TraitementPageRecoltes(Traitement):

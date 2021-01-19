@@ -23,7 +23,7 @@ class TraitementPageRecette(Traitement):
 
     def executer(self):
         self.afficher("Traitement de la recette %d sur %d" % (self.compteur, self.nombre))
-        open(self.fichier, "a").write(PageRecette(self.donnee).traiter().nom + "\n")
+        open(self.fichier, "a", encoding="utf-8").write(PageRecette(self.donnee).traiter().texte() + "\n")
 
 
 class TraitementPageRecettes(Traitement):

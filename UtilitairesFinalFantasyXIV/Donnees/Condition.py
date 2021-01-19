@@ -7,11 +7,11 @@
 # Description : Définition d'une condition et d'un ensemble de conditions
 # ==================================================================================================
 
-from UtilitairesFinalFantasyXIV.Structure.Element import Element
+from UtilitairesFinalFantasyXIV.Structure.Element import SousElement
 from UtilitairesFinalFantasyXIV.Structure.Ensemble import Ensemble
 
 
-class Condition(Element):
+class Condition(SousElement):
     pass
 
 

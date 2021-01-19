@@ -23,7 +23,7 @@ class TraitementPagePersonnage(Traitement):
 
     def executer(self):
         self.afficher("Traitement du personnage %d sur %d" % (self.compteur, self.nombre))
-        open(self.fichier, "a").write(PagePersonnage(self.donnee).traiter().nom + "\n")
+        open(self.fichier, "a", encoding="utf-8").write(PagePersonnage(self.donnee).traiter().texte() + "\n")
 
 
 class TraitementPagePersonnages(Traitement):

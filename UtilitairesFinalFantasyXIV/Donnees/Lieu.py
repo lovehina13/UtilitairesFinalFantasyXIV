@@ -7,11 +7,11 @@
 # Description : Définition d'un lieu et d'un ensemble de lieux
 # ==================================================================================================
 
-from UtilitairesFinalFantasyXIV.Structure.Element import Element
+from UtilitairesFinalFantasyXIV.Structure.Element import SousElement
 from UtilitairesFinalFantasyXIV.Structure.Ensemble import Ensemble
 
 
-class Lieu(Element):
+class Lieu(SousElement):
 
     def __init__(self, nom=str(), zone=str(), region=str(), niveau=int(), temporaire=bool()):
         super().__init__(nom)
