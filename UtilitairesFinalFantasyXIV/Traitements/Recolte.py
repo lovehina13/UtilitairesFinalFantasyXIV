@@ -42,4 +42,3 @@ class TraitementPageRecoltes(Traitement):
             pages += PageRecoltes(str("%d" % (item + 1))).traiter().lister()
         for item, page in enumerate(pages):
             TraitementPageRecolte(page.nom, item + 1, len(pages), self.fichier).executer()
-            if item > 0: break  # TODO: Supprimer le break
