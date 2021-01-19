@@ -15,14 +15,14 @@ from UtilitairesFinalFantasyXIV.Structure.Ensemble import Ensemble
 class Recolte(Element):
 
     def __init__(self, nom=str(), classe=str(), sousClasse=str(), niveau=int(), categorie=str(),
-                 pointsRecolte=Lieux()):
+                 pointsRecolte=None):
         super().__init__(nom)
         self.nom = nom
         self.classe = classe
         self.sousClasse = sousClasse
         self.niveau = niveau
         self.categorie = categorie
-        self.pointsRecolte = pointsRecolte
+        self.pointsRecolte = pointsRecolte if isinstance(pointsRecolte, Lieux) else Lieux()
 
 
 class Recoltes(Ensemble):

@@ -16,22 +16,21 @@ from UtilitairesFinalFantasyXIV.Structure.Ensemble import Ensemble
 class Recette(Element):
 
     def __init__(self, nom=str(), classe=str(), niveau=int(), livre=str(), categorie=str(),
-                 materiaux=Objets(), cristaux=Objets(), totalFabrique=int(), difficulte=int(),
-                 solidite=int(), qualiteMaximum=int(), qualite=str(), conditions=Conditions(),
-                 degre=int()):
+                 materiaux=None, cristaux=None, totalFabrique=int(), difficulte=int(),
+                 solidite=int(), qualiteMaximum=int(), qualite=str(), conditions=None, degre=int()):
         super().__init__(nom)
         self.classe = classe
         self.niveau = niveau
         self.livre = livre
         self.categorie = categorie
-        self.materiaux = materiaux
-        self.cristaux = cristaux
+        self.materiaux = materiaux if isinstance(materiaux, Objets) else Objets()
+        self.cristaux = cristaux if isinstance(cristaux, Objets) else Objets()
         self.totalFabrique = totalFabrique
         self.difficulte = difficulte
         self.solidite = solidite
         self.qualiteMaximum = qualiteMaximum
         self.qualite = qualite
-        self.conditions = conditions
+        self.conditions = conditions if isinstance(conditions, Conditions) else Conditions()
         self.degre = degre
 
 

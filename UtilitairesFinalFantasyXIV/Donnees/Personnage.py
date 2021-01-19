@@ -16,7 +16,7 @@ class Personnage(Element):
 
     def __init__(self, nom=str(), titre=str(), serveur=str(), race=str(), ethnie=str(), sexe=str(),
                  dateNaissance=str(), divinite=str(), citeDepart=str(), grandeCompagnie=str(),
-                 rang=str(), compagnieLibre=str(), classes=Classes()):
+                 rang=str(), compagnieLibre=str(), classes=None):
         super().__init__(nom)
         self.titre = titre
         self.serveur = serveur
@@ -29,7 +29,7 @@ class Personnage(Element):
         self.grandeCompagnie = grandeCompagnie
         self.rang = rang
         self.compagnieLibre = compagnieLibre
-        self.classes = classes
+        self.classes = classes if isinstance(classes, Classes) else Classes()
 
 
 class Personnages(Ensemble):
