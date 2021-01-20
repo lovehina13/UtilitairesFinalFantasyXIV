@@ -11,7 +11,7 @@ from UtilitairesFinalFantasyXIV.Donnees.Recette import Recettes
 from UtilitairesFinalFantasyXIV.Structure.Collection import Collection
 
 
-class CollectionRecettes(Collection):
+class CollectionRecettes(Collection, Recettes):
 
     def charger(self):
         self.elements = Recettes.creer(open(self.fichier, "r", encoding="utf-8").read()).elements

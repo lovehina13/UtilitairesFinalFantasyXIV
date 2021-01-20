@@ -11,7 +11,7 @@ from UtilitairesFinalFantasyXIV.Donnees.Recolte import Recoltes
 from UtilitairesFinalFantasyXIV.Structure.Collection import Collection
 
 
-class CollectionRecoltes(Collection):
+class CollectionRecoltes(Collection, Recoltes):
 
     def charger(self):
         self.elements = Recoltes.creer(open(self.fichier, "r", encoding="utf-8").read()).elements

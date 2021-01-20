@@ -11,7 +11,7 @@ from UtilitairesFinalFantasyXIV.Donnees.Personnage import Personnages
 from UtilitairesFinalFantasyXIV.Structure.Collection import Collection
 
 
-class CollectionPersonnages(Collection):
+class CollectionPersonnages(Collection, Personnages):
 
     def charger(self):
         self.elements = Personnages.creer(open(self.fichier, "r", encoding="utf-8").read()).elements
