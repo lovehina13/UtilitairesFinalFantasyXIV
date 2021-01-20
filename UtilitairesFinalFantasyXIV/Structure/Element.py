@@ -18,6 +18,10 @@ class Element:
         return "|".join([item.texte() if hasattr(item, "texte") else str(item)
                          for _, item in self.__dict__.items()])
 
+    @staticmethod
+    def creer():
+        return Element()  # Note: Implémenter la création pour chaque élément
+
 
 class SousElement(Element):
 
@@ -25,3 +29,7 @@ class SousElement(Element):
         # Note: Réimplémenter le format texte pour chaque sous-élément si nécessaire
         return ":".join([item.texte() if hasattr(item, "texte") else str(item)
                          for _, item in self.__dict__.items()])
+
+    @staticmethod
+    def creer():
+        return SousElement()  # Note: Implémenter la création pour chaque sous-élément

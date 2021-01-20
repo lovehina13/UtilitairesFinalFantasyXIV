@@ -34,3 +34,7 @@ class Ensemble:
     def texte(self):
         # Note: Réimplémenter le format texte pour chaque ensemble si nécessaire
         return ",".join([element.texte() for _, element in self.elements.items()])
+
+    @staticmethod
+    def creer():
+        return Ensemble()  # Note: Implémenter la création pour chaque ensemble
