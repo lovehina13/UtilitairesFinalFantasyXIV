@@ -20,10 +20,10 @@ class Ensemble:
 
     def ajouter(self, element):
         if isinstance(element, Element):
-            self.elements[element.nom] = element
+            self.elements[element.identifiant()] = element
 
-    def recuperer(self, nom):
-        return self.elements[nom] if nom in self.elements else None
+    def recuperer(self, identifiant):
+        return self.elements[identifiant] if identifiant in self.elements else None
 
     # Note: Obligatoire de définir un import local pour contourner un import cyclique
     def lister(self, filtres=None):

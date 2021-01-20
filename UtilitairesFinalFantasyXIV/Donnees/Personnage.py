@@ -31,6 +31,9 @@ class Personnage(Element):
         self.compagnieLibre = compagnieLibre
         self.classes = classes if isinstance(classes, Classes) else Classes()
 
+    def identifiant(self):
+        return str("%s:%s" % (self.nom, self.serveur))
+
     @staticmethod
     def creer(texte):
         items = texte.split("|")

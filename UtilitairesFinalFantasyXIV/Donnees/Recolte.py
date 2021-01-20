@@ -24,6 +24,9 @@ class Recolte(Element):
         self.categorie = categorie
         self.pointsRecolte = pointsRecolte if isinstance(pointsRecolte, Lieux) else Lieux()
 
+    def identifiant(self):
+        return str("%s:%s" % (self.nom, self.sousClasse))
+
     @staticmethod
     def creer(texte):
         items = texte.split("|")

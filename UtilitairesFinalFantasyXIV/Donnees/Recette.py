@@ -33,6 +33,9 @@ class Recette(Element):
         self.conditions = conditions if isinstance(conditions, Conditions) else Conditions()
         self.degre = degre
 
+    def identifiant(self):
+        return str("%s:%s" % (self.nom, self.classe))
+
     @staticmethod
     def creer(texte):
         items = texte.split("|")

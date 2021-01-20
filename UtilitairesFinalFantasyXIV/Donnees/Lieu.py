@@ -21,6 +21,9 @@ class Lieu(SousElement):
         self.niveau = niveau
         self.temporaire = temporaire
 
+    def identifiant(self):
+        return str("%s:%s" % (self.nom, self.niveau))
+
     @staticmethod
     def creer(texte):
         items = texte.split(":")

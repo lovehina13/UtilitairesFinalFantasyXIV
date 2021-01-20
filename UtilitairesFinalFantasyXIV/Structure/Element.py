@@ -13,6 +13,9 @@ class Element:
     def __init__(self, nom=str()):
         self.nom = nom
 
+    def identifiant(self):
+        return self.nom  # Note: Réimplémenter l'identifiant pour chaque élément si nécessaire
+
     def texte(self):
         # Note: Réimplémenter le format texte pour chaque élément si nécessaire
         return "|".join([item.texte() if hasattr(item, "texte") else str(item)
