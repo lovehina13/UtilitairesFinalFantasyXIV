@@ -1,0 +1,863 @@
+Minerai de cuivre|Mineur|Extraction de minerai|1|Pierre|Martelterre:Thanalan occidental:Thanalan:5:False,Bassin des Désépinés:Thanalan central:Thanalan:5:False
+Éclat de feu|Mineur|Extraction de minerai|1|Cristal|Martelterre:Thanalan occidental:Thanalan:5:False,Les Os desséchés:Thanalan oriental:Thanalan:20:False,Bois du Renouveau:Thanalan oriental:Thanalan:30:False,Les Os desséchés:Thanalan oriental:Thanalan:45:False
+Éclat de glace|Mineur|Extraction de minerai|1|Cristal|Vallée du Crâne:Noscea occidentale:Noscea:20:False,Hauts-Chemins:Forêt du sud:Noscea:25:False,Le Don d'Urth:Forêt du sud:Noscea:40:False,L'Arête blanche:Hautes terres du Coerthas central:Noscea:5:False,Tête du dragon:Hautes terres du Coerthas central:Noscea:40:False
+Éclat de vent|Mineur|Extraction de minerai|1|Cristal|Havre des Renouées:Forêt centrale:Forêt de Sombrelinceul:35:False,Bassin des Désépinés:Thanalan central:Forêt de Sombrelinceul:5:False,Brumebleue:Thanalan septentrional:Forêt de Sombrelinceul:50:False
+Éclat de terre|Mineur|Extraction de minerai|1|Cristal|La Cédrière:Basse-Noscea:Noscea:10:False,Lac d'Airain:Haute-Noscea:Noscea:45:False,Ruines de Gelmorra:Forêt du nord:Noscea:5:False,Futaie des Murmures:Forêt du nord:Noscea:10:False,Sommière de la Paix:Forêt du nord:Noscea:20:False
+Éclat de foudre|Mineur|Extraction de minerai|1|Cristal|Bassin des Désépinés:Thanalan central:Thanalan:5:False,Roncenoire:Thanalan central:Thanalan:10:False,Désert de Sagolii:Thanalan méridional:Thanalan:35:False,L'Enchevêtrement:Mor Dhona:Thanalan:5:False
+Éclat d'eau|Mineur|Extraction de minerai|1|Cristal|Rives sanglantes:Noscea orientale:Noscea:35:False,Martelterre:Thanalan occidental:Noscea:5:False,Martelterre:Thanalan occidental:Noscea:10:False,Confins d'Horizon:Thanalan occidental:Noscea:15:False
+Eau boueuse|Mineur|Extraction de minerai|3|Réactif|Martelterre:Thanalan occidental:Thanalan:5:False,Bassin des Désépinés:Thanalan central:Thanalan:5:False
+Fragment d'os|Mineur|Extraction de minerai|5|Os|Bassin des Désépinés:Thanalan central:Thanalan:5:False
+Minerai d'étain|Mineur|Extraction de minerai|6|Pierre|Martelterre:Thanalan occidental:Thanalan:10:False,Roncenoire:Thanalan central:Thanalan:10:False
+Pierre de soleil brute|Mineur|Extraction de minerai|7|Pierre|La Cédrière:Basse-Noscea:Noscea:10:False
+Lapis-lazuli brut|Mineur|Extraction de minerai|7|Pierre|Futaie des Murmures:Forêt du nord:Forêt de Sombrelinceul:10:False
+Fémur sale|Mineur|Extraction de minerai|8|Os|Martelterre:Thanalan occidental:Thanalan:10:False,Roncenoire:Thanalan central:Thanalan:10:False
+Minerai de zinc|Mineur|Extraction de minerai|9|Pierre|Martelterre:Thanalan occidental:Thanalan:10:False,Roncenoire:Thanalan central:Thanalan:10:False
+Éclat d'obsidienne|Mineur|Extraction de minerai|10|Pierre|Martelterre:Thanalan occidental:Thanalan:10:False
+Argile|Mineur|Extraction de minerai|10|Réactif|Futaie des Murmures:Forêt du nord:Forêt de Sombrelinceul:10:False
+Minerai de fer|Mineur|Extraction de minerai|14|Pierre|Confins d'Horizon:Thanalan occidental:Thanalan:15:False
+Malachite brute|Mineur|Extraction de minerai|16|Pierre|Les Os desséchés:Thanalan oriental:Thanalan:20:False
+Sphène brut|Mineur|Extraction de minerai|17|Pierre|Sommière de la Paix:Forêt du nord:Forêt de Sombrelinceul:20:False
+Fluorine brute|Mineur|Extraction de minerai|17|Pierre|Les Os desséchés:Thanalan oriental:Thanalan:20:False
+Danburite brute|Mineur|Extraction de minerai|18|Pierre|Vallée du Crâne:Noscea occidentale:Noscea:20:False
+Telline du levant|Mineur|Extraction de minerai|19|Produit de la pêche|Vallée du Crâne:Noscea occidentale:Noscea:20:False
+Alun|Mineur|Extraction de minerai|19|Réactif|Les Os desséchés:Thanalan oriental:Thanalan:20:False
+Eau effervescente|Mineur|Extraction de minerai|24|Réactif|Hauts-Chemins:Forêt du sud:Forêt de Sombrelinceul:25:False
+Minerai d'argent|Mineur|Extraction de minerai|25|Pierre|Hauts-Chemins:Forêt du sud:Forêt de Sombrelinceul:25:False
+Cristal de feu|Mineur|Extraction de minerai|26|Cristal|Forêt des chocobos:Avant-pays dravanien:Dravania:55:False,Terres fumantes:Avant-pays dravanien:Dravania:55:False,Déclin d'Avalonia:Avant-pays dravanien:Dravania:60:False,Chaîne du Gensui:Yanxia:Dravania:65:False,Railleries d'au-delà:Yanxia:Dravania:70:False
+Cristal de glace|Mineur|Extraction de minerai|26|Cristal|Deux-Rivières:Hautes terres du Coerthas occidental:Coerthas:50:False,Prairie de Gorgagne:Hautes terres du Coerthas occidental:Coerthas:55:False,Rougebord:Hautes terres du Coerthas occidental:Coerthas:60:False,Lit d'os:Hautes terres du Coerthas occidental:Coerthas:65:False,Hautes berges:Les Lacs:Coerthas:70:True,Jardins de la Reine:Les Lacs:Coerthas:75:False
+Cristal de vent|Mineur|Extraction de minerai|26|Cristal|Quartier des Fabricateurs:Arrière-pays dravanien:Dravania:60:False,Confins est:Les Marges:Dravania:60:False,Roches rayées:Les Marges:Dravania:65:False
+Cristal de terre|Mineur|Extraction de minerai|26|Cristal|Thermes d'Ouestebourg:L'Écume des cieux de Dravania:Dravania:75:False,Pierres-qui-dorment:Les Pics:Dravania:60:False
+Cristal de foudre|Mineur|Extraction de minerai|26|Cristal|Voor Sian Siran:L'Écume des cieux d'Abalathia:Abalathia:60:False,Calcul de Ragill:Steppe d'Azim:Abalathia:70:True,Ivraie:Grand-Lac:Abalathia:75:False,Porte de l'Exarque:Grand-Lac:Abalathia:80:True,Église de l'Aurore:Grand-Lac:Abalathia:80:False
+Cristal d'eau|Mineur|Extraction de minerai|26|Cristal|Voor Sian Siran:L'Écume des cieux d'Abalathia:Abalathia:60:False,Dos-brisé:L'Écume des cieux d'Abalathia:Abalathia:75:False,Fosse de Turquoise:Mer de Rubis:Abalathia:60:False,Couvercle des enfers:Mer de Rubis:Abalathia:65:False,Thysm Lran:Il Mheg:Abalathia:70:False,Villégiature du Lettré:Il Mheg:Abalathia:75:False,Astropole des K'mul:Rak'tika:Abalathia:80:True,La Frairie sauvage:Rak'tika:Abalathia:80:False
+Éclat d'obsidienne de wyverne|Mineur|Extraction de minerai|28|Pierre|Bois du Renouveau:Thanalan oriental:Thanalan:30:False
+Salpêtre|Mineur|Extraction de minerai|30|Réactif|Bois du Renouveau:Thanalan oriental:Thanalan:30:False
+Granit|Mineur|Extraction de minerai|31|Pierre|Havre des Renouées:Forêt centrale:Forêt de Sombrelinceul:35:False
+Grenat brut|Mineur|Extraction de minerai|31|Pierre|Rives sanglantes:Noscea orientale:Noscea:35:False
+Petit ver|Mineur|Extraction de minerai|31|Divers|Désert de Sagolii:Thanalan méridional:Thanalan:35:False
+Héliodore brut|Mineur|Extraction de minerai|32|Pierre|Désert de Sagolii:Thanalan méridional:Thanalan:35:False
+Goshénite brute|Mineur|Extraction de minerai|33|Pierre|Rives sanglantes:Noscea orientale:Noscea:35:False
+Péridot brut|Mineur|Extraction de minerai|33|Pierre|Havre des Renouées:Forêt centrale:Forêt de Sombrelinceul:35:False
+Minerai de mithril|Mineur|Extraction de minerai|34|Pierre|Désert de Sagolii:Thanalan méridional:Thanalan:35:False
+Améthyste brute|Mineur|Extraction de minerai|34|Pierre|Havre des Renouées:Forêt centrale:Forêt de Sombrelinceul:35:False
+Aigue-marine brute|Mineur|Extraction de minerai|35|Pierre|Rives sanglantes:Noscea orientale:Noscea:35:False
+Tourmaline brute|Mineur|Extraction de minerai|36|Pierre|Le Don d'Urth:Forêt du sud:Forêt de Sombrelinceul:40:False
+Spinelle brut|Mineur|Extraction de minerai|37|Pierre|Le Don d'Urth:Forêt du sud:Forêt de Sombrelinceul:40:False
+Zircon brut|Mineur|Extraction de minerai|38|Pierre|Tête du dragon:Hautes terres du Coerthas central:Coerthas:40:False
+Jade|Mineur|Extraction de minerai|39|Pierre|Tête du dragon:Hautes terres du Coerthas central:Coerthas:40:False
+Alun noir|Mineur|Extraction de minerai|40|Réactif|Le Don d'Urth:Forêt du sud:Forêt de Sombrelinceul:40:False
+Turquoise brute|Mineur|Extraction de minerai|41|Pierre|Lac d'Airain:Haute-Noscea:Noscea:45:False
+Minerai d'électrum|Mineur|Extraction de minerai|43|Pierre|Lac d'Airain:Haute-Noscea:Noscea:45:False
+Ambre brut|Mineur|Extraction de minerai|44|Pierre|Les Os desséchés:Thanalan oriental:Thanalan:45:False
+Rubellite brute|Mineur|Extraction de minerai|45|Pierre|Les Os desséchés:Thanalan oriental:Thanalan:45:False
+Œuf de basilic|Mineur|Extraction de minerai|46|Pierre|Brumebleue:Thanalan septentrional:Thanalan:50:False
+Minerai de cobalt|Mineur|Extraction de minerai|47|Pierre|Brumebleue:Thanalan septentrional:Thanalan:50:False
+Carapace de tortue marine|Mineur|Extraction de minerai|49|Os|Brumebleue:Thanalan septentrional:Thanalan:50:False
+Corne d'ogre|Mineur|Extraction de minerai|50|Os|Brumebleue:Thanalan septentrional:Thanalan:50:False
+Agrégat de glace|Mineur|Extraction de minerai|50|Cristal|Hautes berges:Les Lacs:Gyr Abania:70:True
+Agrégat de foudre|Mineur|Extraction de minerai|50|Cristal|Calcul de Ragill:Steppe d'Azim:Othard:70:True,Porte de l'Exarque:Grand-Lac:Othard:80:True
+Agrégat d'eau|Mineur|Extraction de minerai|50|Cristal|Astropole des K'mul:Rak'tika:Norvrandt:80:True
+Minerai d'or|Mineur|Extraction de minerai|50|Pierre|Mur incandescent:Thanalan oriental:Thanalan:50:True
+Minerai de sombracier|Mineur|Extraction de minerai|50|Pierre|Tête du dragon:Hautes terres du Coerthas central:Coerthas:50:True
+Larve de coblyn|Mineur|Extraction de minerai|50|Mascotte|Mur incandescent:Thanalan oriental:Thanalan:50:True
+Cristal terni|Mineur|Extraction de minerai|50|Pierre|Baie de Moraby:Basse-Noscea:Noscea:50:True,Roncenoire:Thanalan central:Noscea:50:True,Mur incandescent:Thanalan oriental:Noscea:50:True,Eaux-Mortes:Thanalan méridional:Noscea:50:True,Brumebleue:Thanalan septentrional:Noscea:50:True,Poussée de Raubahn:Thanalan septentrional:Noscea:50:True,Tête du dragon:Hautes terres du Coerthas central:Noscea:50:True
+Ver grégaire|Mineur|Extraction de minerai|50|Divers|Baie de Moraby:Basse-Noscea:Noscea:50:True,Roncenoire:Thanalan central:Noscea:50:True,Mur incandescent:Thanalan oriental:Noscea:50:True,Eaux-Mortes:Thanalan méridional:Noscea:50:True,Brumebleue:Thanalan septentrional:Noscea:50:True,Poussée de Raubahn:Thanalan septentrional:Noscea:50:True,Tête du dragon:Hautes terres du Coerthas central:Noscea:50:True
+Minerai de ferbérite|Mineur|Extraction de minerai|50|Pierre|Poussée de Raubahn:Thanalan septentrional:Thanalan:50:True
+Pépite d'or natif|Mineur|Extraction de minerai|50|Pierre|Roncenoire:Thanalan central:Thanalan:50:True
+Rubis brut|Mineur|Extraction de minerai|50|Pierre|Baie de Moraby:Basse-Noscea:Noscea:50:True
+Diamant brut|Mineur|Extraction de minerai|50|Pierre|Roncenoire:Thanalan central:Thanalan:50:True
+Émeraude brute|Mineur|Extraction de minerai|50|Pierre|Roncenoire:Thanalan central:Thanalan:50:True
+Topaze brute|Mineur|Extraction de minerai|50|Pierre|Poussée de Raubahn:Thanalan septentrional:Thanalan:50:True
+Cordiérite brute|Mineur|Extraction de minerai|50|Pierre|Poussée de Raubahn:Thanalan septentrional:Thanalan:50:True
+Saphir brut|Mineur|Extraction de minerai|50|Pierre|Baie de Moraby:Basse-Noscea:Noscea:50:True
+Agrégat de matière sombre|Mineur|Extraction de minerai|50|Catalyseur|Baie de Moraby:Basse-Noscea:Noscea:50:True,Roncenoire:Thanalan central:Noscea:50:True,Mur incandescent:Thanalan oriental:Noscea:50:True,Eaux-Mortes:Thanalan méridional:Noscea:50:True,Brumebleue:Thanalan septentrional:Noscea:50:True,Poussée de Raubahn:Thanalan septentrional:Noscea:50:True,Tête du dragon:Hautes terres du Coerthas central:Noscea:50:True,Deux-Rivières:Hautes terres du Coerthas occidental:Noscea:50:True
+Minerai de cuivre jaune|Mineur|Extraction de minerai|50|Pierre|Deux-Rivières:Hautes terres du Coerthas occidental:Coerthas:50:True
+Minerai de platine|Mineur|Extraction de minerai|50|Pierre|Eaux-Mortes:Thanalan méridional:Thanalan:50:True
+Éclat d'obsidienne de dragon|Mineur|Extraction de minerai|50|Pierre|Deux-Rivières:Hautes terres du Coerthas occidental:Coerthas:50:False
+Premier œuf de basilic|Mineur|Extraction de minerai|50|Pierre|Brumebleue:Thanalan septentrional:Thanalan:50:True
+Minerai de pyrite|Mineur|Extraction de minerai|51|Pierre|Terres fumantes:Avant-pays dravanien:Dravania:55:True
+Agate brute|Mineur|Extraction de minerai|51|Pierre|Terres fumantes:Avant-pays dravanien:Dravania:55:False
+Œil-de-tigre brut|Mineur|Extraction de minerai|52|Pierre|Terres fumantes:Avant-pays dravanien:Dravania:55:False
+Minerai de mithrite|Mineur|Extraction de minerai|53|Pierre|Prairie de Gorgagne:Hautes terres du Coerthas occidental:Coerthas:55:False
+Minerai de chalcocite|Mineur|Extraction de minerai|53|Pierre|Terres fumantes:Avant-pays dravanien:Dravania:55:True
+Larimar brut|Mineur|Extraction de minerai|53|Pierre|Prairie de Gorgagne:Hautes terres du Coerthas occidental:Coerthas:55:False
+Minerai de limonite|Mineur|Extraction de minerai|54|Pierre|Terres fumantes:Avant-pays dravanien:Dravania:55:True
+Mormorion brut|Mineur|Extraction de minerai|54|Pierre|Prairie de Gorgagne:Hautes terres du Coerthas occidental:Coerthas:55:False
+Eau de source de Dravania|Mineur|Extraction de minerai|54|Réactif|Terres fumantes:Avant-pays dravanien:Dravania:55:False
+Minerai de titane|Mineur|Extraction de minerai|55|Pierre|Forêt des chocobos:Avant-pays dravanien:Dravania:55:False
+Rubis étoilé brut|Mineur|Extraction de minerai|55|Pierre|Forêt des chocobos:Avant-pays dravanien:Dravania:55:False
+Saphir étoilé brut|Mineur|Extraction de minerai|55|Pierre|Forêt des chocobos:Avant-pays dravanien:Dravania:55:False
+Minerai d'hématite|Mineur|Extraction de minerai|57|Pierre|Quartier des Sages:Arrière-pays dravanien:Dravania:60:True
+Opale brute|Mineur|Extraction de minerai|57|Pierre|Déclin d'Avalonia:Avant-pays dravanien:Dravania:60:False
+Eau de source d'Abalathia|Mineur|Extraction de minerai|57|Réactif|Voor Sian Siran:L'Écume des cieux d'Abalathia:Abalathia:60:False
+Pièce de monnaie ancienne de Radz-at-Han|Mineur|Extraction de minerai|57|Divers|Quartier des Fabricateurs:Arrière-pays dravanien:Dravania:60:False
+Minerai de durargent|Mineur|Extraction de minerai|58|Pierre|Quartier des Fabricateurs:Arrière-pays dravanien:Dravania:60:False
+Cornaline brute|Mineur|Extraction de minerai|58|Pierre|Déclin d'Avalonia:Avant-pays dravanien:Dravania:60:False
+Stalagmite de glace|Mineur|Extraction de minerai|58|Réactif|Rougebord:Hautes terres du Coerthas occidental:Coerthas:60:False
+Minerai de cuprite|Mineur|Extraction de minerai|59|Pierre|Quartier des Sages:Arrière-pays dravanien:Dravania:60:True
+Citrine brute|Mineur|Extraction de minerai|59|Pierre|Rougebord:Hautes terres du Coerthas occidental:Coerthas:60:False
+Sable d'aurum regis|Mineur|Extraction de minerai|59|Pierre|Voor Sian Siran:L'Écume des cieux d'Abalathia:Abalathia:60:False
+Minerai d'adamant|Mineur|Extraction de minerai|60|Pierre|Quadrant bêta:Azys Lla:Abalathia:60:True
+Jade du couchant|Mineur|Extraction de minerai|60|Pierre|Rougebord:Hautes terres du Coerthas occidental:Coerthas:60:False,Voor Sian Siran:L'Écume des cieux d'Abalathia:Coerthas:60:False,Déclin d'Avalonia:Avant-pays dravanien:Coerthas:60:False,Quartier des Fabricateurs:Arrière-pays dravanien:Coerthas:60:False
+Chrysolite brute|Mineur|Extraction de minerai|60|Pierre|Quartier des Fabricateurs:Arrière-pays dravanien:Dravania:60:False
+Éclat d'obsidienne de wyrm|Mineur|Extraction de minerai|60|Pierre|Quartier des Fabricateurs:Arrière-pays dravanien:Dravania:60:False
+Œil-de-verre|Mineur|Extraction de minerai|60|Divers|Voor Sian Siran:L'Écume des cieux d'Abalathia:Abalathia:60:False
+Sablétoile|Mineur|Extraction de minerai|60|Divers|Confins est:Les Marges:Gyr Abania:60:False
+Koban de Shishu|Mineur|Extraction de minerai|60|Divers|Fosse de Turquoise:Mer de Rubis:Othard:60:False
+Bijou de la dynastie des Cotter|Mineur|Extraction de minerai|60|Divers|Confins est:Les Marges:Gyr Abania:60:False
+Corne de bête|Mineur|Extraction de minerai|60|Os|Déclin d'Avalonia:Avant-pays dravanien:Dravania:60:False
+Pigment arc-en-ciel|Mineur|Extraction de minerai|60|Teinture|Déclin d'Avalonia:Avant-pays dravanien:Dravania:60:False
+Pigments gyrabaniens|Mineur|Extraction de minerai|60|Divers|Pierres-qui-dorment:Les Pics:Gyr Abania:60:False
+Racine de kudzu doré|Mineur|Extraction de minerai|60|Divers|Pierres-qui-dorment:Les Pics:Gyr Abania:60:False
+Triphane brute|Mineur|Extraction de minerai|60|Pierre|Roches rayées:Les Marges:Gyr Abania:60:True
+Alun gyrabanien|Mineur|Extraction de minerai|60|Réactif|Confins est:Les Marges:Gyr Abania:60:False
+Eau de Gyr Abania|Mineur|Extraction de minerai|61|Réactif|Roches rayées:Les Marges:Gyr Abania:65:False
+Disthène brut|Mineur|Extraction de minerai|62|Pierre|Roches rayées:Les Marges:Gyr Abania:65:False
+Pièce de harpon|Mineur|Extraction de minerai|62|Divers|Roches rayées:Les Marges:Gyr Abania:65:False
+Minerai de cupronickel|Mineur|Extraction de minerai|63|Pierre|Couvercle des enfers:Mer de Rubis:Othard:65:False
+Spinelle étoilé brut|Mineur|Extraction de minerai|63|Pierre|Côte orientale d'Othard:Mer de Rubis:Othard:65:True
+Liquide isolant|Mineur|Extraction de minerai|63|Divers|Lit d'os:Hautes terres du Coerthas occidental:Coerthas:65:False
+Eau de roche|Mineur|Extraction de minerai|64|Réactif|Chaîne du Gensui:Yanxia:Othard:65:False
+Braises|Mineur|Extraction de minerai|64|Divers|Couvercle des enfers:Mer de Rubis:Othard:65:False
+Minerai de fer beitetsu|Mineur|Extraction de minerai|65|Pierre|Chaîne du Gensui:Yanxia:Othard:65:False
+Matière première pour alambic|Mineur|Extraction de minerai|65|Divers|Chaîne du Gensui:Yanxia:Othard:65:False
+Schörl|Mineur|Extraction de minerai|66|Pierre|Calcul de Ragill:Steppe d'Azim:Othard:70:True
+Azurite brute|Mineur|Extraction de minerai|66|Pierre|L'Imposant Calme:Steppe d'Azim:Othard:70:True
+Minerai de durium|Mineur|Extraction de minerai|68|Pierre|Railleries d'au-delà:Yanxia:Othard:70:False
+Jade impérial brut|Mineur|Extraction de minerai|68|Pierre|Vallée aux Prismes:Yanxia:Othard:70:True
+Matière première pour pièce décorative du Bord du gouffre|Mineur|Extraction de minerai|68|Divers|Hautes berges:Les Lacs:Gyr Abania:70:False
+Minerai de molybdène|Mineur|Extraction de minerai|70|Pierre|Hautes berges:Les Lacs:Gyr Abania:70:False
+Rhodonite brute|Mineur|Extraction de minerai|70|Pierre|Rocrouillé:Les Pics:Gyr Abania:70:True
+Élément nécessaire à une fermentation|Mineur|Extraction de minerai|70|Divers|Railleries d'au-delà:Yanxia:Othard:70:False
+Minerai brillant|Mineur|Extraction de minerai|70|Divers|Thysm Lran:Il Mheg:Norvrandt:70:False
+Almandin|Mineur|Extraction de minerai|70|Pierre|Hautes berges:Les Lacs:Gyr Abania:70:True
+Rhodolite|Mineur|Extraction de minerai|70|Pierre|Hautes berges:Les Lacs:Gyr Abania:70:True
+Hématite brute|Mineur|Extraction de minerai|70|Pierre|Potager du gouverneur:Kholusia:Norvrandt:70:True
+Terreau de Yanxia|Mineur|Extraction de minerai|70|Pierre|Hautes berges:Les Lacs:Gyr Abania:70:True,Calcul de Ragill:Steppe d'Azim:Gyr Abania:70:True
+Minerai d'or franc|Mineur|Extraction de minerai|72|Pierre|Villégiature du Lettré:Il Mheg:Norvrandt:75:False
+Diaspore brute|Mineur|Extraction de minerai|72|Pierre|Bas-fond des Sextuplés:Il Mheg:Norvrandt:75:True
+Matériaux d'ustensiles de couture pour dragon|Mineur|Extraction de minerai|72|Divers|Thermes d'Ouestebourg:L'Écume des cieux de Dravania:Dravania:75:False
+Eau de source des hauts plateaux|Mineur|Extraction de minerai|73|Réactif|Villégiature du Lettré:Il Mheg:Norvrandt:75:False
+Matériaux d'outils d'artisanat pour dragon|Mineur|Extraction de minerai|73|Divers|Dos-brisé:L'Écume des cieux d'Abalathia:Abalathia:75:False
+Déjection d'animal sauvage|Mineur|Extraction de minerai|73|Autre|Ivraie:Grand-Lac:Norvrandt:75:False
+Pierre d'azuresprit|Mineur|Extraction de minerai|74|Pierre|Ivraie:Grand-Lac:Norvrandt:75:False
+Lazurite brute|Mineur|Extraction de minerai|74|Pierre|Cabane des clercs:Rak'tika:Norvrandt:75:True
+Matériaux d'imprimerie|Mineur|Extraction de minerai|75|Divers|Jardins de la Reine:Les Lacs:Gyr Abania:75:False
+Résidu alimentaire d'animal géant|Mineur|Extraction de minerai|75|Autre|Villégiature du Lettré:Il Mheg:Norvrandt:75:False
+Pierre de rafale|Mineur|Extraction de minerai|76|Pierre|Astropole des K'mul:Rak'tika:Norvrandt:80:True
+Pierre irradiante|Mineur|Extraction de minerai|76|Pierre|Porte de l'Exarque:Grand-Lac:Norvrandt:80:True
+Triphylite brute|Mineur|Extraction de minerai|76|Pierre|La Louche:Amh Araeng:Norvrandt:80:True
+Eau très effervescente|Mineur|Extraction de minerai|76|Réactif|La Frairie sauvage:Rak'tika:Norvrandt:80:False
+Minerai de bronze titané|Mineur|Extraction de minerai|77|Pierre|Église de l'Aurore:Grand-Lac:Norvrandt:80:False
+Pétalite brute|Mineur|Extraction de minerai|78|Pierre|Ivraie:Grand-Lac:Norvrandt:80:True
+Eau souterraine|Mineur|Extraction de minerai|78|Réactif|Église de l'Aurore:Grand-Lac:Norvrandt:80:False
+Trace d'animal géant|Mineur|Extraction de minerai|78|Autre|La Frairie sauvage:Rak'tika:Norvrandt:80:False
+Minerai de mithril noble|Mineur|Extraction de minerai|80|Pierre|Église de l'Aurore:Grand-Lac:Norvrandt:80:False
+Onyx brut|Mineur|Extraction de minerai|80|Pierre|Gorges de Caliban:La Tempête:Norvrandt:80:True
+Pierre de foudre grondante|Mineur|Extraction de minerai|80|Pierre|Porte de l'Exarque:Grand-Lac:Norvrandt:80:True,Astropole des K'mul:Rak'tika:Norvrandt:80:True
+Éclat de feu|Mineur|Extraction de pierre|1|Cristal|Le Coude de Trois-Malms:Noscea centrale:Noscea:20:False,Bois du Renouveau:Thanalan oriental:Noscea:30:False
+Éclat de glace|Mineur|Extraction de pierre|1|Cristal|Vallée du Crâne:Noscea occidentale:Noscea:20:False,Quartpierre:Noscea occidentale:Noscea:30:False,Quartpierre:Noscea occidentale:Noscea:50:False,Hauts-Chemins:Forêt du sud:Noscea:25:False
+Éclat de vent|Mineur|Extraction de pierre|1|Cristal|Neuf-Lierres:Forêt de l'est:Forêt de Sombrelinceul:30:False,Massif de ronces:Forêt de l'est:Forêt de Sombrelinceul:50:False,Brumebleue:Thanalan septentrional:Forêt de Sombrelinceul:40:False
+Éclat de terre|Mineur|Extraction de pierre|1|Cristal|La Cédrière:Basse-Noscea:Noscea:30:False,La Poigne des Dieux:Basse-Noscea:Noscea:50:False,La Chênaie:Haute-Noscea:Noscea:25:False,La Chênaie:Haute-Noscea:Noscea:30:False,Lac d'Airain:Haute-Noscea:Noscea:45:False
+Éclat de foudre|Mineur|Extraction de pierre|1|Cristal|Roncenoire:Thanalan central:Thanalan:15:False,Eaux-Mortes:Thanalan méridional:Thanalan:30:False,Désert de Sagolii:Thanalan méridional:Thanalan:30:False,Labyrinthe rouge:Thanalan méridional:Thanalan:35:False
+Éclat d'eau|Mineur|Extraction de pierre|1|Cristal|Confins d'Horizon:Thanalan occidental:Thanalan:15:False,Sources de Nophica:Thanalan occidental:Thanalan:30:False,Bazar argenté:Thanalan occidental:Thanalan:50:False
+Sable fin|Mineur|Extraction de pierre|11|Pierre|Roncenoire:Thanalan central:Thanalan:15:False
+Sable de cuivre|Mineur|Extraction de pierre|11|Pierre|Confins d'Horizon:Thanalan occidental:Thanalan:15:False
+Sel gemme|Mineur|Extraction de pierre|12|Réactif|Roncenoire:Thanalan central:Thanalan:15:False
+Grès|Mineur|Extraction de pierre|13|Pierre|Roncenoire:Thanalan central:Thanalan:15:False
+Sable de fer|Mineur|Extraction de pierre|14|Pierre|Confins d'Horizon:Thanalan occidental:Thanalan:15:False
+Minium|Mineur|Extraction de pierre|15|Réactif|Confins d'Horizon:Thanalan occidental:Thanalan:15:False
+Pierre calcaire|Mineur|Extraction de pierre|17|Pierre|Vallée du Crâne:Noscea occidentale:Noscea:20:False
+Mudstone|Mineur|Extraction de pierre|20|Pierre|Vallée du Crâne:Noscea occidentale:Noscea:20:False
+Matière carbonique grade I|Mineur|Extraction de pierre|20|Catalyseur|Le Coude de Trois-Malms:Noscea centrale:Noscea:20:False
+Pierre de terre|Mineur|Extraction de pierre|21|Pierre|Hauts-Chemins:Forêt du sud:Forêt de Sombrelinceul:25:False
+Sable d'argent|Mineur|Extraction de pierre|22|Pierre|Hauts-Chemins:Forêt du sud:Forêt de Sombrelinceul:25:False
+Pierre de feu|Mineur|Extraction de pierre|23|Pierre|La Chênaie:Haute-Noscea:Noscea:25:False
+Pierre de glace|Mineur|Extraction de pierre|23|Pierre|Hauts-Chemins:Forêt du sud:Forêt de Sombrelinceul:25:False
+Pierre de vent|Mineur|Extraction de pierre|24|Pierre|Hauts-Chemins:Forêt du sud:Forêt de Sombrelinceul:25:False
+Pierre de foudre|Mineur|Extraction de pierre|24|Pierre|La Chênaie:Haute-Noscea:Noscea:25:False
+Pierre d'eau|Mineur|Extraction de pierre|25|Pierre|La Chênaie:Haute-Noscea:Noscea:25:False
+Cendres de bombo|Mineur|Extraction de pierre|26|Réactif|Désert de Sagolii:Thanalan méridional:Thanalan:30:False
+Cristal de feu|Mineur|Extraction de pierre|26|Cristal|Bois du Renouveau:Thanalan oriental:Thanalan:30:False,Déclin d'Avalonia:Avant-pays dravanien:Thanalan:60:True,Quartier des Fabricateurs:Arrière-pays dravanien:Thanalan:60:True,L'Isolé:L'Écume des cieux de Dravania:Thanalan:60:True,Vallée aux Prismes:Yanxia:Thanalan:70:True,Ombrefaille:Kholusia:Thanalan:70:False,Lenteroute:Kholusia:Thanalan:75:False,Amistie:Kholusia:Thanalan:80:False,Komra:Kholusia:Thanalan:80:True
+Cristal de glace|Mineur|Extraction de pierre|26|Cristal|Quartpierre:Noscea occidentale:Noscea:30:False,Quartpierre:Noscea occidentale:Noscea:50:False,Les Jumeaux:Hautes terres du Coerthas occidental:Noscea:55:False,Le Convictoire:Hautes terres du Coerthas occidental:Noscea:75:False
+Cristal de vent|Mineur|Extraction de pierre|26|Cristal|Neuf-Lierres:Forêt de l'est:Forêt de Sombrelinceul:30:False,Massif de ronces:Forêt de l'est:Forêt de Sombrelinceul:50:False,Auberge du Grand Départ:Amh Araeng:Forêt de Sombrelinceul:70:False,Grandes mines de Biran:Amh Araeng:Forêt de Sombrelinceul:80:False
+Cristal de terre|Mineur|Extraction de pierre|26|Cristal|La Cédrière:Basse-Noscea:Noscea:30:False,La Poigne des Dieux:Basse-Noscea:Noscea:50:False,Colonie des Maîtres terriens:L'Écume des cieux de Dravania:Noscea:60:False,Colonie des Maîtres terriens:L'Écume des cieux de Dravania:Noscea:65:False,Rocrouillé:Les Pics:Noscea:65:False
+Cristal de foudre|Mineur|Extraction de pierre|26|Cristal|Eaux-Mortes:Thanalan méridional:Thanalan:30:False,Pont du Fer noir:Hautes terres du Coerthas occidental:Thanalan:60:True,Ok' Gundu:L'Écume des cieux d'Abalathia:Thanalan:60:True,Onsal Hakair:Steppe d'Azim:Thanalan:70:False
+Cristal d'eau|Mineur|Extraction de pierre|26|Cristal|Sources de Nophica:Thanalan occidental:Thanalan:30:False,Rasen Kaikyo:Mer de Rubis:Thanalan:65:False,Le Kobayashi Maru:Mer de Rubis:Thanalan:75:False,Conquête de Lozatl:Rak'tika:Thanalan:75:False
+Silice|Mineur|Extraction de pierre|27|Réactif|Désert de Sagolii:Thanalan méridional:Thanalan:30:False
+Pigment bleu|Mineur|Extraction de pierre|28|Teinture|Sources de Nophica:Thanalan occidental:Thanalan:30:False
+Pigment rouge|Mineur|Extraction de pierre|28|Teinture|Bois du Renouveau:Thanalan oriental:Thanalan:30:False
+Pigment jaune|Mineur|Extraction de pierre|28|Teinture|La Cédrière:Basse-Noscea:Noscea:30:False
+Pigment gris|Mineur|Extraction de pierre|28|Teinture|Quartpierre:Noscea occidentale:Noscea:30:False
+Pigment brun|Mineur|Extraction de pierre|28|Teinture|La Cédrière:Basse-Noscea:Noscea:30:False
+Pigment vert|Mineur|Extraction de pierre|28|Teinture|Neuf-Lierres:Forêt de l'est:Forêt de Sombrelinceul:30:False
+Pigment violet|Mineur|Extraction de pierre|28|Teinture|Eaux-Mortes:Thanalan méridional:Thanalan:30:False
+Soufre|Mineur|Extraction de pierre|29|Réactif|La Chênaie:Haute-Noscea:Noscea:30:False
+Siltstone|Mineur|Extraction de pierre|30|Pierre|La Chênaie:Haute-Noscea:Noscea:30:False
+Terreau noscéen I|Mineur|Extraction de pierre|30|Jardinage|La Cédrière:Basse-Noscea:Noscea:30:False
+Terreau sombrelinçois I|Mineur|Extraction de pierre|30|Jardinage|Neuf-Lierres:Forêt de l'est:Forêt de Sombrelinceul:30:False
+Terreau thanalanais I|Mineur|Extraction de pierre|30|Jardinage|Bois du Renouveau:Thanalan oriental:Thanalan:30:False
+Sable de mithril|Mineur|Extraction de pierre|33|Pierre|Labyrinthe rouge:Thanalan méridional:Thanalan:35:False
+Cendres de grenado|Mineur|Extraction de pierre|40|Réactif|Brumebleue:Thanalan septentrional:Thanalan:40:False
+Sable d'électrum|Mineur|Extraction de pierre|42|Pierre|Lac d'Airain:Haute-Noscea:Noscea:45:False
+Marbre|Mineur|Extraction de pierre|45|Pierre|Lac d'Airain:Haute-Noscea:Noscea:45:False
+Terreau noscéen II|Mineur|Extraction de pierre|46|Jardinage|La Poigne des Dieux:Basse-Noscea:Noscea:50:False
+Terreau sombrelinçois II|Mineur|Extraction de pierre|46|Jardinage|Massif de ronces:Forêt de l'est:Forêt de Sombrelinceul:50:False
+Terreau thanalanais II|Mineur|Extraction de pierre|46|Jardinage|Bazar argenté:Thanalan occidental:Thanalan:50:False
+Calcaire noir|Mineur|Extraction de pierre|50|Pierre|Quartpierre:Noscea occidentale:Noscea:50:False
+Agrégat de feu|Mineur|Extraction de pierre|50|Cristal|Dérive du Zéphyr:Noscea centrale:Noscea:50:True,Rive nord de Pleurargent:Mor Dhona:Noscea:50:True,Déclin d'Avalonia:Avant-pays dravanien:Noscea:60:True,Quartier des Fabricateurs:Arrière-pays dravanien:Noscea:60:True,L'Isolé:L'Écume des cieux de Dravania:Noscea:60:True,Vallée aux Prismes:Yanxia:Noscea:70:True,Komra:Kholusia:Noscea:80:True
+Agrégat de glace|Mineur|Extraction de pierre|50|Cristal|Rive nord de Pleurargent:Mor Dhona:Mor Dhona:50:True
+Agrégat de vent|Mineur|Extraction de pierre|50|Cristal|Rive nord de Pleurargent:Mor Dhona:Mor Dhona:50:True
+Agrégat de terre|Mineur|Extraction de pierre|50|Cristal|Rive nord de Pleurargent:Mor Dhona:Mor Dhona:50:True
+Agrégat de foudre|Mineur|Extraction de pierre|50|Cristal|Pont du Fer noir:Hautes terres du Coerthas occidental:Coerthas:60:True,Rive nord de Pleurargent:Mor Dhona:Coerthas:50:True,Ok' Gundu:L'Écume des cieux d'Abalathia:Coerthas:60:True
+Agrégat d'eau|Mineur|Extraction de pierre|50|Cristal|Martelterre:Thanalan occidental:Thanalan:50:True,Rive nord de Pleurargent:Mor Dhona:Thanalan:50:True
+Roche astrale|Mineur|Extraction de pierre|50|Pierre|Tête du dragon:Hautes terres du Coerthas central:Coerthas:50:True
+Sable d'or|Mineur|Extraction de pierre|50|Pierre|Bois du Renouveau:Thanalan oriental:Thanalan:50:True
+Sel gemme noscéen|Mineur|Extraction de pierre|50|Réactif|Ravine des Cueillepluies:Noscea orientale:Noscea:50:True
+Cristal terni|Mineur|Extraction de pierre|50|Pierre|Dérive du Zéphyr:Noscea centrale:Noscea:50:True,Ravine des Cueillepluies:Noscea orientale:Noscea:50:True,Bas-Chemins:Forêt du sud:Noscea:50:True,Martelterre:Thanalan occidental:Noscea:50:True,Bois du Renouveau:Thanalan oriental:Noscea:50:True,Tête du dragon:Hautes terres du Coerthas central:Noscea:50:True,Rive nord de Pleurargent:Mor Dhona:Noscea:50:True
+Roche ombrale|Mineur|Extraction de pierre|50|Pierre|Bas-Chemins:Forêt du sud:Forêt de Sombrelinceul:50:True
+Terreau noscéen III|Mineur|Extraction de pierre|50|Jardinage|Dérive du Zéphyr:Noscea centrale:Noscea:50:True
+Terreau sombrelinçois III|Mineur|Extraction de pierre|50|Jardinage|Bas-Chemins:Forêt du sud:Forêt de Sombrelinceul:50:True
+Terreau thanalanais III|Mineur|Extraction de pierre|50|Jardinage|Martelterre:Thanalan occidental:Thanalan:50:True
+Roche antéombrale|Mineur|Extraction de pierre|50|Pierre|Bois du Renouveau:Thanalan oriental:Thanalan:50:True
+Agrégat de matière sombre|Mineur|Extraction de pierre|50|Catalyseur|Dérive du Zéphyr:Noscea centrale:Noscea:50:True,Ravine des Cueillepluies:Noscea orientale:Noscea:50:True,Bas-Chemins:Forêt du sud:Noscea:50:True,Martelterre:Thanalan occidental:Noscea:50:True,Bois du Renouveau:Thanalan oriental:Noscea:50:True,Tête du dragon:Hautes terres du Coerthas central:Noscea:50:True,Rive nord de Pleurargent:Mor Dhona:Noscea:50:True
+Pierre ponce|Mineur|Extraction de pierre|50|Pierre|Ravine des Cueillepluies:Noscea orientale:Noscea:50:True
+Sable de mithrite|Mineur|Extraction de pierre|51|Pierre|Les Jumeaux:Hautes terres du Coerthas occidental:Coerthas:55:False
+Quartz jaune|Mineur|Extraction de pierre|52|Pierre|Eil Tohm:L'Écume des cieux de Dravania:Dravania:55:True
+Quartz vert|Mineur|Extraction de pierre|55|Pierre|Eil Tohm:L'Écume des cieux de Dravania:Dravania:55:True
+Sel gemme d'Abalathia|Mineur|Extraction de pierre|56|Ingrédient|Le Gantelet:L'Écume des cieux d'Abalathia:Abalathia:60:True
+Granulat de feu|Mineur|Extraction de pierre|56|Pierre|Déclin d'Avalonia:Avant-pays dravanien:Dravania:60:True,Quartier des Fabricateurs:Arrière-pays dravanien:Dravania:60:True,L'Isolé:L'Écume des cieux de Dravania:Dravania:60:True
+Granulat de foudre|Mineur|Extraction de pierre|56|Pierre|Pont du Fer noir:Hautes terres du Coerthas occidental:Coerthas:60:True,Ok' Gundu:L'Écume des cieux d'Abalathia:Coerthas:60:True
+Sable de durargent|Mineur|Extraction de pierre|56|Pierre|Colonie des Maîtres terriens:L'Écume des cieux de Dravania:Dravania:60:False
+Os de dragon fossilisé|Mineur|Extraction de pierre|56|Os|Colonie des Maîtres terriens:L'Écume des cieux de Dravania:Dravania:60:False
+Mica blanc|Mineur|Extraction de pierre|58|Pierre|Colonie des Maîtres terriens:L'Écume des cieux de Dravania:Dravania:60:False
+Quartz rouge|Mineur|Extraction de pierre|58|Pierre|Le Gantelet:L'Écume des cieux d'Abalathia:Abalathia:60:True
+Pierre de feu intense|Mineur|Extraction de pierre|58|Pierre|Déclin d'Avalonia:Avant-pays dravanien:Dravania:60:True,Quartier des Fabricateurs:Arrière-pays dravanien:Dravania:60:True,L'Isolé:L'Écume des cieux de Dravania:Dravania:60:True
+Pierre de foudre intense|Mineur|Extraction de pierre|58|Pierre|Pont du Fer noir:Hautes terres du Coerthas occidental:Coerthas:60:True,Ok' Gundu:L'Écume des cieux d'Abalathia:Coerthas:60:True
+Tectite|Mineur|Extraction de pierre|59|Pierre|Colonie des Maîtres terriens:L'Écume des cieux de Dravania:Dravania:60:False
+Mousse tombe-crépuscule|Mineur|Extraction de pierre|59|Réactif|Colonie des Maîtres terriens:L'Écume des cieux de Dravania:Dravania:60:False
+Granulat de feu flamboyant|Mineur|Extraction de pierre|60|Pierre|Déclin d'Avalonia:Avant-pays dravanien:Dravania:60:True,Quartier des Fabricateurs:Arrière-pays dravanien:Dravania:60:True,L'Isolé:L'Écume des cieux de Dravania:Dravania:60:True
+Granulat de foudre flamboyant|Mineur|Extraction de pierre|60|Pierre|Pont du Fer noir:Hautes terres du Coerthas occidental:Coerthas:60:True,Ok' Gundu:L'Écume des cieux d'Abalathia:Coerthas:60:True
+Sable de lumithrite|Mineur|Extraction de pierre|60|Pierre|Colonie des Maîtres terriens:L'Écume des cieux de Dravania:Dravania:60:False
+Granulat astral rayonnant|Mineur|Extraction de pierre|60|Pierre|Pont du Fer noir:Hautes terres du Coerthas occidental:Coerthas:60:True,Ok' Gundu:L'Écume des cieux d'Abalathia:Coerthas:60:True,Déclin d'Avalonia:Avant-pays dravanien:Coerthas:60:True,Quartier des Fabricateurs:Arrière-pays dravanien:Coerthas:60:True,L'Isolé:L'Écume des cieux de Dravania:Coerthas:60:True
+Quartzite|Mineur|Extraction de pierre|61|Pierre|Rocrouillé:Les Pics:Gyr Abania:65:False
+Sable de cupronickel|Mineur|Extraction de pierre|61|Pierre|Rocrouillé:Les Pics:Gyr Abania:65:False
+Poudre minérale thérapeutique|Mineur|Extraction de pierre|61|Divers|Rocrouillé:Les Pics:Gyr Abania:65:False
+Ardoise|Mineur|Extraction de pierre|62|Pierre|Rocrouillé:Les Pics:Gyr Abania:65:False
+Terre diatomée|Mineur|Extraction de pierre|63|Pierre|Rasen Kaikyo:Mer de Rubis:Othard:65:False
+Joyau en rubis|Mineur|Extraction de pierre|64|Divers|Rasen Kaikyo:Mer de Rubis:Othard:65:False
+Penne de la Mer de nuages|Mineur|Extraction de pierre|65|Divers|Colonie des Maîtres terriens:L'Écume des cieux de Dravania:Dravania:65:False
+Perlite|Mineur|Extraction de pierre|66|Pierre|Vallée aux Prismes:Yanxia:Othard:70:True
+Dacite|Mineur|Extraction de pierre|66|Pierre|Vallée aux Prismes:Yanxia:Othard:70:True
+Sable de durium|Mineur|Extraction de pierre|66|Pierre|Onsal Hakair:Steppe d'Azim:Othard:70:False
+Épices de la Steppe d'Azim|Mineur|Extraction de pierre|66|Divers|Onsal Hakair:Steppe d'Azim:Othard:70:False
+Sable de tamahagane|Mineur|Extraction de pierre|67|Pierre|Onsal Hakair:Steppe d'Azim:Othard:70:False
+Sable de palladium|Mineur|Extraction de pierre|69|Pierre|Onsal Hakair:Steppe d'Azim:Othard:70:False
+Sel d'Ala Mhigo|Mineur|Extraction de pierre|69|Réactif|Lac Seld:Les Lacs:Gyr Abania:70:True
+Boule de charbon|Mineur|Extraction de pierre|70|Divers|Ombrefaille:Kholusia:Norvrandt:70:False
+Épices parfumées|Mineur|Extraction de pierre|70|Divers|Auberge du Grand Départ:Amh Araeng:Norvrandt:70:False
+Trace d'animal sauvage|Mineur|Extraction de pierre|70|Autre|Auberge du Grand Départ:Amh Araeng:Norvrandt:70:False
+Élément pour intérieur d'aéronef|Mineur|Extraction de pierre|70|Divers|Auberge du Grand Départ:Amh Araeng:Norvrandt:70:False
+Spécialités de Kholusia|Mineur|Extraction de pierre|70|Divers|Ombrefaille:Kholusia:Norvrandt:70:False
+Terreau de Yanxia|Mineur|Extraction de pierre|70|Pierre|Vallée aux Prismes:Yanxia:Othard:70:True
+Salpêtre grossier|Mineur|Extraction de pierre|70|Réactif|Auberge du Grand Départ:Amh Araeng:Norvrandt:70:False
+Alun jaune|Mineur|Extraction de pierre|70|Réactif|Auberge du Grand Départ:Amh Araeng:Norvrandt:70:False
+Mudstone solide|Mineur|Extraction de pierre|71|Pierre|Lenteroute:Kholusia:Norvrandt:75:False
+Sable d'or franc|Mineur|Extraction de pierre|71|Pierre|Lenteroute:Kholusia:Norvrandt:75:False
+Matériaux d'outils de récolte pour dragon|Mineur|Extraction de pierre|71|Divers|Le Convictoire:Hautes terres du Coerthas occidental:Coerthas:75:False
+Ingrédients de sandwichs pour dragon|Mineur|Extraction de pierre|74|Divers|Le Kobayashi Maru:Mer de Rubis:Othard:75:False
+Sable de mana-argent|Mineur|Extraction de pierre|75|Pierre|Conquête de Lozatl:Rak'tika:Norvrandt:75:False
+Tuf volcanique|Mineur|Extraction de pierre|76|Pierre|Amistie:Kholusia:Norvrandt:80:False
+Sable de bronze titané|Mineur|Extraction de pierre|76|Pierre|Grandes mines de Biran:Amh Araeng:Norvrandt:80:False
+Sable de mithril noble|Mineur|Extraction de pierre|79|Pierre|Grandes mines de Biran:Amh Araeng:Norvrandt:80:False
+Quartz de l'ombre|Mineur|Extraction de pierre|80|Pierre|Komra:Kholusia:Norvrandt:80:True
+Pierre de foudre grondante|Mineur|Extraction de pierre|80|Pierre|Komra:Kholusia:Norvrandt:80:True
+Latex|Botaniste|Coupe|1|Réactif|Berges de Jade:Forêt centrale:Forêt de Sombrelinceul:5:False,Futaie des Murmures:Forêt du nord:Forêt de Sombrelinceul:5:False
+Éclat de feu|Botaniste|Coupe|1|Cristal|Le Coude de Trois-Malms:Noscea centrale:Noscea:30:False,Estival:Noscea centrale:Noscea:50:False
+Éclat de glace|Botaniste|Coupe|1|Cristal|Vallée du Crâne:Noscea occidentale:Noscea:20:False,Berges de Jade:Forêt centrale:Noscea:5:False,Hauts-Chemins:Forêt du sud:Noscea:25:False,Hauts-Chemins:Forêt du sud:Noscea:30:False,Charmille silencieuse:Forêt du sud:Noscea:30:False,Bas-Chemins:Forêt du sud:Noscea:35:False,L'Arête blanche:Hautes terres du Coerthas central:Noscea:5:False,L'Arête blanche:Hautes terres du Coerthas central:Noscea:45:False
+Éclat de vent|Botaniste|Coupe|1|Cristal|Berges de Jade:Forêt centrale:Forêt de Sombrelinceul:5:False,Larmeverte:Forêt centrale:Forêt de Sombrelinceul:10:False,Brancharquée:Forêt centrale:Forêt de Sombrelinceul:15:False,Brancharquée:Forêt centrale:Forêt de Sombrelinceul:30:False,Neuf-Lierres:Forêt de l'est:Forêt de Sombrelinceul:20:False,Massif de ronces:Forêt de l'est:Forêt de Sombrelinceul:50:False
+Éclat de terre|Botaniste|Coupe|1|Cristal|La Cédrière:Basse-Noscea:Noscea:10:False,La Cédrière:Basse-Noscea:Noscea:20:False,Ruines de Gelmorra:Forêt du nord:Noscea:5:False,Futaie des Murmures:Forêt du nord:Noscea:5:False,Futaie des Murmures:Forêt du nord:Noscea:10:False,Sommière de la Paix:Forêt du nord:Noscea:30:False
+Éclat de foudre|Botaniste|Coupe|1|Cristal|Bassin des Désépinés:Thanalan central:Thanalan:10:False,Roncenoire:Thanalan central:Thanalan:20:False,Bassin des Désépinés:Thanalan central:Thanalan:30:False,Le Nid:Thanalan central:Thanalan:50:False,L'Enchevêtrement:Mor Dhona:Thanalan:5:False
+Éclat d'eau|Botaniste|Coupe|1|Cristal|Rives sanglantes:Noscea orientale:Noscea:30:False,Ravine des Cueillepluies:Noscea orientale:Noscea:40:False,Ravine des Cueillepluies:Noscea orientale:Noscea:50:False
+Escargot allagois|Botaniste|Coupe|2|Ingrédient|Berges de Jade:Forêt centrale:Forêt de Sombrelinceul:5:False
+Sève d'érable|Botaniste|Coupe|2|Réactif|Futaie des Murmures:Forêt du nord:Forêt de Sombrelinceul:5:False
+Rondin d'érable|Botaniste|Coupe|3|Bois|Berges de Jade:Forêt centrale:Forêt de Sombrelinceul:5:False,Futaie des Murmures:Forêt du nord:Forêt de Sombrelinceul:5:False
+Cannelle|Botaniste|Coupe|4|Ingrédient|Futaie des Murmures:Forêt du nord:Forêt de Sombrelinceul:5:False
+Branche d'érable|Botaniste|Coupe|5|Bois|Berges de Jade:Forêt centrale:Forêt de Sombrelinceul:5:False,Futaie des Murmures:Forêt du nord:Forêt de Sombrelinceul:5:False
+Fragment d'alvéoles|Botaniste|Coupe|5|Réactif|Futaie des Murmures:Forêt du nord:Forêt de Sombrelinceul:5:False
+Plume de coq|Botaniste|Coupe|6|Tissu|Bassin des Désépinés:Thanalan central:Thanalan:10:False
+Gui de Tinolqa|Botaniste|Coupe|6|Réactif|Larmeverte:Forêt centrale:Forêt de Sombrelinceul:10:False,Futaie des Murmures:Forêt du nord:Forêt de Sombrelinceul:10:False
+Orange noscéenne|Botaniste|Coupe|7|Ingrédient|La Cédrière:Basse-Noscea:Noscea:10:False
+Graines d'oranger noscéen|Botaniste|Coupe|7|Jardinage|La Cédrière:Basse-Noscea:Noscea:10:False
+Rondin de frêne|Botaniste|Coupe|8|Bois|Larmeverte:Forêt centrale:Forêt de Sombrelinceul:10:False,Futaie des Murmures:Forêt du nord:Forêt de Sombrelinceul:10:False
+Fève kukuru|Botaniste|Coupe|9|Ingrédient|La Cédrière:Basse-Noscea:Noscea:10:False
+Branche de frêne|Botaniste|Coupe|9|Bois|Larmeverte:Forêt centrale:Forêt de Sombrelinceul:10:False,Futaie des Murmures:Forêt du nord:Forêt de Sombrelinceul:10:False
+Girofle|Botaniste|Coupe|10|Ingrédient|Bassin des Désépinés:Thanalan central:Thanalan:10:False
+Plume de corbeau|Botaniste|Coupe|10|Tissu|Larmeverte:Forêt centrale:Forêt de Sombrelinceul:10:False
+Rondin d'orme|Botaniste|Coupe|12|Bois|Brancharquée:Forêt centrale:Forêt de Sombrelinceul:15:False
+Châtaigne de Gridania|Botaniste|Coupe|14|Ingrédient|Brancharquée:Forêt centrale:Forêt de Sombrelinceul:15:False
+Pomme de fée|Botaniste|Coupe|16|Ingrédient|Neuf-Lierres:Forêt de l'est:Forêt de Sombrelinceul:20:False
+Graines de pommier de fée|Botaniste|Coupe|16|Jardinage|Neuf-Lierres:Forêt de l'est:Forêt de Sombrelinceul:20:False
+Citron soleil|Botaniste|Coupe|17|Ingrédient|La Cédrière:Basse-Noscea:Noscea:20:False
+Graines de citronnier soleil|Botaniste|Coupe|17|Jardinage|La Cédrière:Basse-Noscea:Noscea:20:False
+Figue de barbarie|Botaniste|Coupe|18|Ingrédient|Roncenoire:Thanalan central:Thanalan:20:False
+Rondin d'if|Botaniste|Coupe|19|Bois|Neuf-Lierres:Forêt de l'est:Forêt de Sombrelinceul:20:False
+Branche d'if|Botaniste|Coupe|20|Bois|Neuf-Lierres:Forêt de l'est:Forêt de Sombrelinceul:20:False
+Matière carbonique grade I|Botaniste|Coupe|20|Catalyseur|Vallée du Crâne:Noscea occidentale:Noscea:20:False
+Noix de Gridania|Botaniste|Coupe|21|Ingrédient|Hauts-Chemins:Forêt du sud:Forêt de Sombrelinceul:25:False
+Gui de Nophica|Botaniste|Coupe|23|Réactif|Hauts-Chemins:Forêt du sud:Forêt de Sombrelinceul:25:False
+Rondin de noyer|Botaniste|Coupe|24|Bois|Hauts-Chemins:Forêt du sud:Forêt de Sombrelinceul:25:False
+Cristal de feu|Botaniste|Coupe|26|Cristal|Le Coude de Trois-Malms:Noscea centrale:Noscea:30:False,Estival:Noscea centrale:Noscea:50:False,Terres fumantes:Avant-pays dravanien:Noscea:55:False,Les Cent Râles:Avant-pays dravanien:Noscea:75:False,Confins est:Les Marges:Noscea:65:False,Ternebois:Les Marges:Noscea:70:False,La Louche:Amh Araeng:Noscea:80:False
+Cristal de glace|Botaniste|Coupe|26|Cristal|Hauts-Chemins:Forêt du sud:Forêt de Sombrelinceul:30:False,Deux-Rivières:Hautes terres du Coerthas occidental:Forêt de Sombrelinceul:50:False,Crâne d'Abalathia:Les Lacs:Forêt de Sombrelinceul:70:False,Jardins de la Reine:Les Lacs:Forêt de Sombrelinceul:70:True,Tour de Montvoir:Kholusia:Forêt de Sombrelinceul:70:False,Falaises éclatantes:Kholusia:Forêt de Sombrelinceul:75:False
+Cristal de vent|Botaniste|Coupe|26|Cristal|Brancharquée:Forêt centrale:Forêt de Sombrelinceul:30:False,Envol du Héron:Yanxia:Forêt de Sombrelinceul:65:False,Solide Serment:Rak'tika:Forêt de Sombrelinceul:75:False
+Cristal de terre|Botaniste|Coupe|26|Cristal|Sommière de la Paix:Forêt du nord:Forêt de Sombrelinceul:30:False,Eil Tohm:L'Écume des cieux de Dravania:Forêt de Sombrelinceul:60:False,Pleur caché:Les Pics:Forêt de Sombrelinceul:75:False,Les mille Lacis:Grand-Lac:Forêt de Sombrelinceul:75:False,Le Guêpier:Grand-Lac:Forêt de Sombrelinceul:80:False
+Cristal de foudre|Botaniste|Coupe|26|Cristal|Bassin des Désépinés:Thanalan central:Thanalan:30:False,Le Nid:Thanalan central:Thanalan:50:False
+Cristal d'eau|Botaniste|Coupe|26|Cristal|Rives sanglantes:Noscea orientale:Noscea:30:False,Ravine des Cueillepluies:Noscea orientale:Noscea:50:False,Voor Sian Siran:L'Écume des cieux d'Abalathia:Noscea:60:False,Onokoro:Mer de Rubis:Noscea:65:False,Halte de Dammroen:Il Mheg:Noscea:75:False
+Pigment bleu|Botaniste|Coupe|28|Teinture|Rives sanglantes:Noscea orientale:Noscea:30:False
+Pigment rouge|Botaniste|Coupe|28|Teinture|Le Coude de Trois-Malms:Noscea centrale:Noscea:30:False
+Pigment jaune|Botaniste|Coupe|28|Teinture|Sommière de la Paix:Forêt du nord:Forêt de Sombrelinceul:30:False
+Pigment gris|Botaniste|Coupe|28|Teinture|Hauts-Chemins:Forêt du sud:Forêt de Sombrelinceul:30:False
+Pigment brun|Botaniste|Coupe|28|Teinture|Sommière de la Paix:Forêt du nord:Forêt de Sombrelinceul:30:False
+Pigment vert|Botaniste|Coupe|28|Teinture|Brancharquée:Forêt centrale:Forêt de Sombrelinceul:30:False
+Pigment violet|Botaniste|Coupe|28|Teinture|Bassin des Désépinés:Thanalan central:Thanalan:30:False
+Plume de chocobo|Botaniste|Coupe|29|Tissu|Charmille silencieuse:Forêt du sud:Forêt de Sombrelinceul:30:False
+Poire alligator|Botaniste|Coupe|30|Ingrédient|Charmille silencieuse:Forêt du sud:Forêt de Sombrelinceul:30:False
+Branche de chêne|Botaniste|Coupe|31|Bois|Bas-Chemins:Forêt du sud:Forêt de Sombrelinceul:35:False
+Rondin de chêne|Botaniste|Coupe|32|Bois|Bas-Chemins:Forêt du sud:Forêt de Sombrelinceul:35:False
+Tarentule|Botaniste|Coupe|35|Réactif|Bas-Chemins:Forêt du sud:Forêt de Sombrelinceul:35:False
+Gland de fer|Botaniste|Coupe|36|Ingrédient|Ravine des Cueillepluies:Noscea orientale:Noscea:40:False
+Rondin d'acajou|Botaniste|Coupe|37|Bois|Ravine des Cueillepluies:Noscea orientale:Noscea:40:False
+Noix de muscade|Botaniste|Coupe|39|Ingrédient|Ravine des Cueillepluies:Noscea orientale:Noscea:40:False
+Amandes|Botaniste|Coupe|40|Ingrédient|Ravine des Cueillepluies:Noscea orientale:Noscea:40:False
+Graines d'amandier|Botaniste|Coupe|40|Jardinage|Ravine des Cueillepluies:Noscea orientale:Noscea:40:False
+Pomme luisante|Botaniste|Coupe|42|Ingrédient|L'Arête blanche:Hautes terres du Coerthas central:Coerthas:45:False
+Graines de pommier luisant|Botaniste|Coupe|42|Jardinage|L'Arête blanche:Hautes terres du Coerthas central:Coerthas:45:False
+Gui|Botaniste|Coupe|44|Réactif|L'Arête blanche:Hautes terres du Coerthas central:Coerthas:45:False
+Rondin de palissandre|Botaniste|Coupe|46|Bois|Massif de ronces:Forêt de l'est:Forêt de Sombrelinceul:50:False
+Branche de palissandre|Botaniste|Coupe|47|Bois|Massif de ronces:Forêt de l'est:Forêt de Sombrelinceul:50:False
+Agrégat de feu|Botaniste|Coupe|50|Cristal|Rive nord de Pleurargent:Mor Dhona:Mor Dhona:50:True
+Agrégat de glace|Botaniste|Coupe|50|Cristal|Rive nord de Pleurargent:Mor Dhona:Mor Dhona:50:True,Jardins de la Reine:Les Lacs:Mor Dhona:70:True
+Agrégat de vent|Botaniste|Coupe|50|Cristal|Rive nord de Pleurargent:Mor Dhona:Mor Dhona:50:True
+Agrégat de terre|Botaniste|Coupe|50|Cristal|Rive nord de Pleurargent:Mor Dhona:Mor Dhona:50:True
+Agrégat de foudre|Botaniste|Coupe|50|Cristal|Rive nord de Pleurargent:Mor Dhona:Mor Dhona:50:True
+Agrégat d'eau|Botaniste|Coupe|50|Cristal|Rive nord de Pleurargent:Mor Dhona:Mor Dhona:50:True
+Ananas épineux|Botaniste|Coupe|50|Ingrédient|Rives sanglantes:Noscea orientale:Noscea:50:True
+Rondin d'épicéa|Botaniste|Coupe|50|Bois|Providence:Hautes terres du Coerthas central:Coerthas:50:True
+Gui de Thavnair|Botaniste|Coupe|50|Réactif|L'Arête blanche:Hautes terres du Coerthas central:Coerthas:50:True
+Baie vampire|Botaniste|Coupe|50|Réactif|Tête du dragon:Hautes terres du Coerthas central:Coerthas:50:True
+Graines d'ananas épineux|Botaniste|Coupe|50|Jardinage|Rives sanglantes:Noscea orientale:Noscea:50:True
+Cristal terni|Botaniste|Coupe|50|Pierre|Dérive du Zéphyr:Noscea centrale:Noscea:50:True,Estival:Noscea centrale:Noscea:50:True,Rives sanglantes:Noscea orientale:Noscea:50:True,Lac d'Airain:Haute-Noscea:Noscea:50:True,Larmeverte:Forêt centrale:Noscea:50:True,Brancharquée:Forêt centrale:Noscea:50:True,Hauts-Chemins:Forêt du sud:Noscea:50:True,Sources de l'Aulne:Forêt du nord:Noscea:50:True,Tête du dragon:Hautes terres du Coerthas central:Noscea:50:True,Providence:Hautes terres du Coerthas central:Noscea:50:True,L'Arête blanche:Hautes terres du Coerthas central:Noscea:50:True,Rive nord de Pleurargent:Mor Dhona:Noscea:50:True
+Rondin odorant|Botaniste|Coupe|50|Bois|Hauts-Chemins:Forêt du sud:Forêt de Sombrelinceul:50:True
+Abricot|Botaniste|Coupe|50|Ingrédient|Estival:Noscea centrale:Noscea:50:True
+Orange sanguine|Botaniste|Coupe|50|Ingrédient|Lac d'Airain:Haute-Noscea:Noscea:50:True
+Tige de bambou|Botaniste|Coupe|50|Bois|Lac d'Airain:Haute-Noscea:Noscea:50:True
+Rondin fragrant|Botaniste|Coupe|50|Bois|Larmeverte:Forêt centrale:Forêt de Sombrelinceul:50:True
+Sève écarlate|Botaniste|Coupe|50|Réactif|Sources de l'Aulne:Forêt du nord:Forêt de Sombrelinceul:50:True
+Agrégat de matière sombre|Botaniste|Coupe|50|Catalyseur|Dérive du Zéphyr:Noscea centrale:Noscea:50:True,Estival:Noscea centrale:Noscea:50:True,Rives sanglantes:Noscea orientale:Noscea:50:True,Lac d'Airain:Haute-Noscea:Noscea:50:True,Larmeverte:Forêt centrale:Noscea:50:True,Brancharquée:Forêt centrale:Noscea:50:True,Hauts-Chemins:Forêt du sud:Noscea:50:True,Sources de l'Aulne:Forêt du nord:Noscea:50:True,Tête du dragon:Hautes terres du Coerthas central:Noscea:50:True,Providence:Hautes terres du Coerthas central:Noscea:50:True,L'Arête blanche:Hautes terres du Coerthas central:Noscea:50:True,Rive nord de Pleurargent:Mor Dhona:Noscea:50:True
+Rondin de cyprès|Botaniste|Coupe|50|Bois|Brancharquée:Forêt centrale:Forêt de Sombrelinceul:50:True
+Rondin de cèdre|Botaniste|Coupe|50|Bois|Deux-Rivières:Hautes terres du Coerthas occidental:Coerthas:50:False
+Rondin d'ébène|Botaniste|Coupe|50|Bois|Dérive du Zéphyr:Noscea centrale:Noscea:50:True
+Branche de cèdre|Botaniste|Coupe|50|Bois|Deux-Rivières:Hautes terres du Coerthas occidental:Coerthas:50:False
+Bolet|Botaniste|Coupe|51|Ingrédient|Ohl Tahn:L'Écume des cieux de Dravania:Dravania:55:True
+Rondin de châtaignier sombre|Botaniste|Coupe|54|Bois|Terres fumantes:Avant-pays dravanien:Dravania:55:False
+Gui de Dravania|Botaniste|Coupe|54|Réactif|Ohl Tahn:L'Écume des cieux de Dravania:Dravania:55:True
+Marron sombre|Botaniste|Coupe|55|Ingrédient|Terres fumantes:Avant-pays dravanien:Dravania:55:False
+Branche de châtaignier sombre|Botaniste|Coupe|55|Bois|Terres fumantes:Avant-pays dravanien:Dravania:55:False
+Citron céleste|Botaniste|Coupe|56|Ingrédient|Vundu Ok' Bendu:L'Écume des cieux d'Abalathia:Abalathia:60:True
+Veuve des vents|Botaniste|Coupe|56|Réactif|Voor Sian Siran:L'Écume des cieux d'Abalathia:Abalathia:60:False
+Banane céleste|Botaniste|Coupe|57|Ingrédient|Quartier des Sages:Arrière-pays dravanien:Dravania:60:True
+Rondin de bouleau|Botaniste|Coupe|58|Bois|Voor Sian Siran:L'Écume des cieux d'Abalathia:Abalathia:60:False
+Branche de bouleau|Botaniste|Coupe|58|Bois|Voor Sian Siran:L'Écume des cieux d'Abalathia:Abalathia:60:False
+Gui d'Abalathia|Botaniste|Coupe|58|Réactif|Vundu Ok' Bendu:L'Écume des cieux d'Abalathia:Abalathia:60:True
+Morille|Botaniste|Coupe|59|Ingrédient|Quartier des Sages:Arrière-pays dravanien:Dravania:60:True
+Sève de bouleau|Botaniste|Coupe|59|Ingrédient|Voor Sian Siran:L'Écume des cieux d'Abalathia:Abalathia:60:False
+Cèpe des nuages|Botaniste|Coupe|59|Réactif|Voor Sian Siran:L'Écume des cieux d'Abalathia:Abalathia:60:False
+Rondin de camphrier|Botaniste|Coupe|60|Bois|Eil Tohm:L'Écume des cieux de Dravania:Dravania:60:False
+Branche de camphrier|Botaniste|Coupe|60|Bois|Eil Tohm:L'Écume des cieux de Dravania:Dravania:60:False
+Branche de hêtre|Botaniste|Coupe|60|Bois|Confins est:Les Marges:Gyr Abania:60:True
+Nèfle gyrabanienne|Botaniste|Coupe|61|Ingrédient|Confins est:Les Marges:Gyr Abania:65:False
+Rondin de hêtre|Botaniste|Coupe|61|Bois|Confins est:Les Marges:Gyr Abania:65:False
+Pousse de bambou|Botaniste|Coupe|63|Ingrédient|Bassin rutilant:Yanxia:Othard:65:True
+Rondin de mélèze|Botaniste|Coupe|63|Bois|Onokoro:Mer de Rubis:Othard:65:False
+Résine de pin|Botaniste|Coupe|64|Réactif|Envol du Héron:Yanxia:Othard:65:False
+Braises|Botaniste|Coupe|64|Divers|Onokoro:Mer de Rubis:Othard:65:False
+Shiitake|Botaniste|Coupe|65|Ingrédient|Onokoro:Mer de Rubis:Othard:65:False
+Rondin de pin|Botaniste|Coupe|65|Bois|Envol du Héron:Yanxia:Othard:65:False
+Matière première pour alambic|Botaniste|Coupe|65|Divers|Envol du Héron:Yanxia:Othard:65:False
+Feuilles de plaqueminier|Botaniste|Coupe|66|Réactif|Ternebois:Les Marges:Gyr Abania:70:False
+Kaki|Botaniste|Coupe|67|Ingrédient|Ternebois:Les Marges:Gyr Abania:70:False
+Rondin de plaqueminier|Botaniste|Coupe|67|Bois|Ternebois:Les Marges:Gyr Abania:70:False
+Matière première pour pièce décorative du Bord du gouffre|Botaniste|Coupe|68|Divers|Crâne d'Abalathia:Les Lacs:Gyr Abania:70:False
+Prune d'Othard|Botaniste|Coupe|70|Ingrédient|Onsal Hakair:Steppe d'Azim:Othard:70:True
+Rondin de zelkova|Botaniste|Coupe|70|Bois|Crâne d'Abalathia:Les Lacs:Gyr Abania:70:False
+Élément nécessaire à une fermentation|Botaniste|Coupe|70|Divers|Ternebois:Les Marges:Gyr Abania:70:False
+Boule de charbon|Botaniste|Coupe|70|Divers|Tour de Montvoir:Kholusia:Norvrandt:70:False
+Branche de kaya|Botaniste|Coupe|70|Bois|Jardins de la Reine:Les Lacs:Gyr Abania:70:True
+Spécialités de Kholusia|Botaniste|Coupe|70|Divers|Tour de Montvoir:Kholusia:Norvrandt:70:False
+Verveine de Yanxia|Botaniste|Coupe|70|Ingrédient|Jardins de la Reine:Les Lacs:Gyr Abania:70:True
+Branche de chêne blanc|Botaniste|Coupe|70|Bois|Chantier naval de Venmont:Kholusia:Norvrandt:70:True
+Pomme pixie|Botaniste|Coupe|71|Ingrédient|Halte de Dammroen:Il Mheg:Norvrandt:75:False
+Frantoio|Botaniste|Coupe|71|Ingrédient|Les mille Lacis:Grand-Lac:Norvrandt:75:False
+Rondin de chêne blanc|Botaniste|Coupe|71|Bois|Falaises éclatantes:Kholusia:Norvrandt:75:False
+Rondin de pommier miracle|Botaniste|Coupe|72|Bois|Halte de Dammroen:Il Mheg:Norvrandt:75:False
+Matériaux d'ustensiles de couture pour dragon|Botaniste|Coupe|72|Divers|Les Cent Râles:Avant-pays dravanien:Dravania:75:False
+Rondin de frêne blanc|Botaniste|Coupe|74|Bois|Solide Serment:Rak'tika:Norvrandt:75:False
+Ingrédients de sandwichs pour dragon|Botaniste|Coupe|74|Divers|Pleur caché:Les Pics:Gyr Abania:75:False
+Nid d'abeilles géantes|Botaniste|Coupe|75|Ingrédient|Solide Serment:Rak'tika:Norvrandt:75:False
+Antofle ambré|Botaniste|Coupe|76|Ingrédient|La Louche:Amh Araeng:Norvrandt:80:False
+Rondin de teck des sables|Botaniste|Coupe|76|Bois|La Louche:Amh Araeng:Norvrandt:80:False
+Rouge de Norvrandt|Botaniste|Coupe|78|Ingrédient|Le Guêpier:Grand-Lac:Norvrandt:80:False
+Petit citron|Botaniste|Coupe|80|Ingrédient|L'Aigrette:Kholusia:Norvrandt:80:True
+Rondin de gaïac|Botaniste|Coupe|80|Bois|Le Guêpier:Grand-Lac:Norvrandt:80:False
+Éclat de feu|Botaniste|Fauche|1|Cristal|Estival:Noscea centrale:Noscea:15:False,Le Seuil de sable:Thanalan oriental:Noscea:20:False,Les Os desséchés:Thanalan oriental:Noscea:25:False
+Éclat de glace|Botaniste|Fauche|1|Cristal|Quartpierre:Noscea occidentale:Noscea:20:False,Bas-Chemins:Forêt du sud:Noscea:35:False,Bas-Chemins:Forêt du sud:Noscea:40:False
+Éclat de vent|Botaniste|Fauche|1|Cristal|Brancharquée:Forêt centrale:Forêt de Sombrelinceul:15:False,Neuf-Lierres:Forêt de l'est:Forêt de Sombrelinceul:20:False
+Éclat de terre|Botaniste|Fauche|1|Cristal|Baie de Moraby:Basse-Noscea:Noscea:15:False,La Chênaie:Haute-Noscea:Noscea:25:False,Lac d'Airain:Haute-Noscea:Noscea:45:False,Sources de l'Aulne:Forêt du nord:Noscea:30:False
+Éclat de foudre|Botaniste|Fauche|1|Cristal|Le Nid:Thanalan central:Thanalan:15:False,Eaux-Mortes:Thanalan méridional:Thanalan:35:False,Désert de Sagolii:Thanalan méridional:Thanalan:50:False
+Éclat d'eau|Botaniste|Fauche|1|Cristal|Rives sanglantes:Noscea orientale:Noscea:35:False,Ravine des Cueillepluies:Noscea orientale:Noscea:40:False,Sources de Nophica:Thanalan occidental:Noscea:15:False,Confins d'Horizon:Thanalan occidental:Noscea:15:False
+Graines d'herbéclat de feu|Botaniste|Fauche|1|Jardinage|Estival:Noscea centrale:Noscea:15:False
+Graines d'herbéclat de glace|Botaniste|Fauche|1|Jardinage|Quartpierre:Noscea occidentale:Noscea:20:False
+Graines d'herbéclat de vent|Botaniste|Fauche|1|Jardinage|Brancharquée:Forêt centrale:Forêt de Sombrelinceul:15:False
+Graines d'herbéclat de terre|Botaniste|Fauche|1|Jardinage|Baie de Moraby:Basse-Noscea:Noscea:15:False
+Graines d'herbéclat de foudre|Botaniste|Fauche|1|Jardinage|Le Nid:Thanalan central:Thanalan:15:False
+Graines d'herbéclat d'eau|Botaniste|Fauche|1|Jardinage|Confins d'Horizon:Thanalan occidental:Thanalan:15:False
+Raisin des plaines|Botaniste|Fauche|11|Ingrédient|Baie de Moraby:Basse-Noscea:Noscea:15:False
+Chanterelle|Botaniste|Fauche|11|Ingrédient|Brancharquée:Forêt centrale:Forêt de Sombrelinceul:15:False
+Seigle|Botaniste|Fauche|11|Ingrédient|Confins d'Horizon:Thanalan occidental:Thanalan:15:False
+Blé|Botaniste|Fauche|11|Ingrédient|Estival:Noscea centrale:Noscea:15:False
+Ail garlemaldais|Botaniste|Fauche|11|Ingrédient|Sources de Nophica:Thanalan occidental:Thanalan:15:False
+Crapaud arboricole|Botaniste|Fauche|11|Ingrédient|Brancharquée:Forêt centrale:Forêt de Sombrelinceul:15:False
+Herbe de moko|Botaniste|Fauche|11|Tissu|Confins d'Horizon:Thanalan occidental:Thanalan:15:False
+Ginseng jaune|Botaniste|Fauche|11|Réactif|Le Nid:Thanalan central:Thanalan:15:False
+Graines de raisin des plaines|Botaniste|Fauche|11|Jardinage|Baie de Moraby:Basse-Noscea:Noscea:15:False
+Graines d'ail garlemaldais|Botaniste|Fauche|11|Jardinage|Sources de Nophica:Thanalan occidental:Thanalan:15:False
+Oignon sauvage|Botaniste|Fauche|12|Ingrédient|Sources de Nophica:Thanalan occidental:Thanalan:15:False
+Haricots buffle|Botaniste|Fauche|12|Ingrédient|Brancharquée:Forêt centrale:Forêt de Sombrelinceul:15:False
+Paille|Botaniste|Fauche|12|Tissu|Estival:Noscea centrale:Noscea:15:False
+Lavande|Botaniste|Fauche|12|Réactif|Brancharquée:Forêt centrale:Forêt de Sombrelinceul:15:False
+Vipère des prés|Botaniste|Fauche|12|Réactif|Confins d'Horizon:Thanalan occidental:Thanalan:15:False
+Bulbe d'oignon sauvage|Botaniste|Fauche|12|Jardinage|Sources de Nophica:Thanalan occidental:Thanalan:15:False
+Graines de lavande|Botaniste|Fauche|12|Jardinage|Brancharquée:Forêt centrale:Forêt de Sombrelinceul:15:False
+Carotte du Coerthas|Botaniste|Fauche|13|Ingrédient|Confins d'Horizon:Thanalan occidental:Thanalan:15:False
+Citrouille des ogres|Botaniste|Fauche|13|Ingrédient|Sources de Nophica:Thanalan occidental:Thanalan:15:False
+Laitue noscéenne|Botaniste|Fauche|13|Ingrédient|Estival:Noscea centrale:Noscea:15:False
+Olive cendrée|Botaniste|Fauche|13|Ingrédient|Baie de Moraby:Basse-Noscea:Noscea:15:False
+Terreau de feuilles|Botaniste|Fauche|13|Réactif|Brancharquée:Forêt centrale:Forêt de Sombrelinceul:15:False
+Œillet|Botaniste|Fauche|13|Réactif|Brancharquée:Forêt centrale:Forêt de Sombrelinceul:15:False
+Graines de carotte du Coerthas|Botaniste|Fauche|13|Jardinage|Confins d'Horizon:Thanalan occidental:Thanalan:15:False
+Graines de laitue noscéenne|Botaniste|Fauche|13|Jardinage|Estival:Noscea centrale:Noscea:15:False
+Graines d'olive cendrée|Botaniste|Fauche|13|Jardinage|Baie de Moraby:Basse-Noscea:Noscea:15:False
+Épinards des Cieldalaes|Botaniste|Fauche|14|Ingrédient|Baie de Moraby:Basse-Noscea:Noscea:15:False
+Poivre noir|Botaniste|Fauche|14|Ingrédient|Le Nid:Thanalan central:Thanalan:15:False
+Fleur de coton|Botaniste|Fauche|14|Tissu|Brancharquée:Forêt centrale:Forêt de Sombrelinceul:15:False
+Grains de poivre noir|Botaniste|Fauche|14|Jardinage|Le Nid:Thanalan central:Thanalan:15:False
+Tomate rubis|Botaniste|Fauche|15|Ingrédient|Estival:Noscea centrale:Noscea:15:False
+Panais alpin|Botaniste|Fauche|15|Ingrédient|Le Nid:Thanalan central:Thanalan:15:False
+Persil hyurgoth|Botaniste|Fauche|15|Ingrédient|Baie de Moraby:Basse-Noscea:Noscea:15:False
+Marjolaine|Botaniste|Fauche|15|Ingrédient|Brancharquée:Forêt centrale:Forêt de Sombrelinceul:15:False
+Paprika|Botaniste|Fauche|16|Ingrédient|Quartpierre:Noscea occidentale:Noscea:20:False
+Menthe galago|Botaniste|Fauche|16|Ingrédient|Neuf-Lierres:Forêt de l'est:Forêt de Sombrelinceul:20:False
+Graines de paprika|Botaniste|Fauche|16|Jardinage|Quartpierre:Noscea occidentale:Noscea:20:False
+Lentilles lalafelles|Botaniste|Fauche|17|Ingrédient|Quartpierre:Noscea occidentale:Noscea:20:False
+Popoto|Botaniste|Fauche|18|Ingrédient|Le Seuil de sable:Thanalan oriental:Thanalan:20:False
+Belladone|Botaniste|Fauche|18|Réactif|Neuf-Lierres:Forêt de l'est:Forêt de Sombrelinceul:20:False
+Tubercule de popoto|Botaniste|Fauche|18|Jardinage|Le Seuil de sable:Thanalan oriental:Thanalan:20:False
+Cèpe|Botaniste|Fauche|19|Ingrédient|Neuf-Lierres:Forêt de l'est:Forêt de Sombrelinceul:20:False
+Pousse noscéenne|Botaniste|Fauche|20|Réactif|Quartpierre:Noscea occidentale:Noscea:20:False
+Pousse sombrelinçoise|Botaniste|Fauche|20|Réactif|Neuf-Lierres:Forêt de l'est:Forêt de Sombrelinceul:20:False
+Pousse thanalanaise|Botaniste|Fauche|20|Réactif|Le Seuil de sable:Thanalan oriental:Thanalan:20:False
+Scorpion blanc|Botaniste|Fauche|20|Réactif|Le Seuil de sable:Thanalan oriental:Thanalan:20:False
+Prunes sylphes|Botaniste|Fauche|21|Ingrédient|La Chênaie:Haute-Noscea:Noscea:25:False
+Graines de prunier sylphe|Botaniste|Fauche|21|Jardinage|La Chênaie:Haute-Noscea:Noscea:25:False
+Raisin noble|Botaniste|Fauche|22|Ingrédient|La Chênaie:Haute-Noscea:Noscea:25:False
+Champignon bouton|Botaniste|Fauche|22|Ingrédient|Les Os desséchés:Thanalan oriental:Thanalan:25:False
+Moutarde mhigoise|Botaniste|Fauche|23|Ingrédient|Les Os desséchés:Thanalan oriental:Thanalan:25:False
+Graines de moutarde mhigoise|Botaniste|Fauche|23|Jardinage|Les Os desséchés:Thanalan oriental:Thanalan:25:False
+Gingembre perlé|Botaniste|Fauche|24|Ingrédient|Les Os desséchés:Thanalan oriental:Thanalan:25:False
+Camomille|Botaniste|Fauche|24|Réactif|La Chênaie:Haute-Noscea:Noscea:25:False
+Rhizome de gingembre perlé|Botaniste|Fauche|24|Jardinage|Les Os desséchés:Thanalan oriental:Thanalan:25:False
+Graines de camomille|Botaniste|Fauche|24|Jardinage|La Chênaie:Haute-Noscea:Noscea:25:False
+Riz gluant|Botaniste|Fauche|25|Ingrédient|La Chênaie:Haute-Noscea:Noscea:25:False
+Milli-maïs|Botaniste|Fauche|25|Ingrédient|Les Os desséchés:Thanalan oriental:Thanalan:25:False
+Graines de milli-maïs|Botaniste|Fauche|25|Jardinage|Les Os desséchés:Thanalan oriental:Thanalan:25:False
+Pois de jade|Botaniste|Fauche|26|Ingrédient|Sources de l'Aulne:Forêt du nord:Forêt de Sombrelinceul:30:False
+Cristal de feu|Botaniste|Fauche|26|Cristal|Forêt des chocobos:Avant-pays dravanien:Dravania:55:False,Déclin d'Avalonia:Avant-pays dravanien:Dravania:60:False,Confins est:Les Marges:Dravania:60:False,Ternebois:Les Marges:Dravania:65:False,La Truffe:Amh Araeng:Dravania:70:False
+Cristal de glace|Botaniste|Fauche|26|Cristal|Les Jumeaux:Hautes terres du Coerthas occidental:Coerthas:55:False,Les Jumeaux:Hautes terres du Coerthas occidental:Coerthas:60:False,Prairie de Gorgagne:Hautes terres du Coerthas occidental:Coerthas:65:False,Tour de Mervoir:Kholusia:Coerthas:75:False,Plateau aux Rocs:Kholusia:Coerthas:80:False,Tomra:Kholusia:Coerthas:80:True
+Cristal de vent|Botaniste|Fauche|26|Cristal|Rougebord:Hautes terres du Coerthas occidental:Coerthas:60:True,Ok' Vundu Mok:L'Écume des cieux d'Abalathia:Coerthas:60:True,Quartier académique:Arrière-pays dravanien:Coerthas:60:False,Delta de Grand-Flot:Arrière-pays dravanien:Coerthas:75:False,Bassin rutilant:Yanxia:Coerthas:70:True,Doma:Yanxia:Coerthas:70:False,Manoir des Yuzuka:Yanxia:Coerthas:75:False,Géant accroupi:Rak'tika:Coerthas:75:False,Astropole des K'mul:Rak'tika:Coerthas:80:True,La Frairie sauvage:Rak'tika:Coerthas:80:False
+Cristal de terre|Botaniste|Fauche|26|Cristal|Déclin d'Avalonia:Avant-pays dravanien:Dravania:60:True,Arboretum Sainte-Mocianne:Arrière-pays dravanien:Dravania:60:True,Colonie des Maîtres terriens:L'Écume des cieux de Dravania:Dravania:55:False,Fort-Heaume:L'Écume des cieux de Dravania:Dravania:60:False,Clos-Vert:L'Écume des cieux de Dravania:Dravania:60:True,Ohl Tahn:L'Écume des cieux de Dravania:Dravania:65:False,Retraite de Nhaama:Steppe d'Azim:Dravania:70:False,Forêt du Berger égaré:Grand-Lac:Dravania:75:False,Dents-de-pierre:Grand-Lac:Dravania:80:True,Ivraie:Grand-Lac:Dravania:80:False
+Cristal de foudre|Botaniste|Fauche|26|Cristal|La Fenêtre bleue:L'Écume des cieux d'Abalathia:Abalathia:60:False,Le Nidifice:L'Écume des cieux d'Abalathia:Abalathia:75:False,Dernière forêt:Les Pics:Abalathia:60:False,Dernière forêt:Les Pics:Abalathia:65:False,Mont Yorn:Les Pics:Abalathia:70:False
+Cristal d'eau|Botaniste|Fauche|26|Cristal|Île de Bekko:Mer de Rubis:Othard:60:False,Rasen Kaikyo:Mer de Rubis:Othard:65:False,Côte orientale d'Othard:Mer de Rubis:Othard:65:False,Rasen Kaikyo:Mer de Rubis:Othard:70:False,Thysm Lran:Il Mheg:Othard:70:False,Route de la laine:Il Mheg:Othard:75:False
+Aubergine du mage|Botaniste|Fauche|27|Ingrédient|Sources de l'Aulne:Forêt du nord:Forêt de Sombrelinceul:30:False
+Graines d'aubergine du mage|Botaniste|Fauche|27|Jardinage|Sources de l'Aulne:Forêt du nord:Forêt de Sombrelinceul:30:False
+Chou hyurois|Botaniste|Fauche|28|Ingrédient|Sources de l'Aulne:Forêt du nord:Forêt de Sombrelinceul:30:False
+Graines de chou hyurois|Botaniste|Fauche|28|Jardinage|Sources de l'Aulne:Forêt du nord:Forêt de Sombrelinceul:30:False
+Sangsue des landes|Botaniste|Fauche|30|Réactif|Sources de l'Aulne:Forêt du nord:Forêt de Sombrelinceul:30:False
+Fibres de lin|Botaniste|Fauche|31|Tissu|Bas-Chemins:Forêt du sud:Forêt de Sombrelinceul:35:False
+Herbes de Yafaem|Botaniste|Fauche|31|Divers|Eaux-Mortes:Thanalan méridional:Thanalan:35:False
+Graines de lin|Botaniste|Fauche|31|Jardinage|Bas-Chemins:Forêt du sud:Forêt de Sombrelinceul:35:False
+Aloès|Botaniste|Fauche|32|Ingrédient|Eaux-Mortes:Thanalan méridional:Thanalan:35:False
+Basilic hyurois|Botaniste|Fauche|32|Ingrédient|Rives sanglantes:Noscea orientale:Noscea:35:False
+Graines de basilic hyurois|Botaniste|Fauche|32|Jardinage|Rives sanglantes:Noscea orientale:Noscea:35:False
+Truffe blanche|Botaniste|Fauche|33|Ingrédient|Bas-Chemins:Forêt du sud:Forêt de Sombrelinceul:35:False
+Baron rouge|Botaniste|Fauche|33|Tissu|Eaux-Mortes:Thanalan méridional:Thanalan:35:False
+Mandragore|Botaniste|Fauche|33|Réactif|Rives sanglantes:Noscea orientale:Noscea:35:False
+Graines de mandragore|Botaniste|Fauche|33|Jardinage|Rives sanglantes:Noscea orientale:Noscea:35:False
+Poireau des marais|Botaniste|Fauche|34|Ingrédient|Rives sanglantes:Noscea orientale:Noscea:35:False
+Laurier|Botaniste|Fauche|34|Ingrédient|Eaux-Mortes:Thanalan méridional:Thanalan:35:False
+Plume de tetrax|Botaniste|Fauche|34|Tissu|Bas-Chemins:Forêt du sud:Forêt de Sombrelinceul:35:False
+Piment dragon|Botaniste|Fauche|35|Ingrédient|Rives sanglantes:Noscea orientale:Noscea:35:False
+Safran du désert|Botaniste|Fauche|35|Ingrédient|Eaux-Mortes:Thanalan méridional:Thanalan:35:False
+Groseille sanguine|Botaniste|Fauche|36|Ingrédient|Bas-Chemins:Forêt du sud:Forêt de Sombrelinceul:40:False
+Graines de groseillier sanguin|Botaniste|Fauche|36|Jardinage|Bas-Chemins:Forêt du sud:Forêt de Sombrelinceul:40:False
+Armoise|Botaniste|Fauche|37|Ingrédient|Ravine des Cueillepluies:Noscea orientale:Noscea:40:False
+Artichaut de la vierge|Botaniste|Fauche|38|Ingrédient|Ravine des Cueillepluies:Noscea orientale:Noscea:40:False
+Courgette corne de bélier|Botaniste|Fauche|39|Ingrédient|Ravine des Cueillepluies:Noscea orientale:Noscea:40:False
+Thym|Botaniste|Fauche|39|Ingrédient|Bas-Chemins:Forêt du sud:Forêt de Sombrelinceul:40:False
+Sauge de Sagolii|Botaniste|Fauche|41|Ingrédient|Lac d'Airain:Haute-Noscea:Noscea:45:False
+Scorpion noir|Botaniste|Fauche|42|Réactif|Lac d'Airain:Haute-Noscea:Noscea:45:False
+Rolanbaie|Botaniste|Fauche|43|Ingrédient|Lac d'Airain:Haute-Noscea:Noscea:45:False
+Graines de rolanbaie|Botaniste|Fauche|43|Jardinage|Lac d'Airain:Haute-Noscea:Noscea:45:False
+Grenouille flèche|Botaniste|Fauche|45|Réactif|Lac d'Airain:Haute-Noscea:Noscea:45:False
+Feuilles de thé du Thanalan|Botaniste|Fauche|48|Ingrédient|Désert de Sagolii:Thanalan méridional:Thanalan:50:False
+Crapaud lavique|Botaniste|Fauche|49|Ingrédient|Désert de Sagolii:Thanalan méridional:Thanalan:50:False
+Eulalie|Botaniste|Fauche|50|Tissu|Désert de Sagolii:Thanalan méridional:Thanalan:50:False
+Agrégat de glace|Botaniste|Fauche|50|Cristal|Tomra:Kholusia:Norvrandt:80:True
+Agrégat de vent|Botaniste|Fauche|50|Cristal|Rougebord:Hautes terres du Coerthas occidental:Coerthas:60:True,Ok' Vundu Mok:L'Écume des cieux d'Abalathia:Coerthas:60:True,Bassin rutilant:Yanxia:Coerthas:70:True,Astropole des K'mul:Rak'tika:Coerthas:80:True
+Agrégat de terre|Botaniste|Fauche|50|Cristal|Déclin d'Avalonia:Avant-pays dravanien:Dravania:60:True,Arboretum Sainte-Mocianne:Arrière-pays dravanien:Dravania:60:True,Clos-Vert:L'Écume des cieux de Dravania:Dravania:60:True,Retraite de Nhaama:Steppe d'Azim:Dravania:70:True,Dents-de-pierre:Grand-Lac:Dravania:80:True
+Tomate Dzemael|Botaniste|Fauche|50|Ingrédient|Ravine des Cueillepluies:Noscea orientale:Noscea:50:True
+Citron miel|Botaniste|Fauche|50|Ingrédient|Rives sanglantes:Noscea orientale:Noscea:50:True
+Truffe noire|Botaniste|Fauche|50|Ingrédient|Les Os desséchés:Thanalan oriental:Thanalan:50:True
+Cocon de ver à soie|Botaniste|Fauche|50|Tissu|Neuf-Lierres:Forêt de l'est:Forêt de Sombrelinceul:50:True
+Trille|Botaniste|Fauche|50|Réactif|Massif de ronces:Forêt de l'est:Forêt de Sombrelinceul:50:True
+Bulbe de trille|Botaniste|Fauche|50|Réactif|Jardinet du miel:Forêt de l'est:Forêt de Sombrelinceul:50:True
+Mini-mini-mandragore|Botaniste|Fauche|50|Mascotte|Jardinet du miel:Forêt de l'est:Forêt de Sombrelinceul:50:True
+Graines de tomate Dzemael|Botaniste|Fauche|50|Jardinage|Ravine des Cueillepluies:Noscea orientale:Noscea:50:True
+Graines de citronnier miel|Botaniste|Fauche|50|Jardinage|Rives sanglantes:Noscea orientale:Noscea:50:True
+Cristal terni|Botaniste|Fauche|50|Pierre|La Cédrière:Basse-Noscea:Noscea:50:True,Rives sanglantes:Noscea orientale:Noscea:50:True,Ravine des Cueillepluies:Noscea orientale:Noscea:50:True,Quartpierre:Noscea occidentale:Noscea:50:True,Havre des Renouées:Forêt centrale:Noscea:50:True,Jardinet du miel:Forêt de l'est:Noscea:50:True,Neuf-Lierres:Forêt de l'est:Noscea:50:True,Massif de ronces:Forêt de l'est:Noscea:50:True,Les Os desséchés:Thanalan oriental:Noscea:50:True
+Herbes de Mazlaya|Botaniste|Fauche|50|Divers|La Cédrière:Basse-Noscea:Noscea:50:True,Quartpierre:Noscea occidentale:Noscea:50:True,Havre des Renouées:Forêt centrale:Noscea:50:True,Jardinet du miel:Forêt de l'est:Noscea:50:True,Neuf-Lierres:Forêt de l'est:Noscea:50:True,Massif de ronces:Forêt de l'est:Noscea:50:True,Les Os desséchés:Thanalan oriental:Noscea:50:True
+Poireau noscéen|Botaniste|Fauche|50|Ingrédient|Quartpierre:Noscea occidentale:Noscea:50:True
+Jeunes épinards des Cieldalaes|Botaniste|Fauche|50|Ingrédient|La Cédrière:Basse-Noscea:Noscea:50:True
+Plume de sauvagine|Botaniste|Fauche|50|Tissu|Quartpierre:Noscea occidentale:Noscea:50:True
+Feuilles de thé de Tinolqa|Botaniste|Fauche|50|Réactif|Havre des Renouées:Forêt centrale:Forêt de Sombrelinceul:50:True
+Agrégat de matière sombre|Botaniste|Fauche|50|Catalyseur|La Cédrière:Basse-Noscea:Noscea:50:True,Rives sanglantes:Noscea orientale:Noscea:50:True,Ravine des Cueillepluies:Noscea orientale:Noscea:50:True,Quartpierre:Noscea occidentale:Noscea:50:True,Havre des Renouées:Forêt centrale:Noscea:50:True,Jardinet du miel:Forêt de l'est:Noscea:50:True,Neuf-Lierres:Forêt de l'est:Noscea:50:True,Massif de ronces:Forêt de l'est:Noscea:50:True,Les Os desséchés:Thanalan oriental:Noscea:50:True,Forêt des chocobos:Avant-pays dravanien:Noscea:50:True
+Figue du vieux continent|Botaniste|Fauche|50|Ingrédient|Forêt des chocobos:Avant-pays dravanien:Dravania:50:True
+Graines de figuier du vieux continent|Botaniste|Fauche|50|Jardinage|Forêt des chocobos:Avant-pays dravanien:Dravania:50:True
+Romarin|Botaniste|Fauche|50|Réactif|Neuf-Lierres:Forêt de l'est:Forêt de Sombrelinceul:50:True
+Fleur de coton arc-en-ciel|Botaniste|Fauche|51|Tissu|Les Jumeaux:Hautes terres du Coerthas occidental:Coerthas:55:False
+Chou-bourgeon|Botaniste|Fauche|52|Ingrédient|Deux-Rivières:Hautes terres du Coerthas occidental:Coerthas:55:True
+Aneth|Botaniste|Fauche|52|Ingrédient|Les Jumeaux:Hautes terres du Coerthas occidental:Coerthas:55:False
+Graines de chou-bourgeon|Botaniste|Fauche|52|Jardinage|Deux-Rivières:Hautes terres du Coerthas occidental:Coerthas:55:True
+Échalion cyclope|Botaniste|Fauche|53|Ingrédient|Forêt des chocobos:Avant-pays dravanien:Dravania:55:False
+Blé des hautes terres|Botaniste|Fauche|53|Ingrédient|Forêt des chocobos:Avant-pays dravanien:Dravania:55:False
+Feuilles de thé du Coerthas|Botaniste|Fauche|53|Ingrédient|Deux-Rivières:Hautes terres du Coerthas occidental:Coerthas:55:True
+Graines de théier du Coerthas|Botaniste|Fauche|53|Jardinage|Deux-Rivières:Hautes terres du Coerthas occidental:Coerthas:55:True
+Tige de ramie|Botaniste|Fauche|54|Tissu|Forêt des chocobos:Avant-pays dravanien:Dravania:55:False
+Betteraves de magma|Botaniste|Fauche|55|Ingrédient|Colonie des Maîtres terriens:L'Écume des cieux de Dravania:Dravania:55:False
+Haricots émeraude|Botaniste|Fauche|55|Ingrédient|Colonie des Maîtres terriens:L'Écume des cieux de Dravania:Dravania:55:False
+Ciboulette|Botaniste|Fauche|55|Ingrédient|Deux-Rivières:Hautes terres du Coerthas occidental:Coerthas:55:True
+Origan|Botaniste|Fauche|56|Ingrédient|Rougebord:Hautes terres du Coerthas occidental:Coerthas:60:True,Ok' Vundu Mok:L'Écume des cieux d'Abalathia:Coerthas:60:True
+Marjolaine potagère|Botaniste|Fauche|56|Ingrédient|Rougebord:Hautes terres du Coerthas occidental:Coerthas:60:True,Ok' Vundu Mok:L'Écume des cieux d'Abalathia:Coerthas:60:True
+Argile granuleuse|Botaniste|Fauche|56|Réactif|Déclin d'Avalonia:Avant-pays dravanien:Dravania:60:True,Arboretum Sainte-Mocianne:Arrière-pays dravanien:Dravania:60:True,Clos-Vert:L'Écume des cieux de Dravania:Dravania:60:True
+Échinacée|Botaniste|Fauche|56|Réactif|Déclin d'Avalonia:Avant-pays dravanien:Dravania:60:False
+Sésame|Botaniste|Fauche|57|Ingrédient|La Fenêtre bleue:L'Écume des cieux d'Abalathia:Abalathia:60:False
+Tanaisie|Botaniste|Fauche|57|Réactif|Quartier académique:Arrière-pays dravanien:Dravania:60:False
+Pièce de monnaie ancienne de Radz-at-Han|Botaniste|Fauche|57|Divers|Quartier académique:Arrière-pays dravanien:Dravania:60:False
+Menthe douce|Botaniste|Fauche|58|Ingrédient|Rougebord:Hautes terres du Coerthas occidental:Coerthas:60:True,Ok' Vundu Mok:L'Écume des cieux d'Abalathia:Coerthas:60:True
+Menthe aquatique|Botaniste|Fauche|58|Ingrédient|Rougebord:Hautes terres du Coerthas occidental:Coerthas:60:True,Ok' Vundu Mok:L'Écume des cieux d'Abalathia:Coerthas:60:True
+Stalagmite de glace|Botaniste|Fauche|58|Réactif|Les Jumeaux:Hautes terres du Coerthas occidental:Coerthas:60:False
+Tourbe|Botaniste|Fauche|58|Réactif|Déclin d'Avalonia:Avant-pays dravanien:Dravania:60:True,Arboretum Sainte-Mocianne:Arrière-pays dravanien:Dravania:60:True,Clos-Vert:L'Écume des cieux de Dravania:Dravania:60:True
+Rue des jardins|Botaniste|Fauche|58|Réactif|Les Jumeaux:Hautes terres du Coerthas occidental:Coerthas:60:False
+Mousse tombe-crépuscule|Botaniste|Fauche|59|Réactif|Fort-Heaume:L'Écume des cieux de Dravania:Dravania:60:False
+Pissenlit|Botaniste|Fauche|59|Réactif|Fort-Heaume:L'Écume des cieux de Dravania:Dravania:60:False
+Coriandre|Botaniste|Fauche|59|Réactif|Les Jumeaux:Hautes terres du Coerthas occidental:Coerthas:60:False
+Légumes cabus|Botaniste|Fauche|60|Ingrédient|Les Jumeaux:Hautes terres du Coerthas occidental:Coerthas:60:True
+Sauge sclarée|Botaniste|Fauche|60|Ingrédient|Rougebord:Hautes terres du Coerthas occidental:Coerthas:60:True,Ok' Vundu Mok:L'Écume des cieux d'Abalathia:Coerthas:60:True
+Sauge verveine|Botaniste|Fauche|60|Ingrédient|Rougebord:Hautes terres du Coerthas occidental:Coerthas:60:True,Ok' Vundu Mok:L'Écume des cieux d'Abalathia:Coerthas:60:True
+Terreau noir|Botaniste|Fauche|60|Réactif|Déclin d'Avalonia:Avant-pays dravanien:Dravania:60:True,Arboretum Sainte-Mocianne:Arrière-pays dravanien:Dravania:60:True,Clos-Vert:L'Écume des cieux de Dravania:Dravania:60:True
+Humus|Botaniste|Fauche|60|Réactif|Déclin d'Avalonia:Avant-pays dravanien:Dravania:60:True,Arboretum Sainte-Mocianne:Arrière-pays dravanien:Dravania:60:True,Clos-Vert:L'Écume des cieux de Dravania:Dravania:60:True
+Cataire|Botaniste|Fauche|60|Réactif|Quartier académique:Arrière-pays dravanien:Dravania:60:False
+Pervenche|Botaniste|Fauche|60|Réactif|La Fenêtre bleue:L'Écume des cieux d'Abalathia:Abalathia:60:False,Déclin d'Avalonia:Avant-pays dravanien:Abalathia:60:False,Quartier académique:Arrière-pays dravanien:Abalathia:60:False,Fort-Heaume:L'Écume des cieux de Dravania:Abalathia:60:False
+Œil-de-verre|Botaniste|Fauche|60|Divers|La Fenêtre bleue:L'Écume des cieux d'Abalathia:Abalathia:60:False
+Sablétoile|Botaniste|Fauche|60|Divers|Confins est:Les Marges:Gyr Abania:60:False
+Koban de Shishu|Botaniste|Fauche|60|Divers|Île de Bekko:Mer de Rubis:Othard:60:False
+Bijou de la dynastie des Cotter|Botaniste|Fauche|60|Divers|Confins est:Les Marges:Gyr Abania:60:False
+Feuille de laurier de Menphina|Botaniste|Fauche|60|Ingrédient|Rougebord:Hautes terres du Coerthas occidental:Coerthas:60:True,Ok' Vundu Mok:L'Écume des cieux d'Abalathia:Coerthas:60:True,Déclin d'Avalonia:Avant-pays dravanien:Coerthas:60:True,Arboretum Sainte-Mocianne:Arrière-pays dravanien:Coerthas:60:True,Clos-Vert:L'Écume des cieux de Dravania:Coerthas:60:True
+Fleur de coton du givre|Botaniste|Fauche|60|Tissu|Les Jumeaux:Hautes terres du Coerthas occidental:Coerthas:60:False
+Pigment arc-en-ciel|Botaniste|Fauche|60|Teinture|Déclin d'Avalonia:Avant-pays dravanien:Dravania:60:False
+Pigments gyrabaniens|Botaniste|Fauche|60|Divers|Dernière forêt:Les Pics:Gyr Abania:60:False
+Racine de kudzu doré|Botaniste|Fauche|60|Divers|Dernière forêt:Les Pics:Gyr Abania:60:False
+Blé des plateaux|Botaniste|Fauche|60|Ingrédient|Confins est:Les Marges:Gyr Abania:60:False
+Akaso|Botaniste|Fauche|60|Tissu|Confins est:Les Marges:Gyr Abania:60:False
+Poudre minérale thérapeutique|Botaniste|Fauche|61|Divers|Dernière forêt:Les Pics:Gyr Abania:65:False
+Popoto des montagnes|Botaniste|Fauche|62|Ingrédient|Dernière forêt:Les Pics:Gyr Abania:65:False
+Graines de sarrasin|Botaniste|Fauche|62|Ingrédient|Dernière forêt:Les Pics:Gyr Abania:65:False
+Sargasse tamamo|Botaniste|Fauche|62|Ingrédient|Rasen Kaikyo:Mer de Rubis:Othard:65:False
+Pièce de harpon|Botaniste|Fauche|62|Divers|Ternebois:Les Marges:Gyr Abania:65:False
+Fleur de rubicoton|Botaniste|Fauche|63|Tissu|Rasen Kaikyo:Mer de Rubis:Othard:65:False
+Basilic sacré|Botaniste|Fauche|63|Réactif|Ternebois:Les Marges:Gyr Abania:65:False
+Liquide isolant|Botaniste|Fauche|63|Divers|Prairie de Gorgagne:Hautes terres du Coerthas occidental:Coerthas:65:False
+Betterave sucrière|Botaniste|Fauche|64|Ingrédient|Dernière forêt:Les Pics:Gyr Abania:65:False
+Poireau gyrabanien|Botaniste|Fauche|64|Ingrédient|Dernière forêt:Les Pics:Gyr Abania:65:False
+Soja|Botaniste|Fauche|64|Ingrédient|Côte orientale d'Othard:Mer de Rubis:Othard:65:False
+Amanori|Botaniste|Fauche|64|Ingrédient|Rasen Kaikyo:Mer de Rubis:Othard:65:False
+Joyau en rubis|Botaniste|Fauche|64|Divers|Rasen Kaikyo:Mer de Rubis:Othard:65:False
+Kudzu|Botaniste|Fauche|65|Ingrédient|Ternebois:Les Marges:Gyr Abania:65:False
+Graines de cumin|Botaniste|Fauche|65|Ingrédient|Côte orientale d'Othard:Mer de Rubis:Othard:65:False
+Sarment de kudzu|Botaniste|Fauche|65|Tissu|Ternebois:Les Marges:Gyr Abania:65:False
+Penne de la Mer de nuages|Botaniste|Fauche|65|Divers|Ohl Tahn:L'Écume des cieux de Dravania:Dravania:65:False
+Grand radis oriental|Botaniste|Fauche|66|Ingrédient|Doma:Yanxia:Othard:70:False
+Carotte gyrabanienne|Botaniste|Fauche|66|Ingrédient|Mont Yorn:Les Pics:Gyr Abania:70:False
+Rhizome de lotus|Botaniste|Fauche|66|Ingrédient|Vallée aux Prismes:Yanxia:Othard:70:True
+Chou-soleil|Botaniste|Fauche|66|Ingrédient|Retraite de Nhaama:Steppe d'Azim:Othard:70:False
+Fenouil|Botaniste|Fauche|66|Ingrédient|Retraite de Nhaama:Steppe d'Azim:Othard:70:False
+Lœss|Botaniste|Fauche|66|Pierre|Retraite de Nhaama:Steppe d'Azim:Othard:70:True
+Mauve des vents|Botaniste|Fauche|66|Réactif|Bassin rutilant:Yanxia:Othard:70:True
+Princesse-du-thé|Botaniste|Fauche|66|Réactif|Bassin rutilant:Yanxia:Othard:70:True
+Épices de la Steppe d'Azim|Botaniste|Fauche|66|Divers|Retraite de Nhaama:Steppe d'Azim:Othard:70:False
+Goémon corallin|Botaniste|Fauche|67|Ingrédient|Rasen Kaikyo:Mer de Rubis:Othard:70:False
+Gingembre jhammel|Botaniste|Fauche|68|Ingrédient|Crâne d'Abalathia:Les Lacs:Gyr Abania:70:True
+Œnanthe de Yanxia|Botaniste|Fauche|68|Réactif|Doma:Yanxia:Othard:70:False
+Alysson|Botaniste|Fauche|68|Réactif|Mont Yorn:Les Pics:Gyr Abania:70:False
+Gnaphale orientale|Botaniste|Fauche|68|Réactif|Doma:Yanxia:Othard:70:False
+Mouron blanc|Botaniste|Fauche|68|Réactif|Retraite de Nhaama:Steppe d'Azim:Othard:70:False
+Lamier amplexicaule|Botaniste|Fauche|68|Réactif|Retraite de Nhaama:Steppe d'Azim:Othard:70:False
+Bringèle domienne|Botaniste|Fauche|69|Ingrédient|Doma:Yanxia:Othard:70:False
+Cocon double|Botaniste|Fauche|69|Tissu|Mont Yorn:Les Pics:Gyr Abania:70:False
+Épices parfumées|Botaniste|Fauche|70|Divers|La Truffe:Amh Araeng:Norvrandt:70:False
+Minerai brillant|Botaniste|Fauche|70|Divers|Thysm Lran:Il Mheg:Norvrandt:70:False
+Trace d'animal sauvage|Botaniste|Fauche|70|Autre|La Truffe:Amh Araeng:Norvrandt:70:False
+Basilic béni|Botaniste|Fauche|70|Réactif|Rocrouillé:Les Pics:Gyr Abania:70:True
+Élément pour intérieur d'aéronef|Botaniste|Fauche|70|Divers|La Truffe:Amh Araeng:Norvrandt:70:False
+Verveine de Yanxia|Botaniste|Fauche|70|Ingrédient|Bassin rutilant:Yanxia:Othard:70:True,Retraite de Nhaama:Steppe d'Azim:Othard:70:True
+Poivre sombre|Botaniste|Fauche|70|Ingrédient|La Truffe:Amh Araeng:Norvrandt:70:False
+Carotte violette|Botaniste|Fauche|71|Ingrédient|Forêt du Berger égaré:Grand-Lac:Norvrandt:75:False
+Persil frisé|Botaniste|Fauche|71|Ingrédient|Route de la laine:Il Mheg:Norvrandt:75:False
+Tomate sanguine|Botaniste|Fauche|71|Ingrédient|Route de la laine:Il Mheg:Norvrandt:75:False
+Fibres de lin blanc|Botaniste|Fauche|71|Tissu|Forêt du Berger égaré:Grand-Lac:Norvrandt:75:False
+Matériaux d'outils de récolte pour dragon|Botaniste|Fauche|71|Divers|Delta de Grand-Flot:Arrière-pays dravanien:Dravania:75:False
+Betterave potagère|Botaniste|Fauche|72|Ingrédient|Route de la laine:Il Mheg:Norvrandt:75:False
+Féverole|Botaniste|Fauche|72|Ingrédient|Phisor Lran:Il Mheg:Norvrandt:75:True
+Cocon iridescent|Botaniste|Fauche|72|Tissu|Route de la laine:Il Mheg:Norvrandt:75:False
+Blé des hauts plateaux|Botaniste|Fauche|73|Ingrédient|Tour de Mervoir:Kholusia:Norvrandt:75:False
+Matériaux d'outils d'artisanat pour dragon|Botaniste|Fauche|73|Divers|Le Nidifice:L'Écume des cieux d'Abalathia:Abalathia:75:False
+Déjection d'animal sauvage|Botaniste|Fauche|73|Autre|Forêt du Berger égaré:Grand-Lac:Norvrandt:75:False
+Menthe poivrée|Botaniste|Fauche|74|Ingrédient|Embrasure:Grand-Lac:Norvrandt:75:True
+Fleur de coton pixie|Botaniste|Fauche|74|Tissu|Géant accroupi:Rak'tika:Norvrandt:75:False
+Raisin royal|Botaniste|Fauche|75|Ingrédient|Géant accroupi:Rak'tika:Norvrandt:75:False
+Champignon laiteux|Botaniste|Fauche|75|Ingrédient|Géant accroupi:Rak'tika:Norvrandt:75:False
+Matériaux d'imprimerie|Botaniste|Fauche|75|Divers|Manoir des Yuzuka:Yanxia:Othard:75:False
+Résidu alimentaire d'animal géant|Botaniste|Fauche|75|Autre|Route de la laine:Il Mheg:Norvrandt:75:False
+Popoto brune|Botaniste|Fauche|76|Ingrédient|La Queuequeue:Amh Araeng:Norvrandt:80:True
+Terre perlée|Botaniste|Fauche|76|Pierre|Tomra:Kholusia:Norvrandt:80:True
+Alysson doux|Botaniste|Fauche|76|Réactif|La Frairie sauvage:Rak'tika:Norvrandt:80:False
+Marjolaine douceâtre|Botaniste|Fauche|76|Réactif|Astropole des K'mul:Rak'tika:Norvrandt:80:True
+Lavande pinnata|Botaniste|Fauche|77|Réactif|La Frairie sauvage:Rak'tika:Norvrandt:80:False
+Jeunes épinards brume|Botaniste|Fauche|78|Ingrédient|Halte de l'Archère:Rak'tika:Norvrandt:80:True
+Riz bomba|Botaniste|Fauche|78|Ingrédient|Plateau aux Rocs:Kholusia:Norvrandt:80:False
+Grains de café|Botaniste|Fauche|78|Ingrédient|Plateau aux Rocs:Kholusia:Norvrandt:80:False
+Basilic citron|Botaniste|Fauche|78|Réactif|Ivraie:Grand-Lac:Norvrandt:80:False
+Trace d'animal géant|Botaniste|Fauche|78|Autre|La Frairie sauvage:Rak'tika:Norvrandt:80:False
+Fleur de coton nain|Botaniste|Fauche|79|Tissu|Plateau aux Rocs:Kholusia:Norvrandt:80:False
+Lys tigrés|Botaniste|Fauche|79|Réactif|Ivraie:Grand-Lac:Norvrandt:80:False
+Gerberas lumineuses|Botaniste|Fauche|79|Réactif|Ivraie:Grand-Lac:Norvrandt:80:False
+Sauge officinale|Botaniste|Fauche|80|Réactif|Dents-de-pierre:Grand-Lac:Norvrandt:80:True
+Menthe éclair|Botaniste|Fauche|80|Réactif|Dents-de-pierre:Grand-Lac:Norvrandt:80:True,Tomra:Kholusia:Norvrandt:80:True,Astropole des K'mul:Rak'tika:Norvrandt:80:True
+Minerai de tungstite|Mineur|Extraction de minerai|60|Pierre|Les Jumeaux:Hautes terres du Coerthas occidental:Coerthas:60:True
+Quartz violet|Mineur|Extraction de pierre|60|Pierre|Deux-Rivières:Hautes terres du Coerthas occidental:Coerthas:60:True
+Granulat astral|Mineur|Extraction de pierre|60|Pierre|Deux-Rivières:Hautes terres du Coerthas occidental:Coerthas:60:True
+Paprika dravanien|Botaniste|Fauche|60|Ingrédient|Les Jumeaux:Hautes terres du Coerthas occidental:Coerthas:60:True
+Gousse de vanille|Botaniste|Fauche|60|Ingrédient|Les Jumeaux:Hautes terres du Coerthas occidental:Coerthas:60:True
+Fleur de coton des neiges|Botaniste|Fauche|60|Tissu|Les Jumeaux:Hautes terres du Coerthas occidental:Coerthas:60:True
+Minerai d'aurum regis|Mineur|Extraction de minerai|60|Pierre|Clos-Vert:L'Écume des cieux de Dravania:Dravania:60:True
+Minerai de lumithrite|Mineur|Extraction de minerai|60|Pierre|Clos-Vert:L'Écume des cieux de Dravania:Dravania:60:True
+Quartz bleu|Mineur|Extraction de pierre|60|Pierre|Quartier académique:Arrière-pays dravanien:Dravania:60:True
+Minerai de zéolite|Mineur|Extraction de pierre|60|Pierre|Quartier des Sages:Arrière-pays dravanien:Dravania:60:True
+Vieux camphrier|Botaniste|Coupe|60|Bois|Ohl Tahn:L'Écume des cieux de Dravania:Dravania:60:True
+Sève cristallisée|Botaniste|Coupe|60|Réactif|Ohl Tahn:L'Écume des cieux de Dravania:Dravania:60:True
+Champignon brun|Botaniste|Coupe|60|Ingrédient|Clos-Vert:L'Écume des cieux de Dravania:Dravania:60:True
+Rondin de teck|Botaniste|Coupe|60|Bois|Quartier académique:Arrière-pays dravanien:Dravania:60:True
+Lainuchairelle|Botaniste|Fauche|60|Ingrédient|Quartier des Fabricateurs:Arrière-pays dravanien:Dravania:60:True
+Fleur astrale|Botaniste|Fauche|60|Réactif|Clos-Vert:L'Écume des cieux de Dravania:Dravania:60:True
+Sauge noble|Botaniste|Fauche|60|Ingrédient|Forêt des chocobos:Avant-pays dravanien:Dravania:60:True
+Alun rouge|Mineur|Extraction de minerai|60|Réactif|Écosphère:Azys Lla:Abalathia:60:True
+Minerai de smithsonite|Mineur|Extraction de minerai|60|Pierre|Le Gantelet:L'Écume des cieux d'Abalathia:Abalathia:60:True
+Météorite|Mineur|Extraction de minerai|60|Pierre|Le Gantelet:L'Écume des cieux d'Abalathia:Abalathia:60:True
+Minerai de luminium|Mineur|Extraction de minerai|60|Pierre|Quadrant alpha:Azys Lla:Abalathia:60:True
+Mica doré|Mineur|Extraction de pierre|60|Pierre|Voor Sian Siran:L'Écume des cieux d'Abalathia:Abalathia:60:True
+Amandes mielleuses|Botaniste|Coupe|60|Ingrédient|Le Gantelet:L'Écume des cieux d'Abalathia:Abalathia:60:True
+Écorce d'acacia|Botaniste|Coupe|60|Bois|Quadrant bêta:Azys Lla:Abalathia:60:True
+Fleur de coton des étoiles|Botaniste|Fauche|60|Tissu|Quadrant delta:Azys Lla:Abalathia:60:True
+Minerai de chromite|Mineur|Extraction de minerai|70|Pierre|Blêmeroche:Les Pics:Gyr Abania:70:True
+Eau de source de Gyr Abania|Mineur|Extraction de minerai|70|Réactif|Blêmeroche:Les Pics:Gyr Abania:70:True
+Minerai gyrabanien|Mineur|Extraction de minerai|70|Pierre|Virdjala:Les Marges:Gyr Abania:70:True
+Minerai de pérennéclat|Mineur|Extraction de minerai|70|Pierre|Lac Seld:Les Lacs:Gyr Abania:70:True
+Rondin de kaya|Botaniste|Coupe|70|Bois|Hautes berges:Les Lacs:Gyr Abania:70:True
+Rondin de saule noir|Botaniste|Coupe|70|Bois|Chutes de la Pique:Les Marges:Gyr Abania:70:True
+Sève durcie de vieil arbre|Botaniste|Coupe|70|Réactif|Chutes de la Pique:Les Marges:Gyr Abania:70:True
+Rondin d'urunday|Botaniste|Coupe|70|Bois|Rocrouillé:Les Pics:Gyr Abania:70:True
+Fibres de lin hingashien|Botaniste|Fauche|70|Tissu|Mont Yorn:Les Pics:Gyr Abania:70:True
+Minerai de palladium|Mineur|Extraction de minerai|70|Pierre|Doma:Yanxia:Othard:70:True
+Minerai de noctacier|Mineur|Extraction de minerai|70|Pierre|Côte orientale d'Othard:Mer de Rubis:Othard:70:True
+Minerai de graçargent|Mineur|Extraction de minerai|70|Pierre|Retraite de Nhaama:Steppe d'Azim:Othard:70:True
+Œil-de-faucon|Mineur|Extraction de minerai|70|Pierre|Côte orientale d'Othard:Mer de Rubis:Othard:70:True
+Eau de source de la Steppe d'Azim|Mineur|Extraction de minerai|70|Réactif|Retraite de Nhaama:Steppe d'Azim:Othard:70:True
+Orties indigo|Botaniste|Fauche|70|Tissu|Onsal Hakair:Steppe d'Azim:Othard:70:True
+Fleur de coton d'Azim|Botaniste|Fauche|70|Tissu|Onsal Hakair:Steppe d'Azim:Othard:70:True
+Fleur de coton de Yanxia|Botaniste|Fauche|70|Tissu|Bassin rutilant:Yanxia:Othard:70:True
+Minerai de tungstène|Mineur|Extraction de minerai|80|Pierre|Crypte du Sans-branchies:La Tempête:Norvrandt:80:True
+Cristal iridescent|Mineur|Extraction de minerai|80|Pierre|Temple de Saint-Fathric:Il Mheg:Norvrandt:80:True
+Minerai de béryllium|Mineur|Extraction de minerai|80|Pierre|Temple de Saint-Fathric:Il Mheg:Norvrandt:80:True
+Minerai de cobaltite|Mineur|Extraction de minerai|80|Pierre|Île de Ken:Grand-Lac:Norvrandt:80:True
+Minerai d'étain argenté|Mineur|Extraction de minerai|80|Pierre|Île de Ken:Grand-Lac:Norvrandt:80:True
+Minerai de dolomite|Mineur|Extraction de minerai|80|Pierre|La Coquille brisée:Rak'tika:Norvrandt:80:True
+Eau dure|Mineur|Extraction de minerai|80|Réactif|Trou du Duergar:Kholusia:Norvrandt:80:True
+Éclat de perle purpurine|Mineur|Extraction de pierre|80|Pierre|Grotte purpurine:La Tempête:Norvrandt:80:True
+Alun cendré|Mineur|Extraction de pierre|80|Réactif|Grandes mines de Biran:Amh Araeng:Norvrandt:80:True
+Cristal solsticial|Mineur|Extraction de pierre|80|Pierre|Voeburtenburg:Il Mheg:Norvrandt:80:True
+Rondin de santal blanc|Botaniste|Coupe|80|Bois|La Nostalgie de Mjrl:Rak'tika:Norvrandt:80:True
+Sève de bois de santal|Botaniste|Coupe|80|Réactif|La Nostalgie de Mjrl:Rak'tika:Norvrandt:80:True
+Rondin d'intsia bijuga|Botaniste|Coupe|80|Bois|Bergerie d'Anden:Il Mheg:Norvrandt:80:True
+Rondin de hêtre argenté|Botaniste|Coupe|80|Bois|Garik:Amh Araeng:Norvrandt:80:True
+Écorce d'acacia durcie|Botaniste|Coupe|80|Bois|Suppliciante:Grand-Lac:Norvrandt:80:True
+Cocon mousseux|Botaniste|Fauche|80|Tissu|Sanctuaire inviolé:Grand-Lac:Norvrandt:80:True
+Grémil|Botaniste|Fauche|80|Tissu|Abîme des Nabaath:Amh Araeng:Norvrandt:80:True
+Osmonde royale|Botaniste|Fauche|80|Réactif|Chute de l'Huile blanche:Kholusia:Norvrandt:80:True
+Aneth souple|Botaniste|Fauche|80|Réactif|Chute de l'Huile blanche:Kholusia:Norvrandt:80:True
+Fleur de coton de l'Azur|Botaniste|Fauche|80|Tissu|Île aux Époux:Rak'tika:Norvrandt:80:True
+Éclat d'obsidienne d'affinage|Mineur|Extraction de minerai|80|Pierre|Rougebord:Hautes terres du Coerthas occidental:Coerthas:80:False,Ok' Vundu Vana:L'Écume des cieux d'Abalathia:Coerthas:80:False
+Poudre minérale d'affinage|Mineur|Extraction de minerai|80|Réactif|Rougebord:Hautes terres du Coerthas occidental:Coerthas:80:False,Ok' Vundu Vana:L'Écume des cieux d'Abalathia:Coerthas:80:False
+Matière sombre d'affinage|Mineur|Extraction de minerai|80|Réactif|Morne:Avant-pays dravanien:Dravania:80:False
+Braises d'affinage|Mineur|Extraction de minerai|80|Réactif|Morne:Avant-pays dravanien:Dravania:80:False
+Matière sombre d'affinage|Mineur|Extraction de pierre|80|Réactif|Les Dagues:Arrière-pays dravanien:Dravania:80:False
+Braises d'affinage|Mineur|Extraction de pierre|80|Réactif|Les Dagues:Arrière-pays dravanien:Dravania:80:False
+Latex d'affinage|Botaniste|Coupe|80|Réactif|Rivière Vairlame:Avant-pays dravanien:Dravania:80:False
+Sable fossilisé d'affinage|Botaniste|Coupe|80|Réactif|Rivière Vairlame:Avant-pays dravanien:Dravania:80:False
+Ambre d'affinage|Botaniste|Coupe|80|Pierre|Fort-Heaume:L'Écume des cieux de Dravania:Dravania:80:False
+Joyau rare d'affinage|Botaniste|Coupe|80|Divers|Fort-Heaume:L'Écume des cieux de Dravania:Dravania:80:False
+Latex d'affinage|Botaniste|Fauche|80|Réactif|Couronne du Migrateur:L'Écume des cieux d'Abalathia:Abalathia:80:False
+Sable fossilisé d'affinage|Botaniste|Fauche|80|Réactif|Couronne du Migrateur:L'Écume des cieux d'Abalathia:Abalathia:80:False
+Ambre d'affinage|Botaniste|Fauche|80|Pierre|Cendrétang:Hautes terres du Coerthas occidental:Coerthas:80:False
+Joyau rare d'affinage|Botaniste|Fauche|80|Divers|Cendrétang:Hautes terres du Coerthas occidental:Coerthas:80:False
+Schörl d'affinage|Mineur|Extraction de minerai|80|Pierre|Filon du pauvre:Les Lacs:Gyr Abania:80:False,Soubresaut du Dragon:Yanxia:Gyr Abania:80:False
+Sable éthéréen tellurique d'affinage|Mineur|Extraction de minerai|80|Réactif|Filon du pauvre:Les Lacs:Gyr Abania:80:False,Soubresaut du Dragon:Yanxia:Gyr Abania:80:False
+Minerai ancien d'affinage|Mineur|Extraction de minerai|80|Pierre|Station de refroidissement:Azys Lla:Abalathia:80:False,Pont-canal:Azys Lla:Abalathia:80:False
+Bitume ancien d'affinage|Mineur|Extraction de minerai|80|Réactif|Station de refroidissement:Azys Lla:Abalathia:80:False,Pont-canal:Azys Lla:Abalathia:80:False
+Rondin de châtaignier sombre d'affinage|Botaniste|Coupe|80|Bois|Destructeur:Les Lacs:Gyr Abania:80:False,Vallée aux Prismes:Yanxia:Gyr Abania:80:False
+Sable éthéréen végétal d'affinage|Botaniste|Coupe|80|Réactif|Destructeur:Les Lacs:Gyr Abania:80:False,Vallée aux Prismes:Yanxia:Gyr Abania:80:False
+Rondin de bois ancien d'affinage|Botaniste|Coupe|80|Bois|L'arbre à pappus:Azys Lla:Abalathia:80:False,Convertisseur hyperstellaire:Azys Lla:Abalathia:80:False
+Résine ancienne d'affinage|Botaniste|Coupe|80|Réactif|L'arbre à pappus:Azys Lla:Abalathia:80:False,Convertisseur hyperstellaire:Azys Lla:Abalathia:80:False
+Minerai de pyrite collectionnable|Mineur|Extraction de minerai|51|Divers|Terres fumantes:Avant-pays dravanien:Dravania:55:True
+Minerai de chalcocite collectionnable|Mineur|Extraction de minerai|53|Divers|Terres fumantes:Avant-pays dravanien:Dravania:55:True
+Minerai de limonite collectionnable|Mineur|Extraction de minerai|55|Divers|Terres fumantes:Avant-pays dravanien:Dravania:55:True
+Sable de mithrite collectionnable|Mineur|Extraction de pierre|51|Divers|Les Pruches:Hautes terres du Coerthas occidental:Coerthas:55:False
+Sève de châtaignier sombre collectionnable|Botaniste|Coupe|51|Divers|Terres fumantes:Avant-pays dravanien:Dravania:55:True
+Rondin de châtaignier sombre collectionnable|Botaniste|Coupe|53|Divers|Terres fumantes:Avant-pays dravanien:Dravania:55:True
+Branche de châtaignier sombre collectionnable|Botaniste|Coupe|55|Divers|Terres fumantes:Avant-pays dravanien:Dravania:55:True
+Fleur de coton arc-en-ciel collectionnable|Botaniste|Fauche|51|Divers|Rivière Coerthas:Hautes terres du Coerthas occidental:Coerthas:55:False
+Eau de source d'Abalathia collectionnable|Mineur|Extraction de minerai|57|Divers|La Fenêtre bleue:L'Écume des cieux d'Abalathia:Abalathia:60:True
+Sable d'aurum regis collectionnable|Mineur|Extraction de minerai|59|Divers|La Fenêtre bleue:L'Écume des cieux d'Abalathia:Abalathia:60:True
+Marron sombre collectionnable|Botaniste|Coupe|57|Divers|Déclin d'Avalonia:Avant-pays dravanien:Dravania:60:True
+Résine de châtaignier sombre collectionnable|Botaniste|Coupe|59|Divers|Déclin d'Avalonia:Avant-pays dravanien:Dravania:60:True
+Triphane brute collectionnable|Mineur|Extraction de minerai|61|Divers|Ruisseau aux Mirages:Les Marges:Gyr Abania:65:True
+Eau de Gyr Abania collectionnable|Mineur|Extraction de minerai|61|Divers|Chutes de la Pique:Les Marges:Gyr Abania:65:False
+Spinelle étoilé brut collectionnable|Mineur|Extraction de minerai|63|Divers|Marmite à crabes:Mer de Rubis:Othard:65:True
+Disthène brut collectionnable|Mineur|Extraction de minerai|65|Divers|Ruisseau aux Mirages:Les Marges:Gyr Abania:65:True
+Rondin de mélèze collectionnable|Botaniste|Coupe|61|Divers|Isari:Mer de Rubis:Othard:65:True
+Shiitake collectionnable|Botaniste|Coupe|63|Divers|Okinoiwa:Mer de Rubis:Othard:65:True
+Sève de mélèze collectionnable|Botaniste|Coupe|65|Divers|Isari:Mer de Rubis:Othard:65:True
+Akaso collectionnable|Botaniste|Fauche|61|Divers|Ruisseau aux Mirages:Les Marges:Gyr Abania:65:False
+Azurite brute collectionnable|Mineur|Extraction de minerai|67|Divers|Mer de fanes:Steppe d'Azim:Othard:70:True
+Minerai de graçargent collectionnable|Mineur|Extraction de minerai|69|Divers|Mer de fanes:Steppe d'Azim:Othard:70:True
+Résine de pin collectionnable|Botaniste|Coupe|67|Divers|Doma:Yanxia:Othard:70:True
+Rondin de pin collectionnable|Botaniste|Coupe|69|Divers|Doma:Yanxia:Othard:70:True
+Minerai de bronze titané collectionnable|Mineur|Extraction de minerai|71|Divers|Le Ceinturon:Grand-Lac:Norvrandt:75:True
+Pierre d'azuresprit collectionnable|Mineur|Extraction de minerai|71|Divers|Forêt du Berger égaré:Grand-Lac:Norvrandt:75:False
+Lazurite brute collectionnable|Mineur|Extraction de minerai|73|Divers|Cabane des clercs:Rak'tika:Norvrandt:75:True
+Pétalite brute collectionnable|Mineur|Extraction de minerai|75|Divers|Le Ceinturon:Grand-Lac:Norvrandt:75:True
+Pomme pixie collectionnable|Botaniste|Coupe|71|Divers|Route de la laine:Il Mheg:Norvrandt:75:True
+Rondin de chêne blanc collectionnable|Botaniste|Coupe|73|Divers|Arche ciselée:Kholusia:Norvrandt:75:True
+Rondin de pommier miracle collectionnable|Botaniste|Coupe|75|Divers|Route de la laine:Il Mheg:Norvrandt:75:True
+Fibres de lin blanc collectionnables|Botaniste|Fauche|71|Divers|Château de Ganlag:Grand-Lac:Norvrandt:75:False
+Sel de mer collectionnable|Mineur|Extraction de minerai|77|Divers|Marge continentale de Norvrandt:La Tempête:Norvrandt:80:True
+Pierre des grands fonds collectionnable|Mineur|Extraction de minerai|79|Divers|Baïne:La Tempête:Norvrandt:80:True
+Onyx brut collectionnable|Mineur|Extraction de minerai|80|Divers|Marge continentale de Norvrandt:La Tempête:Norvrandt:80:True
+Minerai de tungstène collectionnable|Mineur|Extraction de minerai|80|Divers|Baïne:La Tempête:Norvrandt:80:True
+Alun gyrabanien collectionnable|Mineur|Extraction de minerai|80|Divers|Virdjala:Les Marges:Gyr Abania:80:True
+Sable de mana-argent collectionnable|Mineur|Extraction de pierre|80|Divers|Marécages du Citia:Rak'tika:Norvrandt:80:False
+Rondin de teck des sables collectionnable|Botaniste|Coupe|77|Divers|Collines d'Ambre du Centre:Amh Araeng:Norvrandt:80:True
+Algues collectionnables|Botaniste|Coupe|79|Divers|Marge continentale de Norvrandt:La Tempête:Norvrandt:80:True
+Antofle ambré collectionnable|Botaniste|Coupe|80|Divers|Collines d'Ambre du Centre:Amh Araeng:Norvrandt:80:True
+Corail collectionnable|Botaniste|Coupe|80|Divers|Marge continentale de Norvrandt:La Tempête:Norvrandt:80:True
+Rondin d'urunday collectionnable|Botaniste|Coupe|80|Divers|Chutes de Bruyères:Les Pics:Gyr Abania:80:True
+Poivre sombre collectionnable|Botaniste|Fauche|80|Divers|Plaine d'Ambre:Amh Araeng:Norvrandt:80:False
+Minerai de fer de restauration (4e phase)|Mineur|Extraction de minerai|10|Pierre|Le Diadème:Le Diadème:Abalathia:??:False
+Minerai de cuprite supérieur de restauration (4e phase)|Mineur|Extraction de minerai|10|Pierre|Le Diadème:Le Diadème:Abalathia:??:False
+Sel gemme supérieur de restauration (4e phase)|Mineur|Extraction de minerai|10|Réactif|Le Diadème:Le Diadème:Abalathia:??:False
+Minerai d'électrum remarquable de restauration (4e phase)|Mineur|Extraction de minerai|60|Pierre|Le Diadème:Le Diadème:Abalathia:??:False
+Alun remarquable de restauration (4e phase)|Mineur|Extraction de minerai|60|Réactif|Le Diadème:Le Diadème:Abalathia:??:False
+Eau minérale remarquable de restauration (4e phase)|Mineur|Extraction de minerai|60|Réactif|Le Diadème:Le Diadème:Abalathia:??:False
+Minerai d'or extraordinaire de restauration (4e phase)|Mineur|Extraction de minerai|80|Pierre|Le Diadème:Le Diadème:Abalathia:??:False
+Sel gemme extraordinaire de restauration (4e phase)|Mineur|Extraction de minerai|80|Réactif|Le Diadème:Le Diadème:Abalathia:??:False
+Eau minérale extraordinaire de restauration (4e phase)|Mineur|Extraction de minerai|80|Réactif|Le Diadème:Le Diadème:Abalathia:??:False
+Minerai sur commande de restauration (2e phase)|Mineur|Extraction de minerai|80|Pierre|Le Diadème:Le Diadème:Abalathia:??:False
+Roche des flammes évanescentes de restauration (2e phase)|Mineur|Extraction de minerai|80|Pierre|???:Le Diadème:Abalathia:80:True
+Sel gemme sur commande de restauration (2e phase)|Mineur|Extraction de minerai|80|Réactif|Le Diadème:Le Diadème:Abalathia:??:False
+Eau minérale sur commande de restauration (2e phase)|Mineur|Extraction de minerai|80|Réactif|Le Diadème:Le Diadème:Abalathia:??:False
+Minerai sur commande de restauration (3e phase)|Mineur|Extraction de minerai|80|Pierre|Le Diadème:Le Diadème:Abalathia:??:False
+Œuf de basilic sur commande de restauration (3e phase)|Mineur|Extraction de minerai|80|Pierre|Le Diadème:Le Diadème:Abalathia:??:False
+Minerai des flammes évanescentes de restauration (3e phase)|Mineur|Extraction de minerai|80|Pierre|???:Le Diadème:Abalathia:80:True
+Alun sur commande de restauration (3e phase)|Mineur|Extraction de minerai|80|Réactif|Le Diadème:Le Diadème:Abalathia:??:False
+Minerai sur commande de restauration (4e phase)|Mineur|Extraction de minerai|80|Pierre|Le Diadème:Le Diadème:Abalathia:??:False
+Pierre des flammes évanescentes de restauration (4e phase)|Mineur|Extraction de minerai|80|Pierre|???:Le Diadème:Abalathia:80:True
+Eau minérale sur commande de restauration (4e phase)|Mineur|Extraction de minerai|80|Réactif|Le Diadème:Le Diadème:Abalathia:??:False
+Stalagmite de glace sur commande de restauration (4e phase)|Mineur|Extraction de minerai|80|Réactif|Le Diadème:Le Diadème:Abalathia:??:False
+Sable de fer de restauration (4e phase)|Mineur|Extraction de pierre|10|Pierre|Le Diadème:Le Diadème:Abalathia:??:False
+Sable de mithrite supérieur de restauration (4e phase)|Mineur|Extraction de pierre|10|Pierre|Le Diadème:Le Diadème:Abalathia:??:False
+Sable d'or remarquable de restauration (4e phase)|Mineur|Extraction de pierre|60|Pierre|Le Diadème:Le Diadème:Abalathia:??:False
+Grès remarquable de restauration (4e phase)|Mineur|Extraction de pierre|60|Pierre|Le Diadème:Le Diadème:Abalathia:??:False
+Poudre minérale extraordinaire de restauration (4e phase)|Mineur|Extraction de pierre|80|Pierre|Le Diadème:Le Diadème:Abalathia:??:False
+Pierre d'azuresprit extraordinaire de restauration (4e phase)|Mineur|Extraction de pierre|80|Pierre|Le Diadème:Le Diadème:Abalathia:??:False
+Aurum regis sur commande de restauration (2e phase)|Mineur|Extraction de pierre|80|Pierre|Le Diadème:Le Diadème:Abalathia:??:False
+Jade sur commande de restauration (2e phase)|Mineur|Extraction de pierre|80|Pierre|Le Diadème:Le Diadème:Abalathia:??:False
+Cristal des foudres évanescentes de restauration (2e phase)|Mineur|Extraction de pierre|80|Pierre|???:Le Diadème:Abalathia:80:True
+Argile sur commande de restauration (3e phase)|Mineur|Extraction de pierre|80|Pierre|Le Diadème:Le Diadème:Abalathia:??:False
+Granit sur commande de restauration (3e phase)|Mineur|Extraction de pierre|80|Pierre|Le Diadème:Le Diadème:Abalathia:??:False
+Minerai des foudres évanescentes de restauration (3e phase)|Mineur|Extraction de pierre|80|Pierre|???:Le Diadème:Abalathia:80:True
+Silice sur commande de restauration (4e phase)|Mineur|Extraction de pierre|80|Pierre|Le Diadème:Le Diadème:Abalathia:??:False
+Cristal iridescent sur commande de restauration (4e phase)|Mineur|Extraction de pierre|80|Pierre|Le Diadème:Le Diadème:Abalathia:??:False
+Poudre minérale des foudres évanescentes de restauration (4e phase)|Mineur|Extraction de pierre|80|Pierre|???:Le Diadème:Abalathia:80:True
+Branchette de restauration (4e phase)|Botaniste|Coupe|10|Bois|Le Diadème:Le Diadème:Abalathia:??:False
+Rondin d'acajou supérieur de restauration (4e phase)|Botaniste|Coupe|10|Bois|Le Diadème:Le Diadème:Abalathia:??:False
+Rondin d'épicéa remarquable de restauration (4e phase)|Botaniste|Coupe|60|Bois|Le Diadème:Le Diadème:Abalathia:??:False
+Gui remarquable de restauration (4e phase)|Botaniste|Coupe|60|Réactif|Le Diadème:Le Diadème:Abalathia:??:False
+Rondin de cèdre blanc extraordinaire de restauration (4e phase)|Botaniste|Coupe|80|Bois|Le Diadème:Le Diadème:Abalathia:??:False
+Résine ancienne extraordinaire de restauration (4e phase)|Botaniste|Coupe|80|Réactif|Le Diadème:Le Diadème:Abalathia:??:False
+Rondin de bois sur commande de restauration (2e phase)|Botaniste|Coupe|80|Bois|Le Diadème:Le Diadème:Abalathia:??:False
+Rondin de bois des vents évanescents de restauration (2e phase)|Botaniste|Coupe|80|Bois|???:Le Diadème:Abalathia:80:True
+Sève sur commande de restauration (2e phase)|Botaniste|Coupe|80|Réactif|Le Diadème:Le Diadème:Abalathia:??:False
+Ambre sur commande de restauration (3e phase)|Botaniste|Coupe|80|Pierre|Le Diadème:Le Diadème:Abalathia:??:False
+Rondin de bois sur commande de restauration (3e phase)|Botaniste|Coupe|80|Bois|Le Diadème:Le Diadème:Abalathia:??:False
+Sève des vents évanescents de restauration (3e phase)|Botaniste|Coupe|80|Réactif|???:Le Diadème:Abalathia:80:True
+Framboises sur commande de restauration (4e phase)|Botaniste|Coupe|80|Ingrédient|Le Diadème:Le Diadème:Abalathia:??:False
+Rondin de bois sur commande de restauration (4e phase)|Botaniste|Coupe|80|Bois|Le Diadème:Le Diadème:Abalathia:??:False
+Branche des vents évanescents de restauration (4e phase)|Botaniste|Coupe|80|Bois|???:Le Diadème:Abalathia:80:True
+Fibres de chanvre de restauration (4e phase)|Botaniste|Fauche|10|Tissu|Le Diadème:Le Diadème:Abalathia:??:False
+Coton supérieur de restauration (4e phase)|Botaniste|Fauche|10|Tissu|Le Diadème:Le Diadème:Abalathia:??:False
+Sésame supérieur de restauration (4e phase)|Botaniste|Fauche|10|Réactif|Le Diadème:Le Diadème:Abalathia:??:False
+Feuilles de thé remarquables de restauration (4e phase)|Botaniste|Fauche|60|Ingrédient|Le Diadème:Le Diadème:Abalathia:??:False
+Sarments remarquables de restauration (4e phase)|Botaniste|Fauche|60|Tissu|Le Diadème:Le Diadème:Abalathia:??:False
+Crapaud remarquable de restauration (4e phase)|Botaniste|Fauche|60|Réactif|Le Diadème:Le Diadème:Abalathia:??:False
+Blé extraordinaire de restauration (4e phase)|Botaniste|Fauche|80|Ingrédient|Le Diadème:Le Diadème:Abalathia:??:False
+Coton extraordinaire de restauration (4e phase)|Botaniste|Fauche|80|Tissu|Le Diadème:Le Diadème:Abalathia:??:False
+Tortue terrestre extraordinaire de restauration (4e phase)|Botaniste|Fauche|80|Réactif|Le Diadème:Le Diadème:Abalathia:??:False
+Blé sur commande de restauration (2e phase)|Botaniste|Fauche|80|Ingrédient|Le Diadème:Le Diadème:Abalathia:??:False
+Champignon des terres évanescentes de restauration (2e phase)|Botaniste|Fauche|80|Ingrédient|???:Le Diadème:Abalathia:80:True
+Coton sur commande de restauration (2e phase)|Botaniste|Fauche|80|Tissu|Le Diadème:Le Diadème:Abalathia:??:False
+Varan sur commande de restauration (2e phase)|Botaniste|Fauche|80|Réactif|Le Diadème:Le Diadème:Abalathia:??:False
+Riz sur commande de restauration (3e phase)|Botaniste|Fauche|80|Ingrédient|Le Diadème:Le Diadème:Abalathia:??:False
+Coton sur commande de restauration (3e phase)|Botaniste|Fauche|80|Tissu|Le Diadème:Le Diadème:Abalathia:??:False
+Sarments sur commande de restauration (3e phase)|Botaniste|Fauche|80|Tissu|Le Diadème:Le Diadème:Abalathia:??:False
+Carapace des terres évanescentes de restauration (3e phase)|Botaniste|Fauche|80|Réactif|???:Le Diadème:Abalathia:80:True
+Cocon sur commande de restauration (4e phase)|Botaniste|Fauche|80|Tissu|Le Diadème:Le Diadème:Abalathia:??:False
+Caïman sur commande de restauration (4e phase)|Botaniste|Fauche|80|Réactif|Le Diadème:Le Diadème:Abalathia:??:False
+Tige de prêle d'hiver sur commande de restauration (4e phase)|Botaniste|Fauche|80|Réactif|Le Diadème:Le Diadème:Abalathia:??:False
+Herbe des terres évanescentes de restauration (4e phase)|Botaniste|Fauche|80|Réactif|???:Le Diadème:Abalathia:80:True
