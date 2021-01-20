@@ -21,6 +21,11 @@ class Classe(SousElement):
     def texte(self):
         return str("%s:%d" % (self.nom, self.niveau))
 
+    @staticmethod
+    def creer(texte):
+        items = texte.split(":")
+        return Classe(items[0], Classes.classesBase[items[0]].categorie, int(items[1]))
+
     # Noms des classes
     PLD = str("Paladin")
     GUE = str("Guerrier")
@@ -63,6 +68,13 @@ class Classe(SousElement):
 
 
 class Classes(Ensemble):
+
+    @staticmethod
+    def creer(texte):
+        classes = Classes()
+        for item in texte.split(","):
+            classes.ajouter(Classe.creer(item) if item else None)
+        return classes
 
     # Classes de base
     classesBase = {Classe.PLD: Classe(Classe.PLD, Classe.tank, 0),

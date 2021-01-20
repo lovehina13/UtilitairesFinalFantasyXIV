@@ -7,13 +7,16 @@
 # Description : Définition d'une collection de personnages
 # ==================================================================================================
 
+from UtilitairesFinalFantasyXIV.Donnees.Personnage import Personnages
 from UtilitairesFinalFantasyXIV.Structure.Collection import Collection
 
 
 class CollectionPersonnages(Collection):
 
     def charger(self):
-        pass  # TODO: Implémenter le chargement pour une collection de personnages
+        self.elements = Personnages.creer(open(self.fichier, "r", encoding="utf-8").read()).elements
 
     def sauver(self):
-        pass  # TODO: Implémenter la sauvegarde pour une collection de personnages
+        fichier = open(self.fichier, "w", encoding="utf-8")
+        for _, element in self.elements.items():
+            fichier.write(element.texte() + "\n")

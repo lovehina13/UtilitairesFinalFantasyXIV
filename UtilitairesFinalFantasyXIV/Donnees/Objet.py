@@ -17,6 +17,17 @@ class Objet(SousElement):
         super().__init__(nom)
         self.quantite = quantite
 
+    @staticmethod
+    def creer(texte):
+        items = texte.split(":")
+        return Objet(items[0], int(items[1]))
+
 
 class Objets(Ensemble):
-    pass
+
+    @staticmethod
+    def creer(texte):
+        objets = Objets()
+        for item in texte.split(","):
+            objets.ajouter(Objet.creer(item) if item else None)
+        return objets

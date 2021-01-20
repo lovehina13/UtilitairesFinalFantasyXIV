@@ -36,5 +36,5 @@ class Ensemble:
         return ",".join([element.texte() for _, element in self.elements.items()])
 
     @staticmethod
-    def creer():
-        return Ensemble()  # Note: Implémenter la création pour chaque ensemble
+    def creer(texte):
+        return Ensemble(texte)  # Note: Implémenter la création pour chaque ensemble

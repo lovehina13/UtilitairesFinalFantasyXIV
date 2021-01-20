@@ -19,8 +19,8 @@ class Element:
                          for _, item in self.__dict__.items()])
 
     @staticmethod
-    def creer():
-        return Element()  # Note: Implémenter la création pour chaque élément
+    def creer(texte):
+        return Element(texte)  # Note: Implémenter la création pour chaque élément
 
 
 class SousElement(Element):
@@ -31,5 +31,5 @@ class SousElement(Element):
                          for _, item in self.__dict__.items()])
 
     @staticmethod
-    def creer():
-        return SousElement()  # Note: Implémenter la création pour chaque sous-élément
+    def creer(texte):
+        return SousElement(texte)  # Note: Implémenter la création pour chaque sous-élément

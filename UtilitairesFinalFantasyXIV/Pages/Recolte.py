@@ -37,16 +37,12 @@ class PageRecolte(PageElement):
             niveau = _simplifier(texte).split()[1]
             return int(niveau) if niveau.isdigit() else niveau
 
-        def _identifiantLieu(nom, compteur):
-            return str("%s:%d" % (nom, compteur))
-
         self.element = Recolte()
         self.element.nom = self.soup.find("h2", {"class": "db-view__item__text__name"}).contents[0].strip()
         self.element.classe = _classe(self.soup.find("p", {"class": "db-view__item__text__job_name"}).contents[0].strip())
         self.element.sousClasse = self.soup.find("p", {"class": "db-view__item__text__job_name"}).contents[0].strip()
         self.element.niveau = int(self.soup.find("span", {"class": "db-view__item__text__level__num"}).contents[0].strip())
         self.element.categorie = self.soup.find("p", {"class": "db-view__gathering__text__category"}).contents[0].strip()
-        itLieu = 1
         for item in self.soup.find_all("dl", {"class": "db-view__gathering__point"}):
             for item2 in item.contents:
                 if item2.name == str("dd"):
@@ -56,10 +52,7 @@ class PageRecolte(PageElement):
                     lieu.region = item.parent.contents[1].contents[0].strip()
                     lieu.niveau = _niveauLieu(item2.contents[-1].strip())
                     lieu.temporaire = len(item2.contents) > 1
-                    # Note: Ajout manuel car identifiant unique nécessaire
-                    # self.element.pointsRecolte.ajouter(lieu)
-                    self.element.pointsRecolte.elements[_identifiantLieu(lieu.nom, itLieu)] = lieu
-                    itLieu += 1
+                    self.element.pointsRecolte.ajouter(lieu)
 
 
 class PageRecoltes(PageEnsemble):

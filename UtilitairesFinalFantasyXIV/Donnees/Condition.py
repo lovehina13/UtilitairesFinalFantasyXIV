@@ -12,8 +12,17 @@ from UtilitairesFinalFantasyXIV.Structure.Ensemble import Ensemble
 
 
 class Condition(SousElement):
-    pass
+
+    @staticmethod
+    def creer(texte):
+        return Condition(texte)
 
 
 class Conditions(Ensemble):
-    pass
+
+    @staticmethod
+    def creer(texte):
+        conditions = Conditions()
+        for item in texte.split(","):
+            conditions.ajouter(Condition.creer(item) if item else None)
+        return conditions

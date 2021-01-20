@@ -24,6 +24,17 @@ class Recolte(Element):
         self.categorie = categorie
         self.pointsRecolte = pointsRecolte if isinstance(pointsRecolte, Lieux) else Lieux()
 
+    @staticmethod
+    def creer(texte):
+        items = texte.split("|")
+        return Recolte(items[0], items[1], items[2], int(items[3]), items[4], Lieux.creer(items[5]))
+
 
 class Recoltes(Ensemble):
-    pass
+
+    @staticmethod
+    def creer(texte):
+        recoltes = Recoltes()
+        for item in texte.split("\n"):
+            recoltes.ajouter(Recolte.creer(item) if item else None)
+        return recoltes

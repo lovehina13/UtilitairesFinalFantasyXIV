@@ -31,6 +31,19 @@ class Personnage(Element):
         self.compagnieLibre = compagnieLibre
         self.classes = classes if isinstance(classes, Classes) else Classes()
 
+    @staticmethod
+    def creer(texte):
+        items = texte.split("|")
+        return Personnage(items[0], items[1], items[2], items[3], items[4], items[5], items[6],
+                          items[7], items[8], items[9], items[10], items[11],
+                          Classes.creer(items[12]))
+
 
 class Personnages(Ensemble):
-    pass
+
+    @staticmethod
+    def creer(texte):
+        personnages = Personnages()
+        for item in texte.split("\n"):
+            personnages.ajouter(Personnage.creer(item) if item else None)
+        return personnages

@@ -33,6 +33,20 @@ class Recette(Element):
         self.conditions = conditions if isinstance(conditions, Conditions) else Conditions()
         self.degre = degre
 
+    @staticmethod
+    def creer(texte):
+        items = texte.split("|")
+        return Recette(items[0], items[1], int(items[2]), items[3], items[4],
+                       Objets.creer(items[5]), Objets.creer(items[6]), int(items[7]), int(items[8]),
+                       int(items[9]), int(items[10]), items[11], Conditions.creer(items[12]),
+                       int(items[13]))
+
 
 class Recettes(Ensemble):
-    pass
+
+    @staticmethod
+    def creer(texte):
+        recette = Recettes()
+        for item in texte.split("\n"):
+            recette.ajouter(Recette.creer(item) if item else None)
+        return recette

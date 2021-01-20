@@ -7,6 +7,7 @@
 # Description : Définition d'un lieu et d'un ensemble de lieux
 # ==================================================================================================
 
+import distutils.util
 from UtilitairesFinalFantasyXIV.Structure.Element import SousElement
 from UtilitairesFinalFantasyXIV.Structure.Ensemble import Ensemble
 
@@ -20,6 +21,18 @@ class Lieu(SousElement):
         self.niveau = niveau
         self.temporaire = temporaire
 
+    @staticmethod
+    def creer(texte):
+        items = texte.split(":")
+        return Lieu(items[0], items[1], items[2], int(items[3]) if items[3].isdigit() else items[3],
+                    bool(distutils.util.strtobool(items[4])))
+
 
 class Lieux(Ensemble):
-    pass
+
+    @staticmethod
+    def creer(texte):
+        lieux = Lieux()
+        for item in texte.split(","):
+            lieux.ajouter(Lieu.creer(item) if item else None)
+        return lieux
