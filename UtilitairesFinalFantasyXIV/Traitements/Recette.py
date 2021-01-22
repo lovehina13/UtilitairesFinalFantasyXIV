@@ -8,7 +8,9 @@
 # ==================================================================================================
 
 import os
+from UtilitairesFinalFantasyXIV.Collections.Recette import CollectionRecettes
 from UtilitairesFinalFantasyXIV.Pages.Recette import PageRecette, PageRecettes
+from UtilitairesFinalFantasyXIV.Structure.Filtre import Filtres
 from UtilitairesFinalFantasyXIV.Structure.Traitement import Traitement
 
 
@@ -42,3 +44,36 @@ class TraitementPageRecettes(Traitement):
             pages += PageRecettes(str("%d" % (item + 1))).executer().lister()
         for item, page in enumerate(pages):
             TraitementPageRecette(page.nom, item + 1, len(pages), self.fichier).executer()
+
+
+class TraitementCollectionRecettes(Traitement):
+
+    def __init__(self, fichier=str()):
+        super().__init__(None)
+        self.fichier = fichier
+        self.collection = None
+
+    def executer(self):
+        self.collection = CollectionRecettes(None, self.fichier)
+        self.collection.charger()
+
+
+class TraitementGestionRecettes(TraitementCollectionRecettes):
+
+    def __init__(self, fichierIn=str(), fichierOut=str(), filtres=None, utilisateur=False):
+        super().__init__(fichierIn)
+        self.fichierOut = fichierOut
+        self.collectionOut = None
+        self.filtres = filtres if isinstance(filtres, Filtres) else Filtres()
+        self.utilisateur = utilisateur
+
+    def executer(self):
+        super().executer()
+        self.collectionOut = CollectionRecettes(None, self.fichierOut)
+        for item in self.collection.lister(self.filtres):
+            self.collectionOut.ajouter(item)
+            self.afficher(item.texte() if not self.utilisateur else item.texteUtilisateur())
+        if not self.utilisateur:
+            self.collectionOut.sauver()
+        else:
+            self.collectionOut.sauverUtilisateur()
