@@ -1,13 +1,13 @@
 # coding: utf-8
 
 # ==================================================================================================
-# Name        : __main__.py
+# Name        : UtilitairesFinalFantasyXIV/__main__.py
 # Author      : Alexis Foerster (alexis.foerster@gmail.com)
 # Version     : 3.0.0 (DD/MM/YYYY)
 # Description : Définition du programme principal
 # ==================================================================================================
 
-if __name__ == '__main__':
+if __name__ == "__main__":
 
 #     from UtilitairesFinalFantasyXIV.Traitements.Personnage import TraitementPagePersonnages
 #     TraitementPagePersonnages("9233364398528028107", 1, "Personnages.csv").executer()
@@ -17,14 +17,14 @@ if __name__ == '__main__':
 #     TraitementPageRecoltes(18, "Recoltes.csv").executer()
 
     from UtilitairesFinalFantasyXIV.Collections.Personnage import CollectionPersonnages
-    x = CollectionPersonnages(None, "Personnages.csv")
-    x.charger()
-    x.sauver()
+    x1 = CollectionPersonnages(None, "Personnages.csv")
+    x1.charger()
+    x1.sauver()
     from UtilitairesFinalFantasyXIV.Collections.Recette import CollectionRecettes
-    y = CollectionRecettes(None, "Recettes.csv")
-    y.charger()
-    y.sauver()
+    x2 = CollectionRecettes(None, "Recettes.csv")
+    x2.charger()
+    x2.sauver()
     from UtilitairesFinalFantasyXIV.Collections.Recolte import CollectionRecoltes
-    z = CollectionRecoltes(None, "Recoltes.csv")
-    z.charger()
-    z.sauver()
+    x3 = CollectionRecoltes(None, "Recoltes.csv")
+    x3.charger()
+    x3.sauver()

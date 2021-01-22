@@ -1,14 +1,14 @@
 # coding: utf-8
 
 # ==================================================================================================
-# Name        : Objet.py
+# Name        : UtilitairesFinalFantasyXIV/Donnees/Objet.py
 # Author      : Alexis Foerster (alexis.foerster@gmail.com)
 # Version     : 3.0.0 (DD/MM/YYYY)
 # Description : Définition d'un objet et d'un ensemble d'objets
 # ==================================================================================================
 
 from UtilitairesFinalFantasyXIV.Structure.Element import SousElement
-from UtilitairesFinalFantasyXIV.Structure.Ensemble import Ensemble
+from UtilitairesFinalFantasyXIV.Structure.Ensemble import SousEnsemble
 
 
 class Objet(SousElement):
@@ -23,11 +23,11 @@ class Objet(SousElement):
         return Objet(items[0], int(items[1]))
 
 
-class Objets(Ensemble):
+class Objets(SousEnsemble):
 
     @staticmethod
     def creer(texte):
-        objets = Objets()
+        sousEnsemble = Objets()
         for item in texte.split(","):
-            objets.ajouter(Objet.creer(item) if item else None)
-        return objets
+            sousEnsemble.ajouter(Objet.creer(item) if item else None)
+        return sousEnsemble

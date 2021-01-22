@@ -1,7 +1,7 @@
 # coding: utf-8
 
 # ==================================================================================================
-# Name        : Element.py
+# Name        : UtilitairesFinalFantasyXIV/Structure/Element.py
 # Author      : Alexis Foerster (alexis.foerster@gmail.com)
 # Version     : 3.0.0 (DD/MM/YYYY)
 # Description : Définition d'un élément et d'un sous-élément
@@ -14,7 +14,8 @@ class Element:
         self.nom = nom
 
     def identifiant(self):
-        return self.nom  # Note: Réimplémenter l'identifiant pour chaque élément si nécessaire
+        # Note: Réimplémenter l'identifiant pour chaque élément si nécessaire
+        return self.nom
 
     def texte(self):
         # Note: Réimplémenter le format texte pour chaque élément si nécessaire

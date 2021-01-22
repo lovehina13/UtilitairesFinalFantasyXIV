@@ -1,7 +1,7 @@
 # coding: utf-8
 
 # ==================================================================================================
-# Name        : Recolte.py
+# Name        : UtilitairesFinalFantasyXIV/Pages/Recolte.py
 # Author      : Alexis Foerster (alexis.foerster@gmail.com)
 # Version     : 3.0.0 (DD/MM/YYYY)
 # Description : Définition des pages relatives aux récoltes
@@ -30,11 +30,11 @@ class PageRecolte(PageElement):
         def _simplifier(texte):
             return " ".join(texte.replace("\n", " ").replace("\t", " ").split())
 
-        def _nomLieu(texte):
-            return " ".join(_simplifier(texte).split()[2:])
+        def _nomLieu(nomNiveauLieu):
+            return " ".join(_simplifier(nomNiveauLieu).split()[2:])
 
-        def _niveauLieu(texte):
-            niveau = _simplifier(texte).split()[1]
+        def _niveauLieu(nomNiveauLieu):
+            niveau = _simplifier(nomNiveauLieu).split()[1]
             return int(niveau) if niveau.isdigit() else niveau
 
         self.element = Recolte()

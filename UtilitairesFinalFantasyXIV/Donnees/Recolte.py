@@ -1,7 +1,7 @@
 # coding: utf-8
 
 # ==================================================================================================
-# Name        : Recolte.py
+# Name        : UtilitairesFinalFantasyXIV/Donnees/Recolte.py
 # Author      : Alexis Foerster (alexis.foerster@gmail.com)
 # Version     : 3.0.0 (DD/MM/YYYY)
 # Description : Définition d'une récolte et d'un ensemble de récoltes
@@ -17,7 +17,6 @@ class Recolte(Element):
     def __init__(self, nom=str(), classe=str(), sousClasse=str(), niveau=int(), categorie=str(),
                  pointsRecolte=None):
         super().__init__(nom)
-        self.nom = nom
         self.classe = classe
         self.sousClasse = sousClasse
         self.niveau = niveau
@@ -37,7 +36,7 @@ class Recoltes(Ensemble):
 
     @staticmethod
     def creer(texte):
-        recoltes = Recoltes()
+        ensemble = Recoltes()
         for item in texte.split("\n"):
-            recoltes.ajouter(Recolte.creer(item) if item else None)
-        return recoltes
+            ensemble.ajouter(Recolte.creer(item) if item else None)
+        return ensemble

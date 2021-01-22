@@ -1,7 +1,7 @@
 # coding: utf-8
 
 # ==================================================================================================
-# Name        : Personnage.py
+# Name        : UtilitairesFinalFantasyXIV/Donnees/Personnage.py
 # Author      : Alexis Foerster (alexis.foerster@gmail.com)
 # Version     : 3.0.0 (DD/MM/YYYY)
 # Description : Définition d'un personnage et d'un ensemble de personnages
@@ -46,7 +46,7 @@ class Personnages(Ensemble):
 
     @staticmethod
     def creer(texte):
-        personnages = Personnages()
+        ensemble = Personnages()
         for item in texte.split("\n"):
-            personnages.ajouter(Personnage.creer(item) if item else None)
-        return personnages
+            ensemble.ajouter(Personnage.creer(item) if item else None)
+        return ensemble

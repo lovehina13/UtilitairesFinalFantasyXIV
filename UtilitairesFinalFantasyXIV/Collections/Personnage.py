@@ -1,7 +1,7 @@
 # coding: utf-8
 
 # ==================================================================================================
-# Name        : Personnage.py
+# Name        : UtilitairesFinalFantasyXIV/Collection/Personnage.py
 # Author      : Alexis Foerster (alexis.foerster@gmail.com)
 # Version     : 3.0.0 (DD/MM/YYYY)
 # Description : Définition d'une collection de personnages

@@ -1,7 +1,7 @@
 # coding: utf-8
 
 # ==================================================================================================
-# Name        : Personnage.py
+# Name        : UtilitairesFinalFantasyXIV/Traitements/Personnage.py
 # Author      : Alexis Foerster (alexis.foerster@gmail.com)
 # Version     : 3.0.0 (DD/MM/YYYY)
 # Description : Définition des traitements relatifs aux personnages
@@ -23,7 +23,7 @@ class TraitementPagePersonnage(Traitement):
 
     def executer(self):
         self.afficher("Traitement du personnage %d sur %d" % (self.compteur, self.nombre))
-        open(self.fichier, "a", encoding="utf-8").write(PagePersonnage(self.donnee).traiter().texte() + "\n")
+        open(self.fichier, "a", encoding="utf-8").write(PagePersonnage(self.donnee).executer().texte() + "\n")
 
 
 class TraitementPagePersonnages(Traitement):
@@ -40,6 +40,6 @@ class TraitementPagePersonnages(Traitement):
         pages = list()
         for item in range(self.nombre):
             self.afficher("Traitement de l'ensemble de personnages %d sur %d" % (item + 1, self.nombre))
-            pages += PagePersonnages(str("%s:%d" % (self.donnee, item + 1))).traiter().lister()
+            pages += PagePersonnages(str("%s:%d" % (self.donnee, item + 1))).executer().lister()
         for item, page in enumerate(pages):
             TraitementPagePersonnage(page.nom, item + 1, len(pages), self.fichier).executer()

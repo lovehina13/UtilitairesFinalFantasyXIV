@@ -1,7 +1,7 @@
 # coding: utf-8
 
 # ==================================================================================================
-# Name        : Recette.py
+# Name        : UtilitairesFinalFantasyXIV/Pages/Recette.py
 # Author      : Alexis Foerster (alexis.foerster@gmail.com)
 # Version     : 3.0.0 (DD/MM/YYYY)
 # Description : Définition des pages relatives aux recettes
@@ -21,14 +21,14 @@ class PageRecette(PageElement):
 
     def extraire(self):
 
-        def _cristal(nom):
+        def _cristal(objet):
             cristaux = [str("Éclat de feu"), str("Éclat de glace"), str("Éclat de vent"),
                         str("Éclat de terre"), str("Éclat de foudre"), str("Éclat d'eau"),
                         str("Cristal de feu"), str("Cristal de glace"), str("Cristal de vent"),
                         str("Cristal de terre"), str("Cristal de foudre"), str("Cristal d'eau"),
                         str("Agrégat de feu"), str("Agrégat de glace"), str("Agrégat de vent"),
                         str("Agrégat de terre"), str("Agrégat de foudre"), str("Agrégat d'eau")]
-            return nom in cristaux
+            return objet in cristaux
 
         self.element = Recette()
         self.element.nom = self.soup.find("h2", {"class": "db-view__item__text__name"}).contents[0].strip()

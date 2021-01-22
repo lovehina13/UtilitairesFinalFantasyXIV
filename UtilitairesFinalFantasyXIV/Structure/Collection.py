@@ -1,13 +1,12 @@
 # coding: utf-8
 
 # ==================================================================================================
-# Name        : Collection.py
+# Name        : UtilitairesFinalFantasyXIV/Structure/Collection.py
 # Author      : Alexis Foerster (alexis.foerster@gmail.com)
 # Version     : 3.0.0 (DD/MM/YYYY)
 # Description : Définition d'une collection
 # ==================================================================================================
 
-import sys
 from UtilitairesFinalFantasyXIV.Structure.Ensemble import Ensemble
 
 
@@ -24,6 +23,5 @@ class Collection(Ensemble):
         pass  # Note: Implémenter la sauvegarde pour chaque collection
 
     def afficher(self):
-        for _, element in self.elements:
+        for _, element in self.elements.items():
             print(element.texte())
-        sys.stdout.flush()

@@ -1,7 +1,7 @@
 # coding: utf-8
 
 # ==================================================================================================
-# Name        : Lieu.py
+# Name        : UtilitairesFinalFantasyXIV/Donnees/Lieu.py
 # Author      : Alexis Foerster (alexis.foerster@gmail.com)
 # Version     : 3.0.0 (DD/MM/YYYY)
 # Description : Définition d'un lieu et d'un ensemble de lieux
@@ -9,7 +9,7 @@
 
 import distutils.util
 from UtilitairesFinalFantasyXIV.Structure.Element import SousElement
-from UtilitairesFinalFantasyXIV.Structure.Ensemble import Ensemble
+from UtilitairesFinalFantasyXIV.Structure.Ensemble import SousEnsemble
 
 
 class Lieu(SousElement):
@@ -31,11 +31,11 @@ class Lieu(SousElement):
                     bool(distutils.util.strtobool(items[4])))
 
 
-class Lieux(Ensemble):
+class Lieux(SousEnsemble):
 
     @staticmethod
     def creer(texte):
-        lieux = Lieux()
+        sousEnsemble = Lieux()
         for item in texte.split(","):
-            lieux.ajouter(Lieu.creer(item) if item else None)
-        return lieux
+            sousEnsemble.ajouter(Lieu.creer(item) if item else None)
+        return sousEnsemble

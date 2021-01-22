@@ -1,7 +1,7 @@
 # coding: utf-8
 
 # ==================================================================================================
-# Name        : Recolte.py
+# Name        : UtilitairesFinalFantasyXIV/Traitements/Recolte.py
 # Author      : Alexis Foerster (alexis.foerster@gmail.com)
 # Version     : 3.0.0 (DD/MM/YYYY)
 # Description : Définition des traitements relatifs aux récoltes
@@ -23,7 +23,7 @@ class TraitementPageRecolte(Traitement):
 
     def executer(self):
         self.afficher("Traitement de la récolte %d sur %d" % (self.compteur, self.nombre))
-        open(self.fichier, "a", encoding="utf-8").write(PageRecolte(self.donnee).traiter().texte() + "\n")
+        open(self.fichier, "a", encoding="utf-8").write(PageRecolte(self.donnee).executer().texte() + "\n")
 
 
 class TraitementPageRecoltes(Traitement):
@@ -39,6 +39,6 @@ class TraitementPageRecoltes(Traitement):
         pages = list()
         for item in range(self.nombre):
             self.afficher("Traitement de l'ensemble de récoltes %d sur %d" % (item + 1, self.nombre))
-            pages += PageRecoltes(str("%d" % (item + 1))).traiter().lister()
+            pages += PageRecoltes(str("%d" % (item + 1))).executer().lister()
         for item, page in enumerate(pages):
             TraitementPageRecolte(page.nom, item + 1, len(pages), self.fichier).executer()

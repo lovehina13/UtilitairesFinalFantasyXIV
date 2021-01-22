@@ -1,7 +1,7 @@
 # coding: utf-8
 
 # ==================================================================================================
-# Name        : Personnage.py
+# Name        : UtilitairesFinalFantasyXIV/Pages/Personnage.py
 # Author      : Alexis Foerster (alexis.foerster@gmail.com)
 # Version     : 3.0.0 (DD/MM/YYYY)
 # Description : Définition des pages relatives aux personnages

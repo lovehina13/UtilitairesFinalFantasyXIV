@@ -1,7 +1,7 @@
 # coding: utf-8
 
 # ==================================================================================================
-# Name        : Filtre.py
+# Name        : UtilitairesFinalFantasyXIV/Structure/Filtre.py
 # Author      : Alexis Foerster (alexis.foerster@gmail.com)
 # Version     : 3.0.0 (DD/MM/YYYY)
 # Description : Définition d'un filtre et d'un ensemble de filtres
@@ -22,6 +22,6 @@ class Filtres(Ensemble):
 
     def valider(self, element):
         for _, filtre in self.elements.items():
-            if filtre.valeurs and getattr(element, filtre.nom) not in filtre.valeurs:
+            if filtre.valeurs is not None and getattr(element, filtre.nom) not in filtre.valeurs:
                 return False
         return True

@@ -1,7 +1,7 @@
 # coding: utf-8
 
 # ==================================================================================================
-# Name        : Recette.py
+# Name        : UtilitairesFinalFantasyXIV/Donnees/Recette.py
 # Author      : Alexis Foerster (alexis.foerster@gmail.com)
 # Version     : 3.0.0 (DD/MM/YYYY)
 # Description : Définition d'une recette et d'un ensemble de recettes
@@ -49,7 +49,7 @@ class Recettes(Ensemble):
 
     @staticmethod
     def creer(texte):
-        recette = Recettes()
+        ensemble = Recettes()
         for item in texte.split("\n"):
-            recette.ajouter(Recette.creer(item) if item else None)
-        return recette
+            ensemble.ajouter(Recette.creer(item) if item else None)
+        return ensemble

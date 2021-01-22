@@ -1,14 +1,14 @@
 # coding: utf-8
 
 # ==================================================================================================
-# Name        : Classe.py
+# Name        : UtilitairesFinalFantasyXIV/Donnees/Classe.py
 # Author      : Alexis Foerster (alexis.foerster@gmail.com)
 # Version     : 3.0.0 (DD/MM/YYYY)
 # Description : Définition d'une classe et d'un ensemble de classes
 # ==================================================================================================
 
 from UtilitairesFinalFantasyXIV.Structure.Element import SousElement
-from UtilitairesFinalFantasyXIV.Structure.Ensemble import Ensemble
+from UtilitairesFinalFantasyXIV.Structure.Ensemble import SousEnsemble
 
 
 class Classe(SousElement):
@@ -67,14 +67,14 @@ class Classe(SousElement):
     recolteur = str("Récolteur")
 
 
-class Classes(Ensemble):
+class Classes(SousEnsemble):
 
     @staticmethod
     def creer(texte):
-        classes = Classes()
+        sousEnsemble = Classes()
         for item in texte.split(","):
-            classes.ajouter(Classe.creer(item) if item else None)
-        return classes
+            sousEnsemble.ajouter(Classe.creer(item) if item else None)
+        return sousEnsemble
 
     # Classes de base
     classesBase = {Classe.PLD: Classe(Classe.PLD, Classe.tank, 0),

@@ -1,7 +1,7 @@
 # coding: utf-8
 
 # ==================================================================================================
-# Name        : Recette.py
+# Name        : UtilitairesFinalFantasyXIV/Traitements/Recette.py
 # Author      : Alexis Foerster (alexis.foerster@gmail.com)
 # Version     : 3.0.0 (DD/MM/YYYY)
 # Description : Définition des traitements relatifs aux recettes
@@ -23,7 +23,7 @@ class TraitementPageRecette(Traitement):
 
     def executer(self):
         self.afficher("Traitement de la recette %d sur %d" % (self.compteur, self.nombre))
-        open(self.fichier, "a", encoding="utf-8").write(PageRecette(self.donnee).traiter().texte() + "\n")
+        open(self.fichier, "a", encoding="utf-8").write(PageRecette(self.donnee).executer().texte() + "\n")
 
 
 class TraitementPageRecettes(Traitement):
@@ -39,6 +39,6 @@ class TraitementPageRecettes(Traitement):
         pages = list()
         for item in range(self.nombre):
             self.afficher("Traitement de l'ensemble de recettes %d sur %d" % (item + 1, self.nombre))
-            pages += PageRecettes(str("%d" % (item + 1))).traiter().lister()
+            pages += PageRecettes(str("%d" % (item + 1))).executer().lister()
         for item, page in enumerate(pages):
             TraitementPageRecette(page.nom, item + 1, len(pages), self.fichier).executer()

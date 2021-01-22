@@ -1,7 +1,7 @@
 # coding: utf-8
 
 # ==================================================================================================
-# Name        : Page.py
+# Name        : UtilitairesFinalFantasyXIV/Structure/Page.py
 # Author      : Alexis Foerster (alexis.foerster@gmail.com)
 # Version     : 3.0.0 (DD/MM/YYYY)
 # Description : Définition d'une page, d'une page d'élément et d'une page d'ensemble
@@ -21,7 +21,7 @@ class Page(Element):
         self.soup = None
 
     def lire(self):
-        # TODO: Implémenter une nouvelle tentative en cas d'échec ?
+        # Note: Implémenter une nouvelle tentative en cas d'échec ?
         self.texte = urllib.request.urlopen(self.adresse).read()
         self.soup = BeautifulSoup(self.texte, "html.parser")
 
@@ -31,7 +31,7 @@ class Page(Element):
     def recuperer(self):
         pass  # Note: Implémenter la récupération pour chaque page
 
-    def traiter(self):
+    def executer(self):
         self.lire()
         self.extraire()
         return self.recuperer()
