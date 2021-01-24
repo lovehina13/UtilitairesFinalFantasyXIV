@@ -31,6 +31,13 @@ class Ensemble:
         filtres = filtres if isinstance(filtres, Filtres) else Filtres()
         return [element for _, element in self.elements.items() if filtres.valider(element)]
 
+    def unicite(self):
+        # Note: Permet d'identifier les éléments par leurs noms et de supprimer ainsi les doublons
+        ensemble = Ensemble()
+        for _, element in self.elements.items():
+            ensemble.elements[element.nom] = element
+        return ensemble
+
     def texte(self):
         # Note: Réimplémenter le format texte pour chaque ensemble si nécessaire
         return "\n".join([element.texte() for _, element in self.elements.items()])
