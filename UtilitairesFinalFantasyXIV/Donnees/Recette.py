@@ -36,6 +36,16 @@ class Recette(Element):
     def identifiant(self):
         return str("%s:%s" % (self.nom, self.classe))
 
+    def calculerDegre(self, recettes):
+        # Note: Les recettes doivent être identifiées par leurs noms (cf. Ensemble.unicite())
+        degre = 1
+        for materiau in self.materiaux.lister():
+            if materiau.nom in recettes.elements:
+                sousRecette = recettes.recuperer(materiau.nom)
+                sousDegre = sousRecette.calculerDegre(recettes)
+                degre = max(degre, sousDegre + 1)
+        return degre
+
     @staticmethod
     def creer(texte):
         items = texte.split("|")

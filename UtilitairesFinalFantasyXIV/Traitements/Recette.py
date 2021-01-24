@@ -44,6 +44,13 @@ class TraitementPageRecettes(Traitement):
             pages += PageRecettes(str("%d" % (item + 1))).executer().lister()
         for item, page in enumerate(pages):
             TraitementPageRecette(page.nom, item + 1, len(pages), self.fichier).executer()
+        # Note: Calcul des degrés des recettes
+        collection = CollectionRecettes(None, self.fichier)
+        collection.charger()
+        unicite = collection.unicite()
+        for _, element in collection.elements.items():
+            element.degre = element.calculerDegre(unicite)
+        collection.sauver()
 
 
 class TraitementCollectionRecettes(Traitement):
