@@ -463,6 +463,21 @@ Qualité: 50 max.
 Conditions: Habileté requise : 2140 ou plus, Contrôle requis : 1990 ou plus, Synthèse rapide : Habileté >= 2480
 Degré: 2
 
+Nom: Aiguille des associés
+Classe: Orfèvre
+Niveau: 90
+Livre: Orfèvrerie experte IX
+Catégorie: Outil principal de couturier
+Matériaux: 3 Danburite d'Éblana, 3 Lingot de rhodium, 1 Madrier d'arbre intégral, 2 Potion alchimique immuable, 1 Sable éthéréen sylvestre
+Cristaux: 3 Agrégat de vent, 3 Agrégat de feu
+Total fabriqué: 1
+Difficulté: 4300
+Solidité: 70
+Qualité maximum: 12800
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté requise : 3240 ou plus, Contrôle requis : 3130 ou plus
+Degré: 2
+
 Nom: Aiguille en argent
 Classe: Orfèvre
 Niveau: 26
@@ -1123,6 +1138,21 @@ Qualité: 50 max.
 Conditions: Synthèse rapide impossible, Habileté recommandée : 587, Synthèse collectionnable uniquement
 Degré: 2
 
+Nom: Alambic des associés
+Classe: Armurier
+Niveau: 90
+Livre: Armurerie experte IX
+Catégorie: Outil principal d'alchimiste
+Matériaux: 3 Danburite d'Éblana, 3 Lingot d'adamantium sélénien, 1 Quartz étoilé, 2 Potion alchimique immuable, 1 Sable éthéréen sylvestre
+Cristaux: 3 Agrégat de glace, 3 Agrégat de terre
+Total fabriqué: 1
+Difficulté: 4300
+Solidité: 70
+Qualité maximum: 12800
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté requise : 3240 ou plus, Contrôle requis : 3130 ou plus
+Degré: 3
+
 Nom: Alambic en acier
 Classe: Armurier
 Niveau: 29
@@ -1766,6 +1796,21 @@ Solidité: 80
 Qualité maximum: 2200
 Qualité: 50 max.
 Conditions: Contrôle requis : 255 ou plus, Synthèse rapide : Contrôle >= 318
+Degré: 2
+
+Nom: Alêne des associés
+Classe: Forgeron
+Niveau: 90
+Livre: Métallurgie experte IX
+Catégorie: Outil secondaire de tanneur
+Matériaux: 3 Danburite d'Éblana, 3 Lingot d'adamantium sélénien, 1 Cuir d'ophiotauros, 2 Potion alchimique immuable, 1 Sable éthéréen mégalithique
+Cristaux: 3 Agrégat de feu, 3 Agrégat de terre
+Total fabriqué: 1
+Difficulté: 4300
+Solidité: 70
+Qualité maximum: 12800
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté requise : 3240 ou plus, Contrôle requis : 3130 ou plus
 Degré: 2
 
 Nom: Alêne en acier
@@ -3266,6 +3311,21 @@ Solidité: 70
 Qualité maximum: 3300
 Qualité: 50 max.
 Conditions: Synthèse rapide impossible, Habileté requise : 850 ou plus, Contrôle requis : 820 ou plus
+Degré: 2
+
+Nom: Arc de cavalerie classique
+Classe: Menuisier
+Niveau: 90
+Livre: Menuiserie experte IX
+Catégorie: Arme d'archer
+Matériaux: 3 Madrier de mempisang, 2 Lingot de rhodium, 1 Madrier d'arbre intégral, 2 Eau chimérique de dextérité VI, 1 Sable éthéréen mégalithique
+Cristaux: 3 Agrégat de vent, 3 Agrégat de glace
+Total fabriqué: 1
+Difficulté: 3900
+Solidité: 70
+Qualité maximum: 10920
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté requise : 3180 ou plus, Contrôle requis : 3080 ou plus
 Degré: 2
 
 Nom: Arc de cavalerie en frêne
@@ -5608,6 +5668,21 @@ Qualité: 50 max.
 Conditions: Synthèse rapide impossible, Habileté recommandée : 2590, Haute qualité impossible
 Degré: 2
 
+Nom: Assiette elpissienne
+Classe: Cuisinier
+Niveau: 90
+Livre: 
+Catégorie: Plat ou boisson
+Matériaux: 1 Escalope d'Elpis, 2 Oignon extraterrestre, 1 Farine de seigle noir, 1 Farine de blé des plateaux, 1 Tomate sanguine, 1 Sel de table des mers du Nord
+Cristaux: 8 Cristal de feu, 8 Cristal d'eau
+Total fabriqué: 3
+Difficulté: 3500
+Solidité: 80
+Qualité maximum: 7200
+Qualité: 50 max.
+Conditions: Habileté recommandée : 2805
+Degré: 2
+
 Nom: Assiette-repas sur commande de restauration (3e phase)
 Classe: Cuisinier
 Niveau: 80
@@ -5713,6 +5788,21 @@ Qualité: 50 max.
 Conditions: Contrôle requis : 318 ou plus, Synthèse rapide : Contrôle >= 374
 Degré: 4
 
+Nom: Astrolabe à plumes bleues
+Classe: Forgeron
+Niveau: 90
+Livre: Métallurgie experte IX
+Catégorie: Mobilier de table
+Matériaux: 1 Plume bleue, 3 Lingot de chondrite, 2 Madrier d'arbre intégral, 1 Quartz étoilé
+Cristaux: 3 Agrégat de feu, 3 Agrégat de terre
+Total fabriqué: 1
+Difficulté: 3700
+Solidité: 80
+Qualité maximum: 7400
+Qualité: 50 max.
+Conditions: Recette de spécialiste, Synthèse rapide impossible, Habileté recommandée : 2924, Haute qualité impossible
+Degré: 3
+
 Nom: Astromètre de la Table ronde
 Classe: Orfèvre
 Niveau: 60
@@ -5793,7 +5883,7 @@ Classe: Alchimiste
 Niveau: 60
 Livre: Alchimie experte III
 Catégorie: Mascotte
-Matériaux: 3 Chair d'Atomos, 3 Viande de gelato, 3 Sang de dragon, 2 Formule de croissance zêta, 1 Noix luisante, 1 Sable éthéréen de l'aurore
+Matériaux: 3 Chair d'atomos, 3 Viande de gelato, 3 Sang de dragon, 2 Formule de croissance zêta, 1 Noix luisante, 1 Sable éthéréen de l'aurore
 Cristaux: 99 Éclat d'eau
 Total fabriqué: 1
 Difficulté: 330
@@ -5951,6 +6041,36 @@ Solidité: 70
 Qualité maximum: 4800
 Qualité: 50 max.
 Conditions: Synthèse rapide impossible, Habileté recommandée : 1320, Haute qualité impossible
+Degré: 3
+
+Nom: Attirail de Susano flamboyant pour paladin
+Classe: Armurier
+Niveau: 70
+Livre: Armurerie experte VI
+Catégorie: Divers
+Matériaux: 3 Lingot de chromite, 2 Cuir de vrai griffon, 2 Pépite de palladium, 1 Lame de Susano, 5 Demi-cristal
+Cristaux: 7 Cristal de glace, 7 Cristal de terre
+Total fabriqué: 1
+Difficulté: 1200
+Solidité: 70
+Qualité maximum: 4800
+Qualité: 50 max.
+Conditions: Recette de spécialiste, Synthèse rapide impossible, Habileté recommandée : 1320, Haute qualité impossible
+Degré: 3
+
+Nom: Attirail de Susano flamboyant pour paladin
+Classe: Forgeron
+Niveau: 70
+Livre: Métallurgie experte VI
+Catégorie: Divers
+Matériaux: 3 Lingot de chromite, 2 Cuir de vrai griffon, 2 Pépite de palladium, 1 Lame de Susano, 5 Demi-cristal
+Cristaux: 7 Cristal de feu, 7 Cristal de terre
+Total fabriqué: 1
+Difficulté: 1200
+Solidité: 70
+Qualité maximum: 4800
+Qualité: 50 max.
+Conditions: Recette de spécialiste, Synthèse rapide impossible, Habileté recommandée : 1320, Haute qualité impossible
 Degré: 3
 
 Nom: Attirail de Suzaku flamboyant pour paladin
@@ -6223,6 +6343,21 @@ Qualité: 50 max.
 Conditions: Synthèse rapide impossible, Habileté requise : 391 ou plus, Contrôle requis : 374 ou plus, Haute qualité impossible
 Degré: 3
 
+Nom: Auvent boisé coerthien
+Classe: Menuisier
+Niveau: 60
+Livre: 
+Catégorie: Décoration de façade
+Matériaux: 3 Madrier de châtaignier sombre, 2 Lingot de mithrite, 3 Tuile, 2 Vernis
+Cristaux: 6 Cristal de vent, 5 Cristal de glace
+Total fabriqué: 1
+Difficulté: 580
+Solidité: 70
+Qualité maximum: 2700
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté recommandée : 587, Haute qualité impossible
+Degré: 3
+
 Nom: Auvent boisé noscéen
 Classe: Menuisier
 Niveau: 28
@@ -6251,6 +6386,21 @@ Solidité: 70
 Qualité maximum: 195
 Qualité: 50 max.
 Conditions: Synthèse rapide impossible, Habileté recommandée : 78, Haute qualité impossible
+Degré: 3
+
+Nom: Auvent composite coerthien
+Classe: Alchimiste
+Niveau: 60
+Livre: 
+Catégorie: Décoration de façade
+Matériaux: 3 Madrier de châtaignier sombre, 2 Lingot de mithrite, 3 Brique, 2 Vernis
+Cristaux: 6 Cristal d'eau, 5 Cristal de foudre
+Total fabriqué: 1
+Difficulté: 580
+Solidité: 70
+Qualité maximum: 2700
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté recommandée : 587, Haute qualité impossible
 Degré: 3
 
 Nom: Auvent de restauration (3e phase)
@@ -6282,6 +6432,21 @@ Qualité maximum: 11960
 Qualité: 50 max.
 Conditions: Synthèse rapide impossible, Habileté recommandée : 1866, Synthèse collectionnable uniquement
 Degré: 2
+
+Nom: Auvent en pierre coerthien
+Classe: Armurier
+Niveau: 60
+Livre: 
+Catégorie: Décoration de façade
+Matériaux: 3 Pépite de titane, 2 Madrier de cèdre sacré, 3 Tuile, 2 Vernis
+Cristaux: 6 Cristal de glace, 5 Cristal de terre
+Total fabriqué: 1
+Difficulté: 580
+Solidité: 70
+Qualité maximum: 2700
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté recommandée : 587, Haute qualité impossible
+Degré: 3
 
 Nom: Auvent en tuiles sombrelinçois
 Classe: Alchimiste
@@ -6582,6 +6747,21 @@ Qualité maximum: 3763
 Qualité: 75 max.
 Conditions: Habileté recommandée : 1320
 Degré: 2
+
+Nom: Bague d'attaquant classique
+Classe: Orfèvre
+Niveau: 90
+Livre: Orfèvrerie experte IX
+Catégorie: Bague
+Matériaux: 2 Lingot de rhodium, 1 Quartz étoilé, 1 Eau chimérique de force VI, 1 Sable éthéréen pélagique
+Cristaux: 3 Agrégat de vent, 3 Agrégat de feu
+Total fabriqué: 1
+Difficulté: 3900
+Solidité: 70
+Qualité maximum: 10920
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté requise : 3180 ou plus, Contrôle requis : 3080 ou plus
+Degré: 3
 
 Nom: Bague d'attaquant de l'exarchat
 Classe: Orfèvre
@@ -7002,6 +7182,21 @@ Qualité maximum: 8500
 Qualité: 50 max.
 Conditions: Habileté requise : 2480 ou plus, Contrôle requis : 2195 ou plus, Synthèse rapide : Habileté >= 2620
 Degré: 2
+
+Nom: Bague d'incantateur classique
+Classe: Orfèvre
+Niveau: 90
+Livre: Orfèvrerie experte IX
+Catégorie: Bague
+Matériaux: 2 Lingot de rhodium, 1 Quartz étoilé, 1 Eau chimérique d'intelligence VI, 1 Sable éthéréen pélagique
+Cristaux: 3 Agrégat de vent, 3 Agrégat de feu
+Total fabriqué: 1
+Difficulté: 3900
+Solidité: 70
+Qualité maximum: 10920
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté requise : 3180 ou plus, Contrôle requis : 3080 ou plus
+Degré: 3
 
 Nom: Bague d'incantateur de l'exarchat
 Classe: Orfèvre
@@ -7438,6 +7633,21 @@ Qualité: 50 max.
 Conditions: Contrôle requis : 255 ou plus, Synthèse rapide : Contrôle >= 318
 Degré: 2
 
+Nom: Bague de pisteur classique
+Classe: Orfèvre
+Niveau: 90
+Livre: Orfèvrerie experte IX
+Catégorie: Bague
+Matériaux: 2 Lingot de rhodium, 1 Quartz étoilé, 1 Eau chimérique de dextérité VI, 1 Sable éthéréen pélagique
+Cristaux: 3 Agrégat de vent, 3 Agrégat de feu
+Total fabriqué: 1
+Difficulté: 3900
+Solidité: 70
+Qualité maximum: 10920
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté requise : 3180 ou plus, Contrôle requis : 3080 ou plus
+Degré: 3
+
 Nom: Bague de pisteur de l'exarchat
 Classe: Orfèvre
 Niveau: 80
@@ -7858,6 +8068,21 @@ Qualité: 50 max.
 Conditions: Habileté requise : 2480 ou plus, Contrôle requis : 2195 ou plus, Synthèse rapide : Habileté >= 2620
 Degré: 2
 
+Nom: Bague de protecteur classique
+Classe: Orfèvre
+Niveau: 90
+Livre: Orfèvrerie experte IX
+Catégorie: Bague
+Matériaux: 2 Lingot de rhodium, 1 Quartz étoilé, 1 Eau chimérique de vitalité VI, 1 Sable éthéréen pélagique
+Cristaux: 3 Agrégat de vent, 3 Agrégat de feu
+Total fabriqué: 1
+Difficulté: 3900
+Solidité: 70
+Qualité maximum: 10920
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté requise : 3180 ou plus, Contrôle requis : 3080 ou plus
+Degré: 3
+
 Nom: Bague de protecteur de l'exarchat
 Classe: Orfèvre
 Niveau: 80
@@ -8277,6 +8502,21 @@ Qualité maximum: 8500
 Qualité: 50 max.
 Conditions: Habileté requise : 2480 ou plus, Contrôle requis : 2195 ou plus, Synthèse rapide : Habileté >= 2620
 Degré: 2
+
+Nom: Bague de soigneur classique
+Classe: Orfèvre
+Niveau: 90
+Livre: Orfèvrerie experte IX
+Catégorie: Bague
+Matériaux: 2 Lingot de rhodium, 1 Quartz étoilé, 1 Eau chimérique d'esprit VI, 1 Sable éthéréen pélagique
+Cristaux: 3 Agrégat de vent, 3 Agrégat de feu
+Total fabriqué: 1
+Difficulté: 3900
+Solidité: 70
+Qualité maximum: 10920
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté requise : 3180 ou plus, Contrôle requis : 3080 ou plus
+Degré: 3
 
 Nom: Bague de soigneur de l'exarchat
 Classe: Orfèvre
@@ -10465,7 +10705,7 @@ Difficulté: 2625
 Solidité: 80
 Qualité maximum: 4320
 Qualité: 0 max.
-Conditions: Synthèse rapide impossible, Habileté recommandée : 2805
+Conditions: Synthèse rapide impossible, Habileté recommandée : 2805, Gain d'expérience impossible
 Degré: 1
 
 Nom: Baguette d'astromancien
@@ -10480,7 +10720,7 @@ Difficulté: 2625
 Solidité: 80
 Qualité maximum: 4320
 Qualité: 0 max.
-Conditions: Synthèse rapide impossible, Habileté recommandée : 2805
+Conditions: Synthèse rapide impossible, Habileté recommandée : 2805, Gain d'expérience impossible
 Degré: 1
 
 Nom: Baguette d'astromancien
@@ -10495,7 +10735,7 @@ Difficulté: 2625
 Solidité: 80
 Qualité maximum: 4320
 Qualité: 0 max.
-Conditions: Synthèse rapide impossible, Habileté recommandée : 2805
+Conditions: Synthèse rapide impossible, Habileté recommandée : 2805, Gain d'expérience impossible
 Degré: 1
 
 Nom: Baguette de l'eau
@@ -10871,6 +11111,21 @@ Solidité: 80
 Qualité maximum: 1000
 Qualité: 50 max.
 Conditions: Synthèse rapide impossible, Habileté recommandée : 176, Haute qualité impossible
+Degré: 2
+
+Nom: Bain extérieur ishgardais
+Classe: Orfèvre
+Niveau: 90
+Livre: 
+Catégorie: Meuble de jardin
+Matériaux: 1 Lingot de chondrite, 10 Granit, 5 Pierre à aiguiser en annite, 5 Eau céleste
+Cristaux: 32 Cristal de vent, 32 Cristal de feu
+Total fabriqué: 1
+Difficulté: 3500
+Solidité: 80
+Qualité maximum: 7200
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté recommandée : 2805, Haute qualité impossible
 Degré: 2
 
 Nom: Baklava
@@ -11458,6 +11713,36 @@ Qualité: 50 max.
 Conditions: Habileté recommandée : 2336
 Degré: 2
 
+Nom: Bandeau de sagittarius classique
+Classe: Couturier
+Niveau: 90
+Livre: Couture experte IX
+Catégorie: Tête
+Matériaux: 2 Étoffe de soie dorée, 1 Lingot de rhodium, 1 Cuir d'ophiotauros, 2 Eau chimérique de dextérité VI, 1 Sable éthéréen sylvestre
+Cristaux: 3 Agrégat de foudre, 3 Agrégat de vent
+Total fabriqué: 1
+Difficulté: 3900
+Solidité: 70
+Qualité maximum: 10920
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté requise : 3180 ou plus, Contrôle requis : 3080 ou plus
+Degré: 2
+
+Nom: Bandeau à cornes de signifer classique
+Classe: Orfèvre
+Niveau: 90
+Livre: Orfèvrerie experte IX
+Catégorie: Tête
+Matériaux: 2 Lingot de rhodium, 1 Cuir d'amynodon, 1 Quartz étoilé, 2 Eau chimérique d'intelligence VI, 1 Sable éthéréen sylvestre
+Cristaux: 3 Agrégat de vent, 3 Agrégat de feu
+Total fabriqué: 1
+Difficulté: 3900
+Solidité: 70
+Qualité maximum: 10920
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté requise : 3180 ou plus, Contrôle requis : 3080 ou plus
+Degré: 3
+
 Nom: Banh xeo
 Classe: Cuisinier
 Niveau: 70
@@ -11472,6 +11757,21 @@ Qualité maximum: 5200
 Qualité: 50 max.
 Conditions: Habileté requise : 1500 ou plus, Contrôle requis : 1350 ou plus, Synthèse rapide : Habileté >= 1650
 Degré: 1
+
+Nom: Bannière sur mât coerthienne
+Classe: Forgeron
+Niveau: 60
+Livre: 
+Catégorie: Panneau
+Matériaux: 3 Pépite de titane, 4 Étoffe de ramie, 3 Rivets en mithrite
+Cristaux: 6 Cristal de feu, 5 Cristal de terre
+Total fabriqué: 1
+Difficulté: 580
+Solidité: 70
+Qualité maximum: 2700
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté recommandée : 587, Haute qualité impossible
+Degré: 3
 
 Nom: Bannière sur mât noscéenne
 Classe: Tanneur
@@ -12073,6 +12373,21 @@ Qualité: 50 max.
 Conditions: Synthèse rapide impossible, Habileté requise : 995 ou plus, Contrôle requis : 955 ou plus, Haute qualité impossible
 Degré: 3
 
+Nom: Barde de la Lumière divine
+Classe: Couturier
+Niveau: 90
+Livre: Couture experte VIII
+Catégorie: Autre
+Matériaux: 1 Cristal de la Lumière divine, 2 Étoffe de gardénia, 1 Cuir de lion marsupial, 2 Velours de Caean
+Cristaux: 3 Agrégat de foudre, 3 Agrégat de vent
+Total fabriqué: 1
+Difficulté: 3700
+Solidité: 80
+Qualité maximum: 7400
+Qualité: 50 max.
+Conditions: Recette de spécialiste, Synthèse rapide impossible, Habileté recommandée : 2924, Haute qualité impossible
+Degré: 2
+
 Nom: Barde de la Lumière véritable
 Classe: Armurier
 Niveau: 80
@@ -12103,6 +12418,21 @@ Qualité: 50 max.
 Conditions: Synthèse rapide impossible, Habileté recommandée : 136, Haute qualité impossible
 Degré: 3
 
+Nom: Barde des Ténèbres éternelles
+Classe: Armurier
+Niveau: 90
+Livre: Armurerie experte VIII
+Catégorie: Autre
+Matériaux: 1 Cristal des Ténèbres infinies, 2 Lingot de duralium, 1 Étoffe de gardénia, 2 Lingot de chondrite
+Cristaux: 3 Agrégat de glace, 3 Agrégat de terre
+Total fabriqué: 1
+Difficulté: 3700
+Solidité: 80
+Qualité maximum: 7400
+Qualité: 50 max.
+Conditions: Recette de spécialiste, Synthèse rapide impossible, Habileté recommandée : 2924, Haute qualité impossible
+Degré: 2
+
 Nom: Barde orthodoxe
 Classe: Couturier
 Niveau: 56
@@ -12117,6 +12447,21 @@ Qualité maximum: 2420
 Qualité: 50 max.
 Conditions: Synthèse rapide impossible, Habileté recommandée : 550, Haute qualité impossible
 Degré: 3
+
+Nom: Barde à plumes bleues
+Classe: Armurier
+Niveau: 90
+Livre: Armurerie experte IX
+Catégorie: Autre
+Matériaux: 1 Plume bleue, 2 Lingot d'adamantium sélénien, 1 Cuir d'amynodon, 2 Lingot de chondrite
+Cristaux: 3 Agrégat de glace, 3 Agrégat de terre
+Total fabriqué: 1
+Difficulté: 3700
+Solidité: 80
+Qualité maximum: 7400
+Qualité: 50 max.
+Conditions: Recette de spécialiste, Synthèse rapide impossible, Habileté recommandée : 2924, Haute qualité impossible
+Degré: 2
 
 Nom: Bardiche de barbare
 Classe: Forgeron
@@ -14848,6 +15193,21 @@ Qualité: 50 max.
 Conditions: Habileté recommandée : 529
 Degré: 4
 
+Nom: Bas-de-corps universitaire
+Classe: Couturier
+Niveau: 90
+Livre: Couture experte IX
+Catégorie: Jambes
+Matériaux: 1 Fibre ludodromique, 3 Velours de Caean
+Cristaux: 3 Agrégat de foudre, 3 Agrégat de vent
+Total fabriqué: 1
+Difficulté: 3700
+Solidité: 80
+Qualité maximum: 7400
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté recommandée : 2924
+Degré: 2
+
 Nom: Baselards en acier
 Classe: Forgeron
 Niveau: 34
@@ -15373,6 +15733,21 @@ Qualité: 50 max.
 Conditions: Synthèse rapide impossible, Habileté requise : 275 ou plus, Haute qualité impossible
 Degré: 3
 
+Nom: Bibliothèque à porte secrète
+Classe: Menuisier
+Niveau: 90
+Livre: 
+Catégorie: Meuble
+Matériaux: 2 Grande bibliothèque, 4 Madrier d'arbre intégral, 4 Lingot de manganèse, 2 Lingot de plomb-étain
+Cristaux: 32 Cristal de vent, 32 Cristal de glace
+Total fabriqué: 1
+Difficulté: 3500
+Solidité: 80
+Qualité maximum: 7200
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté recommandée : 2805, Haute qualité impossible
+Degré: 3
+
 Nom: Bille de bois pétrifié
 Classe: Menuisier
 Niveau: 50
@@ -15448,6 +15823,21 @@ Qualité: 50 max.
 Conditions: Habileté recommandée : 99
 Degré: 3
 
+Nom: Biscuit au sycon
+Classe: Cuisinier
+Niveau: 90
+Livre: Cuisine experte IX
+Catégorie: Plat ou boisson
+Matériaux: 1 Bâtons de cannelle de premier choix, 1 Épices naturelles, 2 Farine de seigle noir, 1 Sycon, 1 Œuf d'oiseau d'Elpis, 1 Lait d'ovibos
+Cristaux: 3 Agrégat de feu, 3 Agrégat d'eau
+Total fabriqué: 3
+Difficulté: 3900
+Solidité: 70
+Qualité maximum: 10920
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté requise : 3180 ou plus, Contrôle requis : 3080 ou plus
+Degré: 2
+
 Nom: Biscuit au sésame
 Classe: Cuisinier
 Niveau: 56
@@ -15513,7 +15903,7 @@ Classe: Cuisinier
 Niveau: 89
 Livre: 
 Catégorie: Plat ou boisson
-Matériaux: 3 Feuilles de sidéritis, 1 Farine de seigle noir, 1 Sucre de palme, 1 Beurre fermenté
+Matériaux: 3 Feuilles de sidéritis, 1 Farine de seigle noir, 1 Sucre de palme, 1 Œuf d'oiseau d'Elpis, 1 Beurre fermenté
 Cristaux: 8 Cristal de feu, 8 Cristal d'eau
 Total fabriqué: 3
 Difficulté: 3400
@@ -17998,6 +18388,21 @@ Qualité: 50 max.
 Conditions: Habileté requise : 870 ou plus, Contrôle requis : 835 ou plus, Synthèse rapide : Habileté >= 995
 Degré: 3
 
+Nom: Bottes des ressources des associés
+Classe: Tanneur
+Niveau: 90
+Livre: Tannerie experte IX
+Catégorie: Pieds
+Matériaux: 3 Fibre thavnairoise, 2 Cuir d'amynodon, 1 Cuir d'ophiotauros, 1 Potion alchimique immuable, 1 Sable éthéréen pélagique
+Cristaux: 3 Agrégat de terre, 3 Agrégat de vent
+Total fabriqué: 1
+Difficulté: 4300
+Solidité: 70
+Qualité maximum: 12800
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté requise : 3240 ou plus, Contrôle requis : 3130 ou plus
+Degré: 2
+
 Nom: Bottes des ressources en cuir d'atrociraptor
 Classe: Tanneur
 Niveau: 74
@@ -18101,6 +18506,21 @@ Solidité: 70
 Qualité maximum: 8500
 Qualité: 50 max.
 Conditions: Habileté requise : 2480 ou plus, Contrôle requis : 2195 ou plus, Synthèse rapide : Habileté >= 2620
+Degré: 2
+
+Nom: Bottes du bonheur
+Classe: Tanneur
+Niveau: 90
+Livre: Tannerie experte IX
+Catégorie: Pieds
+Matériaux: 1 Étoffe du bonheur, 2 Cuir d'ophiotauros
+Cristaux: 3 Agrégat de terre, 3 Agrégat de vent
+Total fabriqué: 1
+Difficulté: 3700
+Solidité: 80
+Qualité maximum: 7400
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté recommandée : 2924
 Degré: 2
 
 Nom: Bottes du griffon blanc en manganèse
@@ -19753,6 +20173,21 @@ Qualité: 50 max.
 Conditions: Habileté recommandée : 136
 Degré: 2
 
+Nom: Boucles d'oreilles d'attaquant classiques
+Classe: Orfèvre
+Niveau: 90
+Livre: Orfèvrerie experte IX
+Catégorie: Boucle d'oreille
+Matériaux: 1 Lingot de rhodium, 1 Étoffe de soie dorée, 1 Quartz étoilé, 1 Eau chimérique de force VI, 1 Sable éthéréen sylvestre
+Cristaux: 3 Agrégat de vent, 3 Agrégat de feu
+Total fabriqué: 1
+Difficulté: 3900
+Solidité: 70
+Qualité maximum: 10920
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté requise : 3180 ou plus, Contrôle requis : 3080 ou plus
+Degré: 3
+
 Nom: Boucles d'oreilles d'attaquant de l'exarchat
 Classe: Orfèvre
 Niveau: 80
@@ -20037,6 +20472,21 @@ Qualité maximum: 1400
 Qualité: 50 max.
 Conditions: Habileté recommandée : 136
 Degré: 2
+
+Nom: Boucles d'oreilles d'incantateur classiques
+Classe: Orfèvre
+Niveau: 90
+Livre: Orfèvrerie experte IX
+Catégorie: Boucle d'oreille
+Matériaux: 1 Lingot de rhodium, 1 Étoffe de soie dorée, 1 Quartz étoilé, 1 Eau chimérique d'intelligence VI, 1 Sable éthéréen sylvestre
+Cristaux: 3 Agrégat de vent, 3 Agrégat de feu
+Total fabriqué: 1
+Difficulté: 3900
+Solidité: 70
+Qualité maximum: 10920
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté requise : 3180 ou plus, Contrôle requis : 3080 ou plus
+Degré: 3
 
 Nom: Boucles d'oreilles d'incantateur de l'exarchat
 Classe: Orfèvre
@@ -20473,6 +20923,21 @@ Qualité: 50 max.
 Conditions: Habileté recommandée : 99
 Degré: 2
 
+Nom: Boucles d'oreilles de pisteur classiques
+Classe: Orfèvre
+Niveau: 90
+Livre: Orfèvrerie experte IX
+Catégorie: Boucle d'oreille
+Matériaux: 1 Lingot de rhodium, 1 Étoffe de soie dorée, 1 Quartz étoilé, 1 Eau chimérique de dextérité VI, 1 Sable éthéréen sylvestre
+Cristaux: 3 Agrégat de vent, 3 Agrégat de feu
+Total fabriqué: 1
+Difficulté: 3900
+Solidité: 70
+Qualité maximum: 10920
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté requise : 3180 ou plus, Contrôle requis : 3080 ou plus
+Degré: 3
+
 Nom: Boucles d'oreilles de pisteur de l'exarchat
 Classe: Orfèvre
 Niveau: 80
@@ -20741,6 +21206,21 @@ Solidité: 80
 Qualité maximum: 6900
 Qualité: 50 max.
 Conditions: Habileté recommandée : 2626
+Degré: 3
+
+Nom: Boucles d'oreilles de protecteur classiques
+Classe: Orfèvre
+Niveau: 90
+Livre: Orfèvrerie experte IX
+Catégorie: Boucle d'oreille
+Matériaux: 1 Lingot de rhodium, 1 Étoffe de soie dorée, 1 Quartz étoilé, 1 Eau chimérique de vitalité VI, 1 Sable éthéréen sylvestre
+Cristaux: 3 Agrégat de vent, 3 Agrégat de feu
+Total fabriqué: 1
+Difficulté: 3900
+Solidité: 70
+Qualité maximum: 10920
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté requise : 3180 ou plus, Contrôle requis : 3080 ou plus
 Degré: 3
 
 Nom: Boucles d'oreilles de protecteur de l'exarchat
@@ -21042,6 +21522,21 @@ Qualité maximum: 2000
 Qualité: 50 max.
 Conditions: Habileté recommandée : 176
 Degré: 2
+
+Nom: Boucles d'oreilles de soigneur classiques
+Classe: Orfèvre
+Niveau: 90
+Livre: Orfèvrerie experte IX
+Catégorie: Boucle d'oreille
+Matériaux: 1 Lingot de rhodium, 1 Étoffe de soie dorée, 1 Quartz étoilé, 1 Eau chimérique d'esprit VI, 1 Sable éthéréen sylvestre
+Cristaux: 3 Agrégat de vent, 3 Agrégat de feu
+Total fabriqué: 1
+Difficulté: 3900
+Solidité: 70
+Qualité maximum: 10920
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté requise : 3180 ou plus, Contrôle requis : 3080 ou plus
+Degré: 3
 
 Nom: Boucles d'oreilles de soigneur de l'exarchat
 Classe: Orfèvre
@@ -22092,6 +22587,21 @@ Qualité maximum: 360
 Qualité: 50 max.
 Conditions: Habileté recommandée : 67
 Degré: 3
+
+Nom: Bouclier classique
+Classe: Armurier
+Niveau: 90
+Livre: Armurerie experte IX
+Catégorie: Bouclier
+Matériaux: 1 Lingot d'adamantium sélénien, 1 Madrier de mempisang, 1 Eau chimérique de vitalité VI
+Cristaux: 3 Agrégat de glace, 3 Agrégat de terre
+Total fabriqué: 1
+Difficulté: 3900
+Solidité: 70
+Qualité maximum: 10920
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté requise : 3180 ou plus, Contrôle requis : 3080 ou plus
+Degré: 2
 
 Nom: Bouclier en acier domien
 Classe: Armurier
@@ -25768,6 +26278,21 @@ Qualité: 50 max.
 Conditions: Habileté requise : 718 ou plus, Contrôle requis : 695 ou plus, Synthèse rapide : Habileté >= 850
 Degré: 3
 
+Nom: Braies des ressources des associés
+Classe: Tanneur
+Niveau: 90
+Livre: Tannerie experte IX
+Catégorie: Jambes
+Matériaux: 4 Fibre thavnairoise, 3 Cuir d'amynodon, 1 Cuir d'ophiotauros, 2 Potion alchimique immuable, 1 Sable éthéréen mégalithique
+Cristaux: 3 Agrégat de terre, 3 Agrégat de vent
+Total fabriqué: 1
+Difficulté: 4300
+Solidité: 70
+Qualité maximum: 12800
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté requise : 3240 ou plus, Contrôle requis : 3130 ou plus
+Degré: 2
+
 Nom: Braies des ressources en cuir d'archéornis
 Classe: Tanneur
 Niveau: 52
@@ -27133,6 +27658,21 @@ Qualité: 50 max.
 Conditions: Synthèse rapide impossible, Habileté recommandée : 1320
 Degré: 3
 
+Nom: Bâton de Susano flamboyant
+Classe: Orfèvre
+Niveau: 70
+Livre: Orfèvrerie experte VI
+Catégorie: Arme à deux mains d'occultiste
+Matériaux: 3 Lingot de palladium, 2 Lingot de chromite, 2 Rhodonite, 1 Lame de Susano, 5 Demi-cristal
+Cristaux: 7 Cristal de vent, 7 Cristal de feu
+Total fabriqué: 1
+Difficulté: 1200
+Solidité: 70
+Qualité maximum: 4800
+Qualité: 50 max.
+Conditions: Recette de spécialiste, Synthèse rapide impossible, Habileté recommandée : 1320
+Degré: 3
+
 Nom: Bâton de Suzaku flamboyant
 Classe: Orfèvre
 Niveau: 70
@@ -27972,6 +28512,21 @@ Qualité maximum: 2750
 Qualité: 50 max.
 Conditions: Synthèse rapide impossible, Habileté requise : 391 ou plus, Contrôle requis : 374 ou plus
 Degré: 1
+
+Nom: Bœuf Stroganov
+Classe: Cuisinier
+Niveau: 90
+Livre: Cuisine experte IX
+Catégorie: Plat ou boisson
+Matériaux: 1 Viande de bœuf de premier choix, 1 Épices naturelles, 2 Huile de périlla, 1 Lait d'ovibos, 1 Popoto géante, 1 Laitue iceberg
+Cristaux: 3 Agrégat de feu, 3 Agrégat d'eau
+Total fabriqué: 3
+Difficulté: 3900
+Solidité: 70
+Qualité maximum: 10920
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté requise : 3180 ou plus, Contrôle requis : 3080 ou plus
+Degré: 2
 
 Nom: Cabinet en bois
 Classe: Menuisier
@@ -28918,6 +29473,21 @@ Qualité: 75 max.
 Conditions: Habileté recommandée : 1580
 Degré: 4
 
+Nom: Caligae d'eques classiques
+Classe: Tanneur
+Niveau: 90
+Livre: Tannerie experte IX
+Catégorie: Pieds
+Matériaux: 2 Cuir d'amynodon, 1 Lingot d'adamantium sélénien, 1 Cuir d'ophiotauros, 2 Eau chimérique de force VI, 1 Sable éthéréen pélagique
+Cristaux: 3 Agrégat de terre, 3 Agrégat de vent
+Total fabriqué: 1
+Difficulté: 3900
+Solidité: 70
+Qualité maximum: 10920
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté requise : 3180 ou plus, Contrôle requis : 3080 ou plus
+Degré: 2
+
 Nom: Caligae d'éclaireur en cuir de vrai griffon
 Classe: Tanneur
 Niveau: 70
@@ -28963,6 +29533,36 @@ Qualité: 50 max.
 Conditions: Contrôle requis : 255 ou plus, Synthèse rapide : Contrôle >= 318
 Degré: 2
 
+Nom: Caligae de dimachaerus classiques
+Classe: Armurier
+Niveau: 90
+Livre: Armurerie experte IX
+Catégorie: Pieds
+Matériaux: 2 Lingot d'adamantium sélénien, 1 Cuir d'amynodon, 1 Lingot de chondrite, 2 Eau chimérique de dextérité VI, 1 Sable éthéréen pélagique
+Cristaux: 3 Agrégat de glace, 3 Agrégat de terre
+Total fabriqué: 1
+Difficulté: 3900
+Solidité: 70
+Qualité maximum: 10920
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté requise : 3180 ou plus, Contrôle requis : 3080 ou plus
+Degré: 2
+
+Nom: Caligae de medicus classiques
+Classe: Tanneur
+Niveau: 90
+Livre: Tannerie experte IX
+Catégorie: Pieds
+Matériaux: 2 Cuir d'amynodon, 1 Madrier de mempisang, 1 Lingot de chondrite, 2 Eau chimérique d'esprit VI, 1 Sable éthéréen pélagique
+Cristaux: 3 Agrégat de terre, 3 Agrégat de vent
+Total fabriqué: 1
+Difficulté: 3900
+Solidité: 70
+Qualité maximum: 10920
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté requise : 3180 ou plus, Contrôle requis : 3080 ou plus
+Degré: 2
+
 Nom: Caligae de milicien
 Classe: Tanneur
 Niveau: 50
@@ -28992,6 +29592,51 @@ Qualité maximum: 4300
 Qualité: 75 max.
 Conditions: Habileté recommandée : 1621
 Degré: 4
+
+Nom: Caligae de sagittarius classiques
+Classe: Tanneur
+Niveau: 90
+Livre: Tannerie experte IX
+Catégorie: Pieds
+Matériaux: 2 Cuir d'amynodon, 1 Lingot d'adamantium sélénien, 1 Cuir d'ophiotauros, 2 Eau chimérique de dextérité VI, 1 Sable éthéréen pélagique
+Cristaux: 3 Agrégat de terre, 3 Agrégat de vent
+Total fabriqué: 1
+Difficulté: 3900
+Solidité: 70
+Qualité maximum: 10920
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté requise : 3180 ou plus, Contrôle requis : 3080 ou plus
+Degré: 2
+
+Nom: Caligae de secutor classiques
+Classe: Tanneur
+Niveau: 90
+Livre: Tannerie experte IX
+Catégorie: Pieds
+Matériaux: 2 Cuir d'amynodon, 1 Lingot d'adamantium sélénien, 1 Cuir d'ophiotauros, 2 Eau chimérique de force VI, 1 Sable éthéréen pélagique
+Cristaux: 3 Agrégat de terre, 3 Agrégat de vent
+Total fabriqué: 1
+Difficulté: 3900
+Solidité: 70
+Qualité maximum: 10920
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté requise : 3180 ou plus, Contrôle requis : 3080 ou plus
+Degré: 2
+
+Nom: Caligae de signifer classiques
+Classe: Tanneur
+Niveau: 90
+Livre: Tannerie experte IX
+Catégorie: Pieds
+Matériaux: 2 Cuir d'amynodon, 1 Madrier de mempisang, 1 Lingot de chondrite, 2 Eau chimérique d'intelligence VI, 1 Sable éthéréen pélagique
+Cristaux: 3 Agrégat de terre, 3 Agrégat de vent
+Total fabriqué: 1
+Difficulté: 3900
+Solidité: 70
+Qualité maximum: 10920
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté requise : 3180 ou plus, Contrôle requis : 3080 ou plus
+Degré: 2
 
 Nom: Caligae de soigneur en cuir de zonure
 Classe: Tanneur
@@ -29323,6 +29968,21 @@ Qualité: 50 max.
 Conditions: Synthèse rapide impossible, Habileté recommandée : 1662, Haute qualité impossible
 Degré: 2
 
+Nom: Canapé eulmorien
+Classe: Couturier
+Niveau: 90
+Livre: 
+Catégorie: Meuble
+Matériaux: 6 Madrier de chêne blanc, 5 Velours de Caean, 4 Fleur de coton de Caean
+Cristaux: 8 Cristal de foudre, 8 Cristal de vent
+Total fabriqué: 1
+Difficulté: 3500
+Solidité: 80
+Qualité maximum: 7200
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté recommandée : 2805, Haute qualité impossible
+Degré: 2
+
 Nom: Canapé noscéen
 Classe: Couturier
 Niveau: 44
@@ -29472,6 +30132,21 @@ Qualité maximum: 170
 Qualité: 50 max.
 Conditions: Habileté recommandée : 50
 Degré: 3
+
+Nom: Canne classique
+Classe: Menuisier
+Niveau: 90
+Livre: Menuiserie experte IX
+Catégorie: Arme à deux mains d'élémentaliste
+Matériaux: 3 Madrier de mempisang, 2 Lingot de rhodium, 1 Madrier d'arbre intégral, 2 Eau chimérique d'esprit VI, 1 Sable éthéréen pélagique
+Cristaux: 3 Agrégat de vent, 3 Agrégat de glace
+Total fabriqué: 1
+Difficulté: 3900
+Solidité: 70
+Qualité maximum: 10920
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté requise : 3180 ou plus, Contrôle requis : 3080 ou plus
+Degré: 2
 
 Nom: Canne de Byakko flamboyante
 Classe: Orfèvre
@@ -30088,6 +30763,21 @@ Qualité: 50 max.
 Conditions: Habileté requise : 2140 ou plus, Contrôle requis : 1990 ou plus, Synthèse rapide : Habileté >= 2480
 Degré: 2
 
+Nom: Canne à pêche des associés
+Classe: Menuisier
+Niveau: 90
+Livre: Menuiserie experte IX
+Catégorie: Outil principal de pêcheur
+Matériaux: 3 Danburite d'Éblana, 3 Madrier de mempisang, 1 Lingot de chondrite, 2 Potion alchimique immuable, 1 Sable éthéréen pélagique
+Cristaux: 3 Agrégat de vent, 3 Agrégat de glace
+Total fabriqué: 1
+Difficulté: 4300
+Solidité: 70
+Qualité maximum: 12800
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté requise : 3240 ou plus, Contrôle requis : 3130 ou plus
+Degré: 2
+
 Nom: Canne à pêche en acajou
 Classe: Menuisier
 Niveau: 40
@@ -30123,7 +30813,7 @@ Classe: Menuisier
 Niveau: 90
 Livre: 
 Catégorie: Divers
-Matériaux: 2 Quartz étoilé, 1 Lingot de chondrite, 1 Cuir d'ophiotauros
+Matériaux: 2 Madrier d'arbre intégral, 1 Lingot de chondrite, 1 Cuir d'ophiotauros
 Cristaux: 8 Cristal de vent, 8 Cristal de glace
 Total fabriqué: 1
 Difficulté: 3500
@@ -30131,7 +30821,7 @@ Solidité: 80
 Qualité maximum: 7200
 Qualité: 50 max.
 Conditions: Synthèse rapide impossible, Habileté recommandée : 2805, Synthèse collectionnable uniquement
-Degré: 3
+Degré: 2
 
 Nom: Canne à pêche en bois de cerf
 Classe: Menuisier
@@ -31498,6 +32188,21 @@ Qualité: 50 max.
 Conditions: Synthèse rapide impossible, Habileté recommandée : 2590, Haute qualité impossible
 Degré: 2
 
+Nom: Casier métallique
+Classe: Armurier
+Niveau: 90
+Livre: 
+Catégorie: Table
+Matériaux: 6 Lingot de chondrite, 3 Madrier de plaqueminier, 3 Paille, 1 Tige de bambou
+Cristaux: 8 Cristal de glace, 8 Cristal de terre
+Total fabriqué: 1
+Difficulté: 3500
+Solidité: 80
+Qualité maximum: 7200
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté recommandée : 2805, Haute qualité impossible
+Degré: 2
+
 Nom: Casque d'abatteur de pirate des cieux
 Classe: Armurier
 Niveau: 60
@@ -31946,6 +32651,21 @@ Solidité: 80
 Qualité maximum: 1700
 Qualité: 50 max.
 Conditions: Habileté recommandée : 150
+Degré: 3
+
+Nom: Casquette classique universitaire
+Classe: Couturier
+Niveau: 90
+Livre: Couture experte IX
+Catégorie: Tête
+Matériaux: 1 Fibre ludodromique, 1 Lingot d'or phrygien, 1 Plaque de verre incolore
+Cristaux: 3 Agrégat de foudre, 3 Agrégat de vent
+Total fabriqué: 1
+Difficulté: 3700
+Solidité: 80
+Qualité maximum: 7400
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté recommandée : 2924
 Degré: 3
 
 Nom: Casquette d'abatteur en velours de Caean
@@ -32593,6 +33313,21 @@ Qualité: 50 max.
 Conditions: Habileté recommandée : 150
 Degré: 2
 
+Nom: Chai thavnairois
+Classe: Cuisinier
+Niveau: 90
+Livre: Cuisine experte IX
+Catégorie: Plat ou boisson
+Matériaux: 1 Bâtons de cannelle de premier choix, 1 Épices naturelles, 2 Sucre de palme, 1 Feuilles de sidéritis, 1 Lait d'ovibos, 1 Menthe poivrée
+Cristaux: 3 Agrégat de feu, 3 Agrégat d'eau
+Total fabriqué: 3
+Difficulté: 3900
+Solidité: 70
+Qualité maximum: 10920
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté requise : 3180 ou plus, Contrôle requis : 3080 ou plus
+Degré: 2
+
 Nom: Chai tou vounou
 Classe: Cuisinier
 Niveau: 89
@@ -32606,6 +33341,21 @@ Solidité: 80
 Qualité maximum: 7100
 Qualité: 50 max.
 Conditions: Habileté recommandée : 2748
+Degré: 2
+
+Nom: Chaire de cathédrale
+Classe: Armurier
+Niveau: 90
+Livre: 
+Catégorie: Table
+Matériaux: 6 Lingot de chondrite, 4 Lingot de manganèse, 3 Madrier de cèdre
+Cristaux: 8 Cristal de glace, 8 Cristal de terre
+Total fabriqué: 1
+Difficulté: 3500
+Solidité: 80
+Qualité maximum: 7200
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté recommandée : 2805, Haute qualité impossible
 Degré: 2
 
 Nom: Chaise Carbuncle
@@ -32803,12 +33553,12 @@ Qualité: 50 max.
 Conditions: Habileté requise : 1650 ou plus, Contrôle requis : 1600 ou plus, Synthèse rapide : Habileté >= 2000
 Degré: 1
 
-Nom: Chakchouka épicé
+Nom: Chakchouka épicée
 Classe: Cuisinier
 Niveau: 86
 Livre: 
 Catégorie: Plat ou boisson
-Matériaux: 1 Épaule de dzo, 2 Poivron de Thavnair, 1 Tomate sanguine, 1 Muscade de l'ancien temps, 1 Huile de périlla
+Matériaux: 1 Épaule de dzo, 2 Poivron de Thavnair, 1 Tomate sanguine, 1 Œuf d'oiseau d'Elpis, 1 Muscade de l'ancien temps, 1 Huile de périlla
 Cristaux: 8 Cristal de feu, 8 Cristal d'eau
 Total fabriqué: 3
 Difficulté: 3100
@@ -32816,6 +33566,21 @@ Solidité: 80
 Qualité maximum: 6800
 Qualité: 50 max.
 Conditions: Habileté recommandée : 2590
+Degré: 2
+
+Nom: Chakrams classiques
+Classe: Forgeron
+Niveau: 90
+Livre: Métallurgie experte IX
+Catégorie: Arme de danseur
+Matériaux: 3 Lingot d'adamantium sélénien, 2 Madrier de mempisang, 1 Lingot de chondrite, 2 Eau chimérique de dextérité VI, 1 Sable éthéréen mégalithique
+Cristaux: 3 Agrégat de feu, 3 Agrégat de terre
+Total fabriqué: 1
+Difficulté: 3900
+Solidité: 70
+Qualité maximum: 10920
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté requise : 3180 ou plus, Contrôle requis : 3080 ou plus
 Degré: 2
 
 Nom: Chakrams en acier noble
@@ -35758,6 +36523,21 @@ Qualité: 50 max.
 Conditions: Habileté recommandée : 67
 Degré: 2
 
+Nom: Chaussures universitaire
+Classe: Tanneur
+Niveau: 90
+Livre: Tannerie experte IX
+Catégorie: Pieds
+Matériaux: 1 Fibre ludodromique, 2 Cuir d'ophiotauros
+Cristaux: 3 Agrégat de terre, 3 Agrégat de vent
+Total fabriqué: 1
+Difficulté: 3700
+Solidité: 80
+Qualité maximum: 7400
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté recommandée : 2924
+Degré: 2
+
 Nom: Chaussures à guêtre de témoin
 Classe: Tanneur
 Niveau: 50
@@ -35787,6 +36567,36 @@ Qualité maximum: 2970
 Qualité: 50 max.
 Conditions: Habileté recommandée : 1037
 Degré: 3
+
+Nom: Cheminée composite coerthienne
+Classe: Armurier
+Niveau: 60
+Livre: 
+Catégorie: Décoration de toit
+Matériaux: 3 Pépite de titane, 3 Madrier de châtaignier sombre, 2 Tuile, 2 Vernis
+Cristaux: 6 Cristal de glace, 5 Cristal de terre
+Total fabriqué: 1
+Difficulté: 580
+Solidité: 70
+Qualité maximum: 2700
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté recommandée : 587, Haute qualité impossible
+Degré: 3
+
+Nom: Cheminée cylindrique coerthienne
+Classe: Forgeron
+Niveau: 60
+Livre: 
+Catégorie: Décoration de toit
+Matériaux: 4 Pépite de titane, 3 Granit, 3 Pierre de pavement
+Cristaux: 6 Cristal de feu, 5 Cristal de terre
+Total fabriqué: 1
+Difficulté: 580
+Solidité: 70
+Qualité maximum: 2700
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté recommandée : 587, Haute qualité impossible
+Degré: 2
 
 Nom: Cheminée cylindrique noscéenne
 Classe: Armurier
@@ -35848,6 +36658,21 @@ Qualité: 50 max.
 Conditions: Synthèse rapide impossible, Habileté recommandée : 161, Haute qualité impossible
 Degré: 3
 
+Nom: Cheminée du manoir des Fortemps
+Classe: Forgeron
+Niveau: 90
+Livre: 
+Catégorie: Table
+Matériaux: 8 Lingot de chondrite, 4 Lingot de mithrite, 4 Pierre de pavement, 1 Bûches de bois
+Cristaux: 32 Cristal de feu, 32 Cristal de terre
+Total fabriqué: 1
+Difficulté: 3500
+Solidité: 80
+Qualité maximum: 7200
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté recommandée : 2805, Haute qualité impossible
+Degré: 3
+
 Nom: Cheminée en chaume sombrelinçoise
 Classe: Menuisier
 Niveau: 26
@@ -35862,6 +36687,21 @@ Qualité maximum: 345
 Qualité: 50 max.
 Conditions: Synthèse rapide impossible, Habileté recommandée : 99, Haute qualité impossible
 Degré: 2
+
+Nom: Cheminée en pierre coerthienne
+Classe: Orfèvre
+Niveau: 60
+Livre: 
+Catégorie: Décoration de toit
+Matériaux: 2 Pépite de titane, 3 Granit, 3 Pierre de pavement, 2 Pot de mortier
+Cristaux: 6 Cristal de vent, 5 Cristal de feu
+Total fabriqué: 1
+Difficulté: 580
+Solidité: 70
+Qualité maximum: 2700
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté recommandée : 587, Haute qualité impossible
+Degré: 3
 
 Nom: Cheminée en pierre noscéenne
 Classe: Orfèvre
@@ -36581,6 +37421,66 @@ Solidité: 80
 Qualité maximum: 3600
 Qualité: 50 max.
 Conditions: Synthèse rapide impossible, Habileté recommandée : 1079, Synthèse collectionnable uniquement
+Degré: 2
+
+Nom: Chiton d'eques classique
+Classe: Couturier
+Niveau: 90
+Livre: Couture experte IX
+Catégorie: Torse
+Matériaux: 3 Étoffe de soie dorée, 2 Lingot d'adamantium sélénien, 1 Cuir d'ophiotauros, 2 Eau chimérique de force VI, 1 Sable éthéréen mégalithique
+Cristaux: 3 Agrégat de foudre, 3 Agrégat de vent
+Total fabriqué: 1
+Difficulté: 3900
+Solidité: 70
+Qualité maximum: 10920
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté requise : 3180 ou plus, Contrôle requis : 3080 ou plus
+Degré: 2
+
+Nom: Chiton de medicus classique
+Classe: Couturier
+Niveau: 90
+Livre: Couture experte IX
+Catégorie: Torse
+Matériaux: 3 Étoffe de soie dorée, 2 Lingot de rhodium, 1 Velours de Caean, 2 Eau chimérique d'esprit VI, 1 Sable éthéréen mégalithique
+Cristaux: 3 Agrégat de foudre, 3 Agrégat de vent
+Total fabriqué: 1
+Difficulté: 3900
+Solidité: 70
+Qualité maximum: 10920
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté requise : 3180 ou plus, Contrôle requis : 3080 ou plus
+Degré: 2
+
+Nom: Chiton de sagittarius classique
+Classe: Tanneur
+Niveau: 90
+Livre: Tannerie experte IX
+Catégorie: Torse
+Matériaux: 3 Cuir d'amynodon, 2 Étoffe de soie dorée, 1 Lingot de chondrite, 2 Eau chimérique de dextérité VI, 1 Sable éthéréen mégalithique
+Cristaux: 3 Agrégat de terre, 3 Agrégat de vent
+Total fabriqué: 1
+Difficulté: 3900
+Solidité: 70
+Qualité maximum: 10920
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté requise : 3180 ou plus, Contrôle requis : 3080 ou plus
+Degré: 2
+
+Nom: Chiton de signifer classique
+Classe: Couturier
+Niveau: 90
+Livre: Couture experte IX
+Catégorie: Torse
+Matériaux: 3 Étoffe de soie dorée, 2 Lingot de rhodium, 1 Velours de Caean, 2 Eau chimérique d'intelligence VI, 1 Sable éthéréen mégalithique
+Cristaux: 3 Agrégat de foudre, 3 Agrégat de vent
+Total fabriqué: 1
+Difficulté: 3900
+Solidité: 70
+Qualité maximum: 10920
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté requise : 3180 ou plus, Contrôle requis : 3080 ou plus
 Degré: 2
 
 Nom: Choco-bulle
@@ -37601,6 +38501,21 @@ Solidité: 80
 Qualité maximum: 2900
 Qualité: 50 max.
 Conditions: Habileté requise : 451 ou plus, Contrôle requis : 407 ou plus, Synthèse rapide : Habileté >= 620
+Degré: 2
+
+Nom: Codex classique
+Classe: Alchimiste
+Niveau: 90
+Livre: Alchimie experte IX
+Catégorie: Arme d'érudit
+Matériaux: 3 Cuir d'amynodon, 2 Madrier de mempisang, 1 Encre de manganèse enchantée, 2 Eau chimérique d'esprit VI, 1 Sable éthéréen pélagique
+Cristaux: 3 Agrégat d'eau, 3 Agrégat de foudre
+Total fabriqué: 1
+Difficulté: 3900
+Solidité: 70
+Qualité maximum: 10920
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté requise : 3180 ou plus, Contrôle requis : 3080 ou plus
 Degré: 2
 
 Nom: Codex de Byakko flamboyant
@@ -38637,6 +39552,21 @@ Qualité maximum: 2800
 Qualité: 50 max.
 Conditions: Contrôle requis : 589 ou plus, Synthèse rapide : Contrôle >= 695
 Degré: 3
+
+Nom: Coiffeuse classique
+Classe: Menuisier
+Niveau: 90
+Livre: 
+Catégorie: Table
+Matériaux: 8 Madrier d'arbre intégral, 8 Lingot de plomb-étain, 1 Miroir cosmétique
+Cristaux: 8 Cristal de vent, 8 Cristal de glace
+Total fabriqué: 1
+Difficulté: 3500
+Solidité: 80
+Qualité maximum: 7200
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté recommandée : 2805, Haute qualité impossible
+Degré: 4
 
 Nom: Coiffeuse du Manoir
 Classe: Forgeron
@@ -50923,6 +51853,21 @@ Qualité: 50 max.
 Conditions: Synthèse rapide impossible, Habileté recommandée : 161, Haute qualité impossible
 Degré: 3
 
+Nom: Comptoir à porte battante noscéen
+Classe: Orfèvre
+Niveau: 90
+Livre: 
+Catégorie: Table
+Matériaux: 6 Madrier d'arbre intégral, 8 Granit, 2 Pierre à aiguiser en schiste vert
+Cristaux: 32 Cristal de vent, 32 Cristal de feu
+Total fabriqué: 1
+Difficulté: 3500
+Solidité: 80
+Qualité maximum: 7200
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté recommandée : 2805, Haute qualité impossible
+Degré: 2
+
 Nom: Concentré d'esprit
 Classe: Alchimiste
 Niveau: 50
@@ -51325,7 +52270,7 @@ Difficulté: 2625
 Solidité: 80
 Qualité maximum: 4320
 Qualité: 0 max.
-Conditions: Synthèse rapide impossible, Habileté recommandée : 2805
+Conditions: Synthèse rapide impossible, Habileté recommandée : 2805, Gain d'expérience impossible
 Degré: 1
 
 Nom: Connecteur doré
@@ -51340,7 +52285,7 @@ Difficulté: 2625
 Solidité: 80
 Qualité maximum: 4320
 Qualité: 0 max.
-Conditions: Synthèse rapide impossible, Habileté recommandée : 2805
+Conditions: Synthèse rapide impossible, Habileté recommandée : 2805, Gain d'expérience impossible
 Degré: 1
 
 Nom: Connecteur doré
@@ -51355,7 +52300,7 @@ Difficulté: 2625
 Solidité: 80
 Qualité maximum: 4320
 Qualité: 0 max.
-Conditions: Synthèse rapide impossible, Habileté recommandée : 2805
+Conditions: Synthèse rapide impossible, Habileté recommandée : 2805, Gain d'expérience impossible
 Degré: 1
 
 Nom: Conserves en cobalt
@@ -51386,6 +52331,21 @@ Solidité: 80
 Qualité maximum: 2750
 Qualité: 50 max.
 Conditions: Synthèse rapide impossible, Habileté requise : 391 ou plus, Contrôle requis : 374 ou plus
+Degré: 2
+
+Nom: Coquilles Saint-Jacques
+Classe: Cuisinier
+Niveau: 90
+Livre: Cuisine experte IX
+Catégorie: Plat ou boisson
+Matériaux: 1 Coquille Saint-Jacques de premier choix, 1 Épices naturelles, 2 Huile de périlla, 1 Laitue iceberg, 1 Oignon extraterrestre, 1 Poivron de Thavnair
+Cristaux: 3 Agrégat de feu, 3 Agrégat d'eau
+Total fabriqué: 3
+Difficulté: 3900
+Solidité: 70
+Qualité maximum: 10920
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté requise : 3180 ou plus, Contrôle requis : 3080 ou plus
 Degré: 2
 
 Nom: Cor du Manoir
@@ -52183,6 +53143,21 @@ Qualité: 50 max.
 Conditions: Habileté recommandée : 2686
 Degré: 2
 
+Nom: Couronne de laurier de medicus classique
+Classe: Orfèvre
+Niveau: 90
+Livre: Orfèvrerie experte IX
+Catégorie: Tête
+Matériaux: 2 Lingot de rhodium, 1 Lingot d'adamantium sélénien, 1 Quartz étoilé, 2 Eau chimérique d'esprit VI, 1 Sable éthéréen sylvestre
+Cristaux: 3 Agrégat de vent, 3 Agrégat de feu
+Total fabriqué: 1
+Difficulté: 3900
+Solidité: 70
+Qualité maximum: 10920
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté requise : 3180 ou plus, Contrôle requis : 3080 ou plus
+Degré: 3
+
 Nom: Couronne de soigneur en aurum regis
 Classe: Orfèvre
 Niveau: 60
@@ -52633,6 +53608,21 @@ Qualité: 50 max.
 Conditions: Contrôle requis : 255 ou plus, Synthèse rapide : Contrôle >= 318
 Degré: 2
 
+Nom: Couteau de cuisine des associés
+Classe: Forgeron
+Niveau: 90
+Livre: Métallurgie experte IX
+Catégorie: Outil secondaire de cuisinier
+Matériaux: 3 Danburite d'Éblana, 3 Lingot d'adamantium sélénien, 1 Madrier d'arbre intégral, 2 Potion alchimique immuable, 1 Sable éthéréen mégalithique
+Cristaux: 3 Agrégat de feu, 3 Agrégat de terre
+Total fabriqué: 1
+Difficulté: 4300
+Solidité: 70
+Qualité maximum: 12800
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté requise : 3240 ou plus, Contrôle requis : 3130 ou plus
+Degré: 2
+
 Nom: Couteau de cuisine en acier
 Classe: Forgeron
 Niveau: 32
@@ -53021,6 +54011,21 @@ Solidité: 70
 Qualité maximum: 8500
 Qualité: 50 max.
 Conditions: Habileté requise : 2480 ou plus, Contrôle requis : 2195 ou plus, Synthèse rapide : Habileté >= 2620
+Degré: 2
+
+Nom: Couteau de tanneur des associés
+Classe: Forgeron
+Niveau: 90
+Livre: Métallurgie experte IX
+Catégorie: Outil principal de tanneur
+Matériaux: 3 Danburite d'Éblana, 3 Lingot d'adamantium sélénien, 1 Cuir d'ophiotauros, 2 Potion alchimique immuable, 1 Sable éthéréen sylvestre
+Cristaux: 3 Agrégat de feu, 3 Agrégat de terre
+Total fabriqué: 1
+Difficulté: 4300
+Solidité: 70
+Qualité maximum: 12800
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté requise : 3240 ou plus, Contrôle requis : 3130 ou plus
 Degré: 2
 
 Nom: Couteau de tanneur en aurum regis
@@ -53508,7 +54513,7 @@ Classe: Cuisinier
 Niveau: 88
 Livre: 
 Catégorie: Plat ou boisson
-Matériaux: 2 Popoto géante, 1 Miel doré, 1 Farine de blé des plateaux, 1 Muscade de l'ancien temps, 1 Sel de table des mers du Nord
+Matériaux: 2 Popoto géante, 1 Miel doré, 1 Farine de blé des plateaux, 1 Muscade de l'ancien temps, 1 Œuf d'oiseau d'Elpis, 1 Sel de table des mers du Nord
 Cristaux: 8 Cristal de feu, 8 Cristal d'eau
 Total fabriqué: 3
 Difficulté: 3300
@@ -54026,6 +55031,21 @@ Solidité: 35
 Qualité maximum: 2048
 Qualité: 0 max.
 Conditions: Habileté recommandée : 570
+Degré: 1
+
+Nom: Cuir d'amynodon
+Classe: Tanneur
+Niveau: 90
+Livre: Tannerie experte IX
+Catégorie: Cuir
+Matériaux: 2 Peau d'amynodon, 4 Minerai de dolomite boréale
+Cristaux: 3 Agrégat de terre, 3 Agrégat de vent
+Total fabriqué: 1
+Difficulté: 2925
+Solidité: 35
+Qualité maximum: 7800
+Qualité: 0 max.
+Conditions: Synthèse rapide impossible, Habileté requise : 3180 ou plus, Contrôle requis : 3080 ou plus
 Degré: 1
 
 Nom: Cuir d'archéornis
@@ -56068,6 +57088,21 @@ Qualité: 50 max.
 Conditions: Habileté requise : 850 ou plus, Contrôle requis : 820 ou plus, Synthèse rapide : Habileté >= 995
 Degré: 3
 
+Nom: Culotte de signifer classique
+Classe: Couturier
+Niveau: 90
+Livre: Couture experte IX
+Catégorie: Jambes
+Matériaux: 3 Étoffe de soie dorée, 2 Cuir d'amynodon, 1 Velours de Caean, 2 Eau chimérique d'intelligence VI, 1 Sable éthéréen sylvestre
+Cristaux: 3 Agrégat de foudre, 3 Agrégat de vent
+Total fabriqué: 1
+Difficulté: 3900
+Solidité: 70
+Qualité maximum: 10920
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté requise : 3180 ou plus, Contrôle requis : 3080 ou plus
+Degré: 2
+
 Nom: Culotte de soigneur en akaso
 Classe: Couturier
 Niveau: 61
@@ -56217,6 +57252,21 @@ Qualité maximum: 2280
 Qualité: 50 max.
 Conditions: Habileté recommandée : 529
 Degré: 4
+
+Nom: Curry aux coquilles Saint-Jacques
+Classe: Cuisinier
+Niveau: 90
+Livre: Cuisine experte IX
+Catégorie: Plat ou boisson
+Matériaux: 1 Coquille Saint-Jacques de premier choix, 1 Épices naturelles, 2 Lait de coco, 1 Muscade de l'ancien temps, 1 Eau céleste, 1 Riz bomba
+Cristaux: 3 Agrégat de feu, 3 Agrégat d'eau
+Total fabriqué: 3
+Difficulté: 3900
+Solidité: 70
+Qualité maximum: 10920
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté requise : 3180 ou plus, Contrôle requis : 3080 ou plus
+Degré: 2
 
 Nom: Curry aux fèves
 Classe: Cuisinier
@@ -56412,6 +57462,21 @@ Qualité maximum: 14618
 Qualité: 0 max.
 Conditions: Synthèse rapide impossible, Habileté recommandée : 2620, Recettes avancées, Synthèse collectionnable uniquement, Équipement requis : Marteau de lapidaire du chant céleste
 Degré: 1
+
+Nom: Dagues classiques
+Classe: Forgeron
+Niveau: 90
+Livre: Métallurgie experte IX
+Catégorie: Arme de surineur
+Matériaux: 3 Lingot d'adamantium sélénien, 2 Madrier de mempisang, 1 Lingot de chondrite, 2 Eau chimérique de dextérité VI, 1 Sable éthéréen mégalithique
+Cristaux: 3 Agrégat de feu, 3 Agrégat de terre
+Total fabriqué: 1
+Difficulté: 3900
+Solidité: 70
+Qualité maximum: 10920
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté requise : 3180 ou plus, Contrôle requis : 3080 ou plus
+Degré: 2
 
 Nom: Dagues d'acrobate
 Classe: Forgeron
@@ -56951,6 +58016,21 @@ Solidité: 40
 Qualité maximum: 248
 Qualité: 0 max.
 Conditions: Habileté recommandée : 67
+Degré: 1
+
+Nom: Danburite d'Éblana
+Classe: Orfèvre
+Niveau: 90
+Livre: Orfèvrerie experte IX
+Catégorie: Pierre
+Matériaux: 4 Danburite brute d'Éblana, 1 Potion alchimique immuable, 1 Sable éthéréen de la lune de l'aube
+Cristaux: 3 Agrégat de vent, 3 Agrégat de feu
+Total fabriqué: 1
+Difficulté: 3010
+Solidité: 35
+Qualité maximum: 8400
+Qualité: 0 max.
+Conditions: Synthèse rapide impossible, Habileté requise : 3240 ou plus, Contrôle requis : 3130 ou plus
 Degré: 1
 
 Nom: Deima amélioré
@@ -59188,6 +60268,21 @@ Qualité: 50 max.
 Conditions: Contrôle requis : 318 ou plus, Synthèse rapide : Contrôle >= 374
 Degré: 3
 
+Nom: Déjeuner du nouveau continent : burritos
+Classe: Cuisinier
+Niveau: 86
+Livre: 
+Catégorie: Mobilier de table
+Matériaux: 2 Farine de blé des plateaux, 1 Laitue noscéenne, 1 Fromage garlemaldais, 1 Tomate sanguine, 1 Crème aigre
+Cristaux: 8 Cristal de feu, 8 Cristal d'eau
+Total fabriqué: 1
+Difficulté: 3100
+Solidité: 80
+Qualité maximum: 6800
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté recommandée : 2590, Haute qualité impossible
+Degré: 2
+
 Nom: Déjeuner ishgardais
 Classe: Cuisinier
 Niveau: 80
@@ -59563,6 +60658,21 @@ Qualité: 0 max.
 Conditions: Habileté recommandée : 2438
 Degré: 1
 
+Nom: Eau chimérique d'esprit VI
+Classe: Alchimiste
+Niveau: 90
+Livre: Alchimie experte IX
+Catégorie: Réactif
+Matériaux: 1 Feuille d'égarante, 1 Eau céleste, 1 Lys tigrés, 1 Sable éthéréen de la lune de l'aube
+Cristaux: 3 Agrégat d'eau, 3 Agrégat de foudre
+Total fabriqué: 3
+Difficulté: 2925
+Solidité: 35
+Qualité maximum: 7800
+Qualité: 0 max.
+Conditions: Synthèse rapide impossible, Habileté requise : 3180 ou plus, Contrôle requis : 3080 ou plus
+Degré: 1
+
 Nom: Eau chimérique d'intelligence I
 Classe: Alchimiste
 Niveau: 73
@@ -59636,6 +60746,21 @@ Solidité: 40
 Qualité maximum: 6200
 Qualité: 0 max.
 Conditions: Habileté recommandée : 2438
+Degré: 1
+
+Nom: Eau chimérique d'intelligence VI
+Classe: Alchimiste
+Niveau: 90
+Livre: Alchimie experte IX
+Catégorie: Réactif
+Matériaux: 1 Feuille d'égarante, 1 Eau céleste, 1 Lavande pinnata, 1 Sable éthéréen de la lune de l'aube
+Cristaux: 3 Agrégat d'eau, 3 Agrégat de foudre
+Total fabriqué: 3
+Difficulté: 2925
+Solidité: 35
+Qualité maximum: 7800
+Qualité: 0 max.
+Conditions: Synthèse rapide impossible, Habileté requise : 3180 ou plus, Contrôle requis : 3080 ou plus
 Degré: 1
 
 Nom: Eau chimérique de dextérité I
@@ -59713,6 +60838,21 @@ Qualité: 0 max.
 Conditions: Habileté recommandée : 2438
 Degré: 1
 
+Nom: Eau chimérique de dextérité VI
+Classe: Alchimiste
+Niveau: 90
+Livre: Alchimie experte IX
+Catégorie: Réactif
+Matériaux: 1 Feuille d'égarante, 1 Eau céleste, 1 Gerberas lumineuses, 1 Sable éthéréen de la lune de l'aube
+Cristaux: 3 Agrégat d'eau, 3 Agrégat de foudre
+Total fabriqué: 3
+Difficulté: 2925
+Solidité: 35
+Qualité maximum: 7800
+Qualité: 0 max.
+Conditions: Synthèse rapide impossible, Habileté requise : 3180 ou plus, Contrôle requis : 3080 ou plus
+Degré: 1
+
 Nom: Eau chimérique de force I
 Classe: Alchimiste
 Niveau: 73
@@ -59788,6 +60928,21 @@ Qualité: 0 max.
 Conditions: Habileté recommandée : 2438
 Degré: 1
 
+Nom: Eau chimérique de force VI
+Classe: Alchimiste
+Niveau: 90
+Livre: Alchimie experte IX
+Catégorie: Réactif
+Matériaux: 1 Feuille d'égarante, 1 Eau céleste, 1 Alysson doux, 1 Sable éthéréen de la lune de l'aube
+Cristaux: 3 Agrégat d'eau, 3 Agrégat de foudre
+Total fabriqué: 3
+Difficulté: 2925
+Solidité: 35
+Qualité maximum: 7800
+Qualité: 0 max.
+Conditions: Synthèse rapide impossible, Habileté requise : 3180 ou plus, Contrôle requis : 3080 ou plus
+Degré: 1
+
 Nom: Eau chimérique de vitalité I
 Classe: Alchimiste
 Niveau: 73
@@ -59861,6 +61016,21 @@ Solidité: 40
 Qualité maximum: 6200
 Qualité: 0 max.
 Conditions: Habileté recommandée : 2438
+Degré: 1
+
+Nom: Eau chimérique de vitalité VI
+Classe: Alchimiste
+Niveau: 90
+Livre: Alchimie experte IX
+Catégorie: Réactif
+Matériaux: 1 Feuille d'égarante, 1 Eau céleste, 1 Basilic citron, 1 Sable éthéréen de la lune de l'aube
+Cristaux: 3 Agrégat d'eau, 3 Agrégat de foudre
+Total fabriqué: 3
+Difficulté: 2925
+Solidité: 35
+Qualité maximum: 7800
+Qualité: 0 max.
+Conditions: Synthèse rapide impossible, Habileté requise : 3180 ou plus, Contrôle requis : 3080 ou plus
 Degré: 1
 
 Nom: Eau distillée
@@ -60748,6 +61918,21 @@ Qualité: 50 max.
 Conditions: Synthèse rapide impossible, Habileté recommandée : 1069, Haute qualité impossible
 Degré: 3
 
+Nom: Enseigne murale coerthienne
+Classe: Forgeron
+Niveau: 60
+Livre: 
+Catégorie: Panneau
+Matériaux: 3 Pépite de titane, 4 Étoffe de ramie, 3 Rivets en mithrite
+Cristaux: 6 Cristal de feu, 5 Cristal de terre
+Total fabriqué: 1
+Difficulté: 580
+Solidité: 70
+Qualité maximum: 2700
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté recommandée : 587, Haute qualité impossible
+Degré: 3
+
 Nom: Enseigne murale noscéenne
 Classe: Armurier
 Niveau: 19
@@ -60838,6 +62023,21 @@ Qualité: 50 max.
 Conditions: Synthèse rapide impossible, Habileté recommandée : 1539, Gain d'expérience impossible
 Degré: 1
 
+Nom: Enseigne à potence coerthienne
+Classe: Forgeron
+Niveau: 60
+Livre: 
+Catégorie: Panneau
+Matériaux: 3 Pépite de titane, 4 Étoffe de ramie, 3 Rivets en mithrite
+Cristaux: 6 Cristal de feu, 5 Cristal de terre
+Total fabriqué: 1
+Difficulté: 580
+Solidité: 70
+Qualité maximum: 2700
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté recommandée : 587, Haute qualité impossible
+Degré: 3
+
 Nom: Enseigne à potence noscéenne
 Classe: Armurier
 Niveau: 43
@@ -60896,6 +62096,21 @@ Solidité: 80
 Qualité maximum: 880
 Qualité: 50 max.
 Conditions: Synthèse rapide impossible, Habileté recommandée : 150, Haute qualité impossible
+Degré: 2
+
+Nom: Ensemble de jardinières
+Classe: Alchimiste
+Niveau: 90
+Livre: 
+Catégorie: Meuble de jardin
+Matériaux: 1 Graines naufragées, 7 Formule de croissance kappa, 7 Formule de croissance iota, 5 Argile
+Cristaux: 8 Cristal d'eau, 8 Cristal de foudre
+Total fabriqué: 1
+Difficulté: 3500
+Solidité: 80
+Qualité maximum: 7200
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté recommandée : 2805, Haute qualité impossible
 Degré: 2
 
 Nom: Epikairekakia amélioré
@@ -61031,6 +62246,21 @@ Solidité: 80
 Qualité maximum: 2300
 Qualité: 50 max.
 Conditions: Synthèse rapide impossible, Habileté recommandée : 1866, Haute qualité impossible
+Degré: 2
+
+Nom: Escarpins des créations des associés
+Classe: Tanneur
+Niveau: 90
+Livre: Tannerie experte IX
+Catégorie: Pieds
+Matériaux: 3 Fibre thavnairoise, 2 Cuir d'amynodon, 1 Cuir d'ophiotauros, 1 Potion alchimique immuable, 1 Sable éthéréen pélagique
+Cristaux: 3 Agrégat de terre, 3 Agrégat de vent
+Total fabriqué: 1
+Difficulté: 4300
+Solidité: 70
+Qualité maximum: 12800
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté requise : 3240 ou plus, Contrôle requis : 3130 ou plus
 Degré: 2
 
 Nom: Escarpins des nouvelles frontières
@@ -61798,6 +63028,21 @@ Qualité: 50 max.
 Conditions: Habileté recommandée : 121
 Degré: 2
 
+Nom: Faucille de la Table ronde
+Classe: Forgeron
+Niveau: 60
+Livre: Métallurgie experte IV
+Catégorie: Arme de faucheur
+Matériaux: 2 Lingot de mithrite noble, 2 Cuir primordial, 3 Lingot de platine, 3 Fibre lumineuse, 5 Demi-matéria de l'art militaire III
+Cristaux: 3 Agrégat de feu, 2 Agrégat de terre
+Total fabriqué: 1
+Difficulté: 880
+Solidité: 70
+Qualité maximum: 3300
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté requise : 850 ou plus, Contrôle requis : 820 ou plus
+Degré: 3
+
 Nom: Faucille en azuresprit
 Classe: Forgeron
 Niveau: 74
@@ -62263,6 +63508,21 @@ Qualité: 50 max.
 Conditions: Habileté requise : 391 ou plus, Contrôle requis : 374 ou plus, Synthèse rapide : Habileté >= 451
 Degré: 3
 
+Nom: Faux de guerre classique
+Classe: Forgeron
+Niveau: 90
+Livre: Métallurgie experte IX
+Catégorie: Arme de faucheur
+Matériaux: 3 Lingot d'adamantium sélénien, 2 Madrier de mempisang, 1 Lingot de chondrite, 2 Eau chimérique de force VI, 1 Sable éthéréen mégalithique
+Cristaux: 3 Agrégat de feu, 3 Agrégat de terre
+Total fabriqué: 1
+Difficulté: 3900
+Solidité: 70
+Qualité maximum: 10920
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté requise : 3180 ou plus, Contrôle requis : 3080 ou plus
+Degré: 2
+
 Nom: Faux de guerre en bismuth
 Classe: Forgeron
 Niveau: 84
@@ -62352,6 +63612,21 @@ Qualité maximum: 7000
 Qualité: 50 max.
 Conditions: Habileté recommandée : 2686
 Degré: 3
+
+Nom: Faux de jardinage des associés
+Classe: Forgeron
+Niveau: 90
+Livre: Métallurgie experte IX
+Catégorie: Outil secondaire de botaniste
+Matériaux: 3 Danburite d'Éblana, 3 Lingot d'adamantium sélénien, 1 Lingot de chondrite, 2 Potion alchimique immuable, 1 Sable éthéréen pélagique
+Cristaux: 3 Agrégat de feu, 3 Agrégat de terre
+Total fabriqué: 1
+Difficulté: 4300
+Solidité: 70
+Qualité maximum: 12800
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté requise : 3240 ou plus, Contrôle requis : 3130 ou plus
+Degré: 2
 
 Nom: Faux de jardinage en bismuth
 Classe: Forgeron
@@ -62938,6 +64213,21 @@ Qualité: 50 max.
 Conditions: Synthèse rapide impossible, Habileté recommandée : 78, Haute qualité impossible
 Degré: 3
 
+Nom: Fenêtre classique coerthienne
+Classe: Alchimiste
+Niveau: 60
+Livre: 
+Catégorie: Fenêtre
+Matériaux: 4 Madrier de châtaignier sombre, 2 Marbre, 4 Plaque de verre incolore
+Cristaux: 6 Cristal d'eau, 5 Cristal de foudre
+Total fabriqué: 1
+Difficulté: 580
+Solidité: 70
+Qualité maximum: 2700
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté recommandée : 587, Haute qualité impossible
+Degré: 3
+
 Nom: Fenêtre classique sombrelinçoise
 Classe: Menuisier
 Niveau: 13
@@ -63058,6 +64348,21 @@ Qualité: 50 max.
 Conditions: Synthèse rapide impossible, Habileté requise : 1100 ou plus, Contrôle requis : 1080 ou plus, Haute qualité impossible
 Degré: 3
 
+Nom: Fenêtre à croisée coerthienne
+Classe: Menuisier
+Niveau: 60
+Livre: 
+Catégorie: Fenêtre
+Matériaux: 4 Madrier de châtaignier sombre, 4 Plaque de verre incolore, 2 Vernis
+Cristaux: 6 Cristal de vent, 5 Cristal de glace
+Total fabriqué: 1
+Difficulté: 580
+Solidité: 70
+Qualité maximum: 2700
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté recommandée : 587, Haute qualité impossible
+Degré: 3
+
 Nom: Fenêtre à croisée thanalanaise
 Classe: Menuisier
 Niveau: 16
@@ -63071,6 +64376,21 @@ Solidité: 70
 Qualité maximum: 195
 Qualité: 50 max.
 Conditions: Synthèse rapide impossible, Habileté recommandée : 78, Haute qualité impossible
+Degré: 3
+
+Nom: Fenêtre à lancette coerthienne
+Classe: Menuisier
+Niveau: 60
+Livre: 
+Catégorie: Fenêtre
+Matériaux: 6 Madrier de châtaignier sombre, 4 Plaque de verre incolore
+Cristaux: 6 Cristal de vent, 5 Cristal de glace
+Total fabriqué: 1
+Difficulté: 580
+Solidité: 70
+Qualité maximum: 2700
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté recommandée : 587, Haute qualité impossible
 Degré: 3
 
 Nom: Fenêtre à lancette hingashienne
@@ -63326,6 +64646,21 @@ Solidité: 70
 Qualité maximum: 4320
 Qualité: 50 max.
 Conditions: Habileté requise : 1320 ou plus, Contrôle requis : 1220 ou plus, Synthèse rapide : Habileté >= 1500
+Degré: 1
+
+Nom: Fibre thavnairoise
+Classe: Alchimiste
+Niveau: 90
+Livre: Alchimie experte IX
+Catégorie: Tissu
+Matériaux: 4 Épi de maïs thavnairois, 1 Potion alchimique immuable, 1 Sable éthéréen de la lune de l'aube
+Cristaux: 3 Agrégat d'eau, 3 Agrégat de foudre
+Total fabriqué: 1
+Difficulté: 3010
+Solidité: 35
+Qualité maximum: 8400
+Qualité: 0 max.
+Conditions: Synthèse rapide impossible, Habileté requise : 3240 ou plus, Contrôle requis : 3130 ou plus
 Degré: 1
 
 Nom: Figues de barbarie grillées
@@ -64212,6 +65547,21 @@ Qualité maximum: 2750
 Qualité: 0 max.
 Conditions: Synthèse rapide impossible, Habileté requise : 391 ou plus, Contrôle requis : 374 ou plus
 Degré: 1
+
+Nom: Fontaine d'intérieur en marbre
+Classe: Orfèvre
+Niveau: 90
+Livre: 
+Catégorie: Meuble
+Matériaux: 1 Marbre des profondeurs, 7 Marbre, 5 Pierre à aiguiser en annite, 4 Eau céleste
+Cristaux: 32 Cristal de vent, 32 Cristal de feu
+Total fabriqué: 1
+Difficulté: 3500
+Solidité: 80
+Qualité maximum: 7200
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté recommandée : 2805, Haute qualité impossible
+Degré: 2
 
 Nom: Fontaine de Bismarck
 Classe: Orfèvre
@@ -65682,6 +67032,21 @@ Qualité maximum: 2750
 Qualité: 50 max.
 Conditions: Habileté requise : 391 ou plus, Contrôle requis : 374 ou plus, Synthèse rapide : Habileté >= 451
 Degré: 3
+
+Nom: Fuseau du bonheur
+Classe: Tanneur
+Niveau: 90
+Livre: Tannerie experte IX
+Catégorie: Jambes
+Matériaux: 1 Étoffe du bonheur, 3 Cuir d'ophiotauros
+Cristaux: 3 Agrégat de terre, 3 Agrégat de vent
+Total fabriqué: 1
+Difficulté: 3700
+Solidité: 80
+Qualité maximum: 7400
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté recommandée : 2924
+Degré: 2
 
 Nom: Fuseau en cuir de poulet des montagnes collectionnable
 Classe: Tanneur
@@ -69103,6 +70468,21 @@ Qualité: 50 max.
 Conditions: Habileté requise : 870 ou plus, Contrôle requis : 835 ou plus, Synthèse rapide : Habileté >= 995
 Degré: 3
 
+Nom: Gants des ressources des associés
+Classe: Tanneur
+Niveau: 90
+Livre: Tannerie experte IX
+Catégorie: Mains
+Matériaux: 3 Fibre thavnairoise, 2 Cuir d'amynodon, 1 Cuir d'ophiotauros, 1 Potion alchimique immuable, 1 Sable éthéréen mégalithique
+Cristaux: 3 Agrégat de terre, 3 Agrégat de vent
+Total fabriqué: 1
+Difficulté: 4300
+Solidité: 70
+Qualité maximum: 12800
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté requise : 3240 ou plus, Contrôle requis : 3130 ou plus
+Degré: 2
+
 Nom: Gants des ressources en cuir d'archéornis
 Classe: Tanneur
 Niveau: 51
@@ -69837,6 +71217,21 @@ Qualité maximum: 4300
 Qualité: 75 max.
 Conditions: Habileté recommandée : 1621
 Degré: 4
+
+Nom: Gants sans doigts de signifer classiques
+Classe: Tanneur
+Niveau: 90
+Livre: Tannerie experte IX
+Catégorie: Mains
+Matériaux: 2 Cuir d'amynodon, 1 Lingot de rhodium, 1 Velours de Caean, 2 Eau chimérique d'intelligence VI, 1 Sable éthéréen mégalithique
+Cristaux: 3 Agrégat de terre, 3 Agrégat de vent
+Total fabriqué: 1
+Difficulté: 3900
+Solidité: 70
+Qualité maximum: 10920
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté requise : 3180 ou plus, Contrôle requis : 3080 ou plus
+Degré: 2
 
 Nom: Gants sans doigts de soigneur en cuir de vrai griffon
 Classe: Tanneur
@@ -71128,6 +72523,21 @@ Qualité: 50 max.
 Conditions: Habileté requise : 718 ou plus, Contrôle requis : 695 ou plus, Synthèse rapide : Habileté >= 850
 Degré: 3
 
+Nom: Gilet des créations des associés
+Classe: Couturier
+Niveau: 90
+Livre: Couture experte IX
+Catégorie: Torse
+Matériaux: 4 Fibre thavnairoise, 3 Étoffe de soie dorée, 1 Velours de Caean, 2 Potion alchimique immuable, 1 Sable éthéréen sylvestre
+Cristaux: 3 Agrégat de foudre, 3 Agrégat de vent
+Total fabriqué: 1
+Difficulté: 4300
+Solidité: 70
+Qualité maximum: 12800
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté requise : 3240 ou plus, Contrôle requis : 3130 ou plus
+Degré: 2
+
 Nom: Gilet des ressources en cuir d'atrociraptor
 Classe: Tanneur
 Niveau: 74
@@ -72313,6 +73723,21 @@ Qualité: 50 max.
 Conditions: Habileté recommandée : 150
 Degré: 3
 
+Nom: Gourmettes du bonheur
+Classe: Tanneur
+Niveau: 90
+Livre: Tannerie experte IX
+Catégorie: Mains
+Matériaux: 1 Étoffe du bonheur, 2 Cuir d'ophiotauros
+Cristaux: 3 Agrégat de terre, 3 Agrégat de vent
+Total fabriqué: 1
+Difficulté: 3700
+Solidité: 80
+Qualité maximum: 7400
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté recommandée : 2924
+Degré: 2
+
 Nom: Gourmettes en argent
 Classe: Orfèvre
 Niveau: 25
@@ -72476,6 +73901,21 @@ Solidité: 70
 Qualité maximum: 4800
 Qualité: 50 max.
 Conditions: Synthèse rapide impossible, Habileté recommandée : 1320
+Degré: 3
+
+Nom: Grand arc de Susano flamboyant
+Classe: Menuisier
+Niveau: 70
+Livre: Menuiserie experte VI
+Catégorie: Arme d'archer
+Matériaux: 3 Madrier de kaya, 2 Lingot de chromite, 2 Lingot de molybdène, 1 Lame de Susano, 5 Demi-cristal
+Cristaux: 7 Cristal de vent, 7 Cristal de glace
+Total fabriqué: 1
+Difficulté: 1200
+Solidité: 70
+Qualité maximum: 4800
+Qualité: 50 max.
+Conditions: Recette de spécialiste, Synthèse rapide impossible, Habileté recommandée : 1320
 Degré: 3
 
 Nom: Grand arc de Suzaku flamboyant
@@ -72778,6 +74218,21 @@ Qualité: 50 max.
 Conditions: Synthèse rapide impossible, Habileté requise : 391 ou plus, Contrôle requis : 374 ou plus
 Degré: 2
 
+Nom: Grande épée classique
+Classe: Forgeron
+Niveau: 90
+Livre: Métallurgie experte IX
+Catégorie: Arme de chevalier noir
+Matériaux: 3 Lingot d'adamantium sélénien, 2 Madrier de mempisang, 1 Lingot de chondrite, 2 Eau chimérique de vitalité VI, 1 Sable éthéréen sylvestre
+Cristaux: 3 Agrégat de feu, 3 Agrégat de terre
+Total fabriqué: 1
+Difficulté: 3900
+Solidité: 70
+Qualité maximum: 10920
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté requise : 3180 ou plus, Contrôle requis : 3080 ou plus
+Degré: 2
+
 Nom: Grande épée de Byakko flamboyante
 Classe: Forgeron
 Niveau: 70
@@ -72806,6 +74261,21 @@ Solidité: 70
 Qualité maximum: 4800
 Qualité: 50 max.
 Conditions: Synthèse rapide impossible, Habileté recommandée : 1320
+Degré: 3
+
+Nom: Grande épée de Susano flamboyante
+Classe: Forgeron
+Niveau: 70
+Livre: Métallurgie experte VI
+Catégorie: Arme de chevalier noir
+Matériaux: 4 Lingot de chromite, 1 Lingot de palladium, 2 Lingot de molybdène, 1 Lame de Susano, 5 Demi-cristal
+Cristaux: 7 Cristal de feu, 7 Cristal de terre
+Total fabriqué: 1
+Difficulté: 1200
+Solidité: 70
+Qualité maximum: 4800
+Qualité: 50 max.
+Conditions: Recette de spécialiste, Synthèse rapide impossible, Habileté recommandée : 1320
 Degré: 3
 
 Nom: Grande épée de la Déesse
@@ -74953,6 +76423,21 @@ Qualité: 50 max.
 Conditions: Habileté recommandée : 587
 Degré: 3
 
+Nom: Hache de combat classique
+Classe: Forgeron
+Niveau: 90
+Livre: Métallurgie experte IX
+Catégorie: Arme de maraudeur
+Matériaux: 3 Lingot d'adamantium sélénien, 2 Lingot de rhodium, 1 Lingot de chondrite, 2 Eau chimérique de vitalité VI, 1 Sable éthéréen sylvestre
+Cristaux: 3 Agrégat de feu, 3 Agrégat de terre
+Total fabriqué: 1
+Difficulté: 3900
+Solidité: 70
+Qualité maximum: 10920
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté requise : 3180 ou plus, Contrôle requis : 3080 ou plus
+Degré: 2
+
 Nom: Hache de combat du Maître des lames
 Classe: Forgeron
 Niveau: 60
@@ -75101,6 +76586,21 @@ Solidité: 70
 Qualité maximum: 4800
 Qualité: 50 max.
 Conditions: Synthèse rapide impossible, Habileté recommandée : 1320
+Degré: 3
+
+Nom: Hache de guerre de Susano flamboyante
+Classe: Forgeron
+Niveau: 70
+Livre: Métallurgie experte VI
+Catégorie: Arme de maraudeur
+Matériaux: 4 Lingot de chromite, 1 Cuir de vrai griffon, 2 Pépite de palladium, 1 Lame de Susano, 5 Demi-cristal
+Cristaux: 7 Cristal de feu, 7 Cristal de terre
+Total fabriqué: 1
+Difficulté: 1200
+Solidité: 70
+Qualité maximum: 4800
+Qualité: 50 max.
+Conditions: Recette de spécialiste, Synthèse rapide impossible, Habileté recommandée : 1320
 Degré: 3
 
 Nom: Hache de guerre en alliage de tungstène
@@ -75566,6 +77066,21 @@ Solidité: 60
 Qualité maximum: 6480
 Qualité: 50 max.
 Conditions: Synthèse rapide impossible, Habileté recommandée : 587, Synthèse collectionnable uniquement
+Degré: 2
+
+Nom: Hachette des associés
+Classe: Forgeron
+Niveau: 90
+Livre: Métallurgie experte IX
+Catégorie: Outil principal de botaniste
+Matériaux: 3 Danburite d'Éblana, 3 Lingot d'adamantium sélénien, 1 Madrier d'arbre intégral, 2 Potion alchimique immuable, 1 Sable éthéréen pélagique
+Cristaux: 3 Agrégat de feu, 3 Agrégat de terre
+Total fabriqué: 1
+Difficulté: 4300
+Solidité: 70
+Qualité maximum: 12800
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté requise : 3240 ou plus, Contrôle requis : 3130 ou plus
 Degré: 2
 
 Nom: Hachette en acier
@@ -76273,6 +77788,21 @@ Qualité: 50 max.
 Conditions: Habileté requise : 1650 ou plus, Contrôle requis : 1600 ou plus, Synthèse rapide : Habileté >= 2000
 Degré: 4
 
+Nom: Haquebute classique
+Classe: Forgeron
+Niveau: 90
+Livre: Métallurgie experte IX
+Catégorie: Arme de machiniste
+Matériaux: 3 Lingot d'adamantium sélénien, 2 Lingot de rhodium, 1 Lingot de chondrite, 2 Eau chimérique de dextérité VI, 1 Sable éthéréen mégalithique
+Cristaux: 3 Agrégat de feu, 3 Agrégat de terre
+Total fabriqué: 1
+Difficulté: 3900
+Solidité: 70
+Qualité maximum: 10920
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté requise : 3180 ou plus, Contrôle requis : 3080 ou plus
+Degré: 2
+
 Nom: Haquebute de Dravanien
 Classe: Orfèvre
 Niveau: 60
@@ -76781,6 +78311,21 @@ Solidité: 60
 Qualité maximum: 170
 Qualité: 50 max.
 Conditions: Habileté recommandée : 50
+Degré: 2
+
+Nom: Hast classique
+Classe: Menuisier
+Niveau: 90
+Livre: Menuiserie experte IX
+Catégorie: Arme d'hast
+Matériaux: 3 Madrier de mempisang, 2 Lingot d'adamantium sélénien, 1 Madrier d'arbre intégral, 2 Eau chimérique de force VI, 1 Sable éthéréen mégalithique
+Cristaux: 3 Agrégat de vent, 3 Agrégat de glace
+Total fabriqué: 1
+Difficulté: 3900
+Solidité: 70
+Qualité maximum: 10920
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté requise : 3180 ou plus, Contrôle requis : 3080 ou plus
 Degré: 2
 
 Nom: Hast de l'exarchat
@@ -77983,6 +79528,21 @@ Qualité: 50 max.
 Conditions: Synthèse rapide impossible, Habileté recommandée : 150, Haute qualité impossible
 Degré: 3
 
+Nom: Horloge kwé-kwé
+Classe: Menuisier
+Niveau: 90
+Livre: 
+Catégorie: Mobilier mural
+Matériaux: 4 Madrier d'arbre intégral, 2 Madrier de bois de fer, 2 Lingot de plomb-étain, 2 Zircon bleu
+Cristaux: 8 Cristal de vent, 8 Cristal de glace
+Total fabriqué: 1
+Difficulté: 3500
+Solidité: 80
+Qualité maximum: 7200
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté recommandée : 2805, Haute qualité impossible
+Degré: 3
+
 Nom: Horloge murale
 Classe: Orfèvre
 Niveau: 48
@@ -78478,6 +80038,36 @@ Qualité: 75 max.
 Conditions: Habileté recommandée : 1320
 Degré: 2
 
+Nom: Imitation de fenêtre ishgardaise
+Classe: Menuisier
+Niveau: 90
+Livre: 
+Catégorie: Mobilier mural
+Matériaux: 4 Lingot de manganèse, 3 Madrier de cèdre, 3 Verre en cristal
+Cristaux: 8 Cristal de vent, 8 Cristal de glace
+Total fabriqué: 1
+Difficulté: 3500
+Solidité: 80
+Qualité maximum: 7200
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté recommandée : 2805, Haute qualité impossible
+Degré: 3
+
+Nom: Imitation de fenêtre à tabatière en bois
+Classe: Menuisier
+Niveau: 86
+Livre: 
+Catégorie: Mobilier mural
+Matériaux: 8 Madrier de bois de fer, 2 Madrier de pin sylvestre, 2 Verre en cristal
+Cristaux: 8 Cristal de vent, 8 Cristal de glace
+Total fabriqué: 1
+Difficulté: 3100
+Solidité: 80
+Qualité maximum: 6800
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté recommandée : 2590, Haute qualité impossible
+Degré: 3
+
 Nom: Imitation de fenêtre à volets
 Classe: Menuisier
 Niveau: 51
@@ -78507,6 +80097,21 @@ Qualité maximum: 2100
 Qualité: 50 max.
 Conditions: Synthèse rapide impossible, Habileté requise : 1100 ou plus, Contrôle requis : 1080 ou plus, Haute qualité impossible
 Degré: 3
+
+Nom: Index classique
+Classe: Alchimiste
+Niveau: 90
+Livre: Alchimie experte IX
+Catégorie: Arme d'arcaniste
+Matériaux: 3 Cuir d'amynodon, 2 Madrier de mempisang, 1 Encre de manganèse enchantée, 2 Eau chimérique d'intelligence VI, 1 Sable éthéréen sylvestre
+Cristaux: 3 Agrégat d'eau, 3 Agrégat de foudre
+Total fabriqué: 1
+Difficulté: 3900
+Solidité: 70
+Qualité maximum: 10920
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté requise : 3180 ou plus, Contrôle requis : 3080 ou plus
+Degré: 2
 
 Nom: Index en aurum regis
 Classe: Alchimiste
@@ -78913,6 +80518,21 @@ Qualité: 50 max.
 Conditions: Habileté recommandée : 1056
 Degré: 3
 
+Nom: Jambards d'hoplomachus classiques
+Classe: Armurier
+Niveau: 90
+Livre: Armurerie experte IX
+Catégorie: Pieds
+Matériaux: 2 Lingot d'adamantium sélénien, 1 Cuir d'amynodon, 1 Lingot de chondrite, 2 Eau chimérique de vitalité VI, 1 Sable éthéréen pélagique
+Cristaux: 3 Agrégat de glace, 3 Agrégat de terre
+Total fabriqué: 1
+Difficulté: 3900
+Solidité: 70
+Qualité maximum: 10920
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté requise : 3180 ou plus, Contrôle requis : 3080 ou plus
+Degré: 2
+
 Nom: Jambards d'incantateur en azuresprit
 Classe: Armurier
 Niveau: 74
@@ -79226,6 +80846,21 @@ Solidité: 60
 Qualité maximum: 250
 Qualité: 50 max.
 Conditions: Habileté recommandée : 59
+Degré: 2
+
+Nom: Jaque boutonnée universitaire
+Classe: Couturier
+Niveau: 90
+Livre: Couture experte IX
+Catégorie: Torse
+Matériaux: 1 Fibre ludodromique, 3 Velours de Caean
+Cristaux: 3 Agrégat de foudre, 3 Agrégat de vent
+Total fabriqué: 1
+Difficulté: 3700
+Solidité: 80
+Qualité maximum: 7400
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté recommandée : 2924
 Degré: 2
 
 Nom: Jaque d'agresseur de pirate des cieux
@@ -79676,6 +81311,21 @@ Solidité: 80
 Qualité maximum: 1940
 Qualité: 50 max.
 Conditions: Habileté recommandée : 161
+Degré: 2
+
+Nom: Jaque universitaire
+Classe: Couturier
+Niveau: 90
+Livre: Couture experte IX
+Catégorie: Torse
+Matériaux: 1 Fibre ludodromique, 3 Velours de Caean
+Cristaux: 3 Agrégat de foudre, 3 Agrégat de vent
+Total fabriqué: 1
+Difficulté: 3700
+Solidité: 80
+Qualité maximum: 7400
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté recommandée : 2924
 Degré: 2
 
 Nom: Jardin potager
@@ -80638,6 +82288,21 @@ Qualité: 50 max.
 Conditions: Habileté requise : 391 ou plus, Contrôle requis : 374 ou plus, Synthèse rapide : Habileté >= 451
 Degré: 3
 
+Nom: Jupe universitaire
+Classe: Couturier
+Niveau: 90
+Livre: Couture experte IX
+Catégorie: Jambes
+Matériaux: 1 Fibre ludodromique, 3 Velours de Caean
+Cristaux: 3 Agrégat de foudre, 3 Agrégat de vent
+Total fabriqué: 1
+Difficulté: 3700
+Solidité: 80
+Qualité maximum: 7400
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté recommandée : 2924
+Degré: 2
+
 Nom: Jupe à froufrous d'hédoniste
 Classe: Couturier
 Niveau: 70
@@ -80787,6 +82452,21 @@ Qualité maximum: 1400
 Qualité: 0 max.
 Conditions: Habileté recommandée : 136
 Degré: 1
+
+Nom: Jus de pêche
+Classe: Cuisinier
+Niveau: 90
+Livre: Cuisine experte IX
+Catégorie: Plat ou boisson
+Matériaux: 1 Pêche blanche, 1 Épices naturelles, 2 Sucre de palme, 1 Sycon, 1 Lentilles d'Éblana, 1 Menthe poivrée
+Cristaux: 3 Agrégat de feu, 3 Agrégat d'eau
+Total fabriqué: 3
+Difficulté: 3900
+Solidité: 70
+Qualité maximum: 10920
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté requise : 3180 ou plus, Contrôle requis : 3080 ou plus
+Degré: 2
 
 Nom: Jus de raisin
 Classe: Cuisinier
@@ -81328,6 +83008,21 @@ Qualité: 50 max.
 Conditions: Synthèse rapide impossible, Habileté recommandée : 1320
 Degré: 3
 
+Nom: Khakkhara de Susano flamboyant
+Classe: Menuisier
+Niveau: 70
+Livre: Menuiserie experte VI
+Catégorie: Arme à deux mains d'élémentaliste
+Matériaux: 3 Madrier de kaya, 2 Cuir de vrai griffon, 2 Rhodonite, 1 Lame de Susano, 5 Demi-cristal
+Cristaux: 7 Cristal de vent, 7 Cristal de glace
+Total fabriqué: 1
+Difficulté: 1200
+Solidité: 70
+Qualité maximum: 4800
+Qualité: 50 max.
+Conditions: Recette de spécialiste, Synthèse rapide impossible, Habileté recommandée : 1320
+Degré: 2
+
 Nom: Khakkhara de Suzaku flamboyant
 Classe: Menuisier
 Niveau: 70
@@ -81372,6 +83067,36 @@ Qualité maximum: 6100
 Qualité: 50 max.
 Conditions: Habileté requise : 1650 ou plus, Contrôle requis : 1600 ou plus, Synthèse rapide : Habileté >= 2000
 Degré: 3
+
+Nom: Khalamar ripieni
+Classe: Cuisinier
+Niveau: 90
+Livre: Cuisine experte IX
+Catégorie: Plat ou boisson
+Matériaux: 1 Calmar thavnairois, 2 Huile de périlla, 1 Fromage garlemaldais, 1 Oignon extraterrestre, 1 Tomate sanguine, 1 Sable éthéréen de la lune de l'aube
+Cristaux: 3 Agrégat de feu, 3 Agrégat d'eau
+Total fabriqué: 3
+Difficulté: 4300
+Solidité: 70
+Qualité maximum: 12800
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté requise : 3240 ou plus, Contrôle requis : 3130 ou plus
+Degré: 2
+
+Nom: Khalamarkia tiganita
+Classe: Cuisinier
+Niveau: 90
+Livre: Cuisine experte IX
+Catégorie: Plat ou boisson
+Matériaux: 1 Calmar thavnairois, 1 Huile de périlla, 2 Farine de seigle noir, 1 Persil frisé, 1 Petit citron, 1 Sable éthéréen de la lune de l'aube
+Cristaux: 3 Agrégat de feu, 3 Agrégat d'eau
+Total fabriqué: 3
+Difficulté: 4300
+Solidité: 70
+Qualité maximum: 12800
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté requise : 3240 ou plus, Contrôle requis : 3130 ou plus
+Degré: 2
 
 Nom: Kilij en bronze titané
 Classe: Forgeron
@@ -81535,7 +83260,7 @@ Difficulté: 2625
 Solidité: 80
 Qualité maximum: 4320
 Qualité: 0 max.
-Conditions: Synthèse rapide impossible, Habileté recommandée : 2805
+Conditions: Synthèse rapide impossible, Habileté recommandée : 2805, Gain d'expérience impossible
 Degré: 1
 
 Nom: Kit pour boulettes de poisson
@@ -81550,7 +83275,7 @@ Difficulté: 2625
 Solidité: 80
 Qualité maximum: 4320
 Qualité: 0 max.
-Conditions: Synthèse rapide impossible, Habileté recommandée : 2805
+Conditions: Synthèse rapide impossible, Habileté recommandée : 2805, Gain d'expérience impossible
 Degré: 1
 
 Nom: Kit pour dépliants
@@ -81806,6 +83531,21 @@ Solidité: 70
 Qualité maximum: 2490
 Qualité: 50 max.
 Conditions: Habileté recommandée : 560
+Degré: 3
+
+Nom: Kunai de Susano flamboyants
+Classe: Forgeron
+Niveau: 70
+Livre: Métallurgie experte VI
+Catégorie: Arme de surineur
+Matériaux: 4 Lingot de chromite, 1 Cuir de vrai griffon, 2 Lingot de molybdène, 1 Lame de Susano, 5 Demi-cristal
+Cristaux: 7 Cristal de feu, 7 Cristal de terre
+Total fabriqué: 1
+Difficulté: 1200
+Solidité: 70
+Qualité maximum: 4800
+Qualité: 50 max.
+Conditions: Recette de spécialiste, Synthèse rapide impossible, Habileté recommandée : 1320
 Degré: 3
 
 Nom: Kunai de Suzaku flamboyants
@@ -82152,6 +83892,21 @@ Qualité maximum: 3300
 Qualité: 50 max.
 Conditions: Synthèse rapide impossible, Habileté requise : 850 ou plus, Contrôle requis : 820 ou plus
 Degré: 3
+
+Nom: Lame de samouraï classique
+Classe: Forgeron
+Niveau: 90
+Livre: Métallurgie experte IX
+Catégorie: Arme de samouraï
+Matériaux: 3 Lingot d'adamantium sélénien, 2 Madrier de mempisang, 1 Lingot de chondrite, 2 Eau chimérique de force VI, 1 Sable éthéréen mégalithique
+Cristaux: 3 Agrégat de feu, 3 Agrégat de terre
+Total fabriqué: 1
+Difficulté: 3900
+Solidité: 70
+Qualité maximum: 10920
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté requise : 3180 ou plus, Contrôle requis : 3080 ou plus
+Degré: 2
 
 Nom: Lame de samouraï magitek en chondrite
 Classe: Forgeron
@@ -83683,6 +85438,21 @@ Qualité: 50 max.
 Conditions: Contrôle requis : 255 ou plus, Synthèse rapide : Contrôle >= 318
 Degré: 2
 
+Nom: Lime des associés
+Classe: Forgeron
+Niveau: 90
+Livre: Métallurgie experte IX
+Catégorie: Outil secondaire de forgeron
+Matériaux: 3 Danburite d'Éblana, 3 Lingot d'adamantium sélénien, 1 Madrier d'arbre intégral, 2 Potion alchimique immuable, 1 Sable éthéréen sylvestre
+Cristaux: 3 Agrégat de feu, 3 Agrégat de terre
+Total fabriqué: 1
+Difficulté: 4300
+Solidité: 70
+Qualité maximum: 12800
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté requise : 3240 ou plus, Contrôle requis : 3130 ou plus
+Degré: 2
+
 Nom: Lime en acier
 Classe: Forgeron
 Niveau: 34
@@ -84207,6 +85977,36 @@ Qualité maximum: 2900
 Qualité: 50 max.
 Conditions: Habileté requise : 718 ou plus, Contrôle requis : 695 ou plus, Synthèse rapide : Habileté >= 850
 Degré: 2
+
+Nom: Lingot d'adamantium sélénien
+Classe: Armurier
+Niveau: 90
+Livre: Armurerie experte IX
+Catégorie: Métal
+Matériaux: 4 Minerai d'adamantium sélénien, 2 Anthracite du Grand Œuvre
+Cristaux: 3 Agrégat de glace, 3 Agrégat de terre
+Total fabriqué: 1
+Difficulté: 2925
+Solidité: 35
+Qualité maximum: 7800
+Qualité: 0 max.
+Conditions: Synthèse rapide impossible, Habileté requise : 3180 ou plus, Contrôle requis : 3080 ou plus
+Degré: 1
+
+Nom: Lingot d'adamantium sélénien
+Classe: Forgeron
+Niveau: 90
+Livre: Métallurgie experte IX
+Catégorie: Métal
+Matériaux: 4 Minerai d'adamantium sélénien, 2 Anthracite du Grand Œuvre
+Cristaux: 3 Agrégat de feu, 3 Agrégat de terre
+Total fabriqué: 1
+Difficulté: 2925
+Solidité: 35
+Qualité maximum: 7800
+Qualité: 0 max.
+Conditions: Synthèse rapide impossible, Habileté requise : 3180 ou plus, Contrôle requis : 3080 ou plus
+Degré: 1
 
 Nom: Lingot d'alliage de cobalt
 Classe: Armurier
@@ -85198,6 +86998,21 @@ Qualité: 50 max.
 Conditions: Habileté requise : 1650 ou plus, Contrôle requis : 1600 ou plus, Synthèse rapide : Habileté >= 2000
 Degré: 2
 
+Nom: Lingot de rhodium
+Classe: Orfèvre
+Niveau: 90
+Livre: Orfèvrerie experte IX
+Catégorie: Métal
+Matériaux: 4 Sable de rhodium, 2 Abrasif du Grand Œuvre
+Cristaux: 3 Agrégat de vent, 3 Agrégat de feu
+Total fabriqué: 1
+Difficulté: 2925
+Solidité: 35
+Qualité maximum: 7800
+Qualité: 0 max.
+Conditions: Synthèse rapide impossible, Habileté requise : 3180 ou plus, Contrôle requis : 3080 ou plus
+Degré: 1
+
 Nom: Lingot de scintillant
 Classe: Orfèvre
 Niveau: 60
@@ -85543,6 +87358,21 @@ Qualité: 50 max.
 Conditions: Synthèse rapide impossible, Habileté requise : 2000 ou plus, Contrôle requis : 1860 ou plus, Haute qualité impossible
 Degré: 3
 
+Nom: Lit mezzanine
+Classe: Menuisier
+Niveau: 86
+Livre: 
+Catégorie: Meuble
+Matériaux: 7 Madrier de bois de fer, 6 Madrier de chêne blanc, 3 Glu sélénienne
+Cristaux: 8 Cristal de vent, 8 Cristal de glace
+Total fabriqué: 1
+Difficulté: 3100
+Solidité: 80
+Qualité maximum: 6800
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté recommandée : 2590, Haute qualité impossible
+Degré: 2
+
 Nom: Lit mog moelleux
 Classe: Menuisier
 Niveau: 70
@@ -85647,6 +87477,21 @@ Qualité maximum: 1450
 Qualité: 50 max.
 Conditions: Synthèse rapide impossible, Habileté requise : 451 ou plus, Contrôle requis : 407 ou plus, Haute qualité impossible
 Degré: 3
+
+Nom: Lit à baldaquin oriental
+Classe: Menuisier
+Niveau: 90
+Livre: 
+Catégorie: Meuble
+Matériaux: 5 Madrier d'arbre intégral, 5 Velours de Caean, 5 Fleur de coton de Caean, 1 Pousse de cerisier à fleurs, 1 Formule de croissance kappa
+Cristaux: 32 Cristal de vent, 32 Cristal de glace
+Total fabriqué: 1
+Difficulté: 3500
+Solidité: 80
+Qualité maximum: 7200
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté recommandée : 2805, Haute qualité impossible
+Degré: 2
 
 Nom: Lit à baldaquin sombrelinçois
 Classe: Menuisier
@@ -85783,6 +87628,51 @@ Qualité: 50 max.
 Conditions: Synthèse rapide impossible, Habileté recommandée : 161
 Degré: 3
 
+Nom: Longue lance de Susano flamboyante
+Classe: Menuisier
+Niveau: 70
+Livre: Menuiserie experte VI
+Catégorie: Arme d'hast
+Matériaux: 3 Madrier de kaya, 2 Lingot de chromite, 2 Lingot de molybdène, 1 Lame de Susano, 5 Demi-cristal
+Cristaux: 7 Cristal de vent, 7 Cristal de glace
+Total fabriqué: 1
+Difficulté: 1200
+Solidité: 70
+Qualité maximum: 4800
+Qualité: 50 max.
+Conditions: Recette de spécialiste, Synthèse rapide impossible, Habileté recommandée : 1320
+Degré: 3
+
+Nom: Lorica d'hoplomachus classique
+Classe: Couturier
+Niveau: 90
+Livre: Couture experte IX
+Catégorie: Torse
+Matériaux: 3 Étoffe de soie dorée, 2 Lingot d'adamantium sélénien, 1 Velours de Caean, 2 Eau chimérique de vitalité VI, 1 Sable éthéréen mégalithique
+Cristaux: 3 Agrégat de foudre, 3 Agrégat de vent
+Total fabriqué: 1
+Difficulté: 3900
+Solidité: 70
+Qualité maximum: 10920
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté requise : 3180 ou plus, Contrôle requis : 3080 ou plus
+Degré: 2
+
+Nom: Lorica de dimachaerus classique
+Classe: Armurier
+Niveau: 90
+Livre: Armurerie experte IX
+Catégorie: Torse
+Matériaux: 3 Lingot d'adamantium sélénien, 2 Étoffe de soie dorée, 1 Lingot de chondrite, 2 Eau chimérique de dextérité VI, 1 Sable éthéréen mégalithique
+Cristaux: 3 Agrégat de glace, 3 Agrégat de terre
+Total fabriqué: 1
+Difficulté: 3900
+Solidité: 70
+Qualité maximum: 10920
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté requise : 3180 ou plus, Contrôle requis : 3080 ou plus
+Degré: 2
+
 Nom: Lorica de protecteur en adamantium
 Classe: Armurier
 Niveau: 60
@@ -85798,6 +87688,21 @@ Qualité: 50 max.
 Conditions: Habileté recommandée : 587
 Degré: 3
 
+Nom: Lorica de secutor classique
+Classe: Armurier
+Niveau: 90
+Livre: Armurerie experte IX
+Catégorie: Torse
+Matériaux: 3 Lingot d'adamantium sélénien, 2 Étoffe de soie dorée, 1 Lingot de chondrite, 2 Eau chimérique de force VI, 1 Sable éthéréen mégalithique
+Cristaux: 3 Agrégat de glace, 3 Agrégat de terre
+Total fabriqué: 1
+Difficulté: 3900
+Solidité: 70
+Qualité maximum: 10920
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté requise : 3180 ou plus, Contrôle requis : 3080 ou plus
+Degré: 2
+
 Nom: Lot d'imprimerie
 Classe: Alchimiste
 Niveau: 75
@@ -86036,6 +87941,21 @@ Solidité: 60
 Qualité maximum: 2232
 Qualité: 50 max.
 Conditions: Synthèse rapide impossible, Habileté recommandée : 1006, Synthèse collectionnable uniquement
+Degré: 2
+
+Nom: Lot de deux coussins
+Classe: Couturier
+Niveau: 86
+Livre: 
+Catégorie: Mobilier de table
+Matériaux: 4 Étoffe de lin boréal, 2 Étoffe de serge d'almasty, 4 Duvet de loriquet
+Cristaux: 8 Cristal de foudre, 8 Cristal de vent
+Total fabriqué: 1
+Difficulté: 3100
+Solidité: 80
+Qualité maximum: 6800
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté recommandée : 2590, Haute qualité impossible
 Degré: 2
 
 Nom: Luminaire sur commande de restauration (2e phase)
@@ -86488,6 +88408,21 @@ Qualité: 50 max.
 Conditions: Synthèse rapide impossible, Habileté recommandée : 539, Haute qualité impossible
 Degré: 3
 
+Nom: Lustre amaurotain
+Classe: Forgeron
+Niveau: 90
+Livre: 
+Catégorie: Luminaire
+Matériaux: 5 Lingot de chondrite, 4 Onyx, 4 Chandelle de suif, 4 Verre en cristal
+Cristaux: 8 Cristal de feu, 8 Cristal de terre
+Total fabriqué: 1
+Difficulté: 3500
+Solidité: 80
+Qualité maximum: 7200
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté recommandée : 2805, Haute qualité impossible
+Degré: 3
+
 Nom: Lustre carbuncles
 Classe: Orfèvre
 Niveau: 70
@@ -86516,6 +88451,21 @@ Solidité: 70
 Qualité maximum: 2400
 Qualité: 50 max.
 Conditions: Synthèse rapide impossible, Habileté requise : 1320 ou plus, Contrôle requis : 1220 ou plus, Haute qualité impossible
+Degré: 3
+
+Nom: Lustre coerthien
+Classe: Forgeron
+Niveau: 60
+Livre: 
+Catégorie: Luminaire
+Matériaux: 7 Lingot de titane, 6 Chandelle de suif, 4 Verre en cristal
+Cristaux: 6 Cristal de feu, 5 Cristal de terre
+Total fabriqué: 1
+Difficulté: 580
+Solidité: 70
+Qualité maximum: 2700
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté recommandée : 587, Haute qualité impossible
 Degré: 3
 
 Nom: Lustre de Cristarium
@@ -87358,6 +89308,21 @@ Qualité: 0 max.
 Conditions: Habileté requise : 1320 ou plus, Contrôle requis : 1220 ou plus, Synthèse rapide : Habileté >= 1500
 Degré: 1
 
+Nom: Madrier de mempisang
+Classe: Menuisier
+Niveau: 90
+Livre: Menuiserie experte IX
+Catégorie: Bois
+Matériaux: 4 Rondin de mempisang, 2 Prêle de Thavnair
+Cristaux: 3 Agrégat de vent, 3 Agrégat de glace
+Total fabriqué: 1
+Difficulté: 2925
+Solidité: 35
+Qualité maximum: 7800
+Qualité: 0 max.
+Conditions: Synthèse rapide impossible, Habileté requise : 3180 ou plus, Contrôle requis : 3080 ou plus
+Degré: 1
+
 Nom: Madrier de morta
 Classe: Menuisier
 Niveau: 50
@@ -87701,6 +89666,21 @@ Solidité: 80
 Qualité maximum: 2200
 Qualité: 50 max.
 Conditions: Contrôle requis : 255 ou plus, Synthèse rapide : Contrôle >= 318
+Degré: 2
+
+Nom: Maillet des associés
+Classe: Forgeron
+Niveau: 90
+Livre: Métallurgie experte IX
+Catégorie: Outil secondaire de mineur
+Matériaux: 3 Danburite d'Éblana, 3 Lingot d'adamantium sélénien, 1 Lingot de chondrite, 2 Potion alchimique immuable, 1 Sable éthéréen pélagique
+Cristaux: 3 Agrégat de feu, 3 Agrégat de terre
+Total fabriqué: 1
+Difficulté: 4300
+Solidité: 70
+Qualité maximum: 12800
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté requise : 3240 ou plus, Contrôle requis : 3130 ou plus
 Degré: 2
 
 Nom: Maillet en acier
@@ -88317,6 +90297,66 @@ Qualité maximum: 1400
 Qualité: 50 max.
 Conditions: Synthèse rapide impossible, Habileté requise : 620 ou plus, Haute qualité impossible
 Degré: 3
+
+Nom: Manicae d'eques classiques
+Classe: Armurier
+Niveau: 90
+Livre: Armurerie experte IX
+Catégorie: Mains
+Matériaux: 2 Lingot d'adamantium sélénien, 1 Étoffe de soie dorée, 1 Lingot de chondrite, 2 Eau chimérique de force VI, 1 Sable éthéréen mégalithique
+Cristaux: 3 Agrégat de glace, 3 Agrégat de terre
+Total fabriqué: 1
+Difficulté: 3900
+Solidité: 70
+Qualité maximum: 10920
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté requise : 3180 ou plus, Contrôle requis : 3080 ou plus
+Degré: 2
+
+Nom: Manicae d'hoplomachus classiques
+Classe: Armurier
+Niveau: 90
+Livre: Armurerie experte IX
+Catégorie: Mains
+Matériaux: 2 Lingot d'adamantium sélénien, 1 Étoffe de soie dorée, 1 Lingot de chondrite, 2 Eau chimérique de vitalité VI, 1 Sable éthéréen mégalithique
+Cristaux: 3 Agrégat de glace, 3 Agrégat de terre
+Total fabriqué: 1
+Difficulté: 3900
+Solidité: 70
+Qualité maximum: 10920
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté requise : 3180 ou plus, Contrôle requis : 3080 ou plus
+Degré: 2
+
+Nom: Manicae de dimachaerus classiques
+Classe: Armurier
+Niveau: 90
+Livre: Armurerie experte IX
+Catégorie: Mains
+Matériaux: 2 Lingot d'adamantium sélénien, 1 Cuir d'amynodon, 1 Lingot de chondrite, 2 Eau chimérique de dextérité VI, 1 Sable éthéréen mégalithique
+Cristaux: 3 Agrégat de glace, 3 Agrégat de terre
+Total fabriqué: 1
+Difficulté: 3900
+Solidité: 70
+Qualité maximum: 10920
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté requise : 3180 ou plus, Contrôle requis : 3080 ou plus
+Degré: 2
+
+Nom: Manicae de secutor classiques
+Classe: Armurier
+Niveau: 90
+Livre: Armurerie experte IX
+Catégorie: Mains
+Matériaux: 2 Lingot d'adamantium sélénien, 1 Étoffe de soie dorée, 1 Lingot de chondrite, 2 Eau chimérique de force VI, 1 Sable éthéréen mégalithique
+Cristaux: 3 Agrégat de glace, 3 Agrégat de terre
+Total fabriqué: 1
+Difficulté: 3900
+Solidité: 70
+Qualité maximum: 10920
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté requise : 3180 ou plus, Contrôle requis : 3080 ou plus
+Degré: 2
 
 Nom: Mannequin d'entraînement coerthien
 Classe: Menuisier
@@ -89083,6 +91123,21 @@ Qualité: 50 max.
 Conditions: Habileté requise : 2140 ou plus, Contrôle requis : 1990 ou plus, Synthèse rapide : Habileté >= 2480
 Degré: 2
 
+Nom: Manteau des ressources des associés
+Classe: Couturier
+Niveau: 90
+Livre: Couture experte IX
+Catégorie: Torse
+Matériaux: 4 Fibre thavnairoise, 3 Étoffe de soie dorée, 1 Velours de Caean, 2 Potion alchimique immuable, 1 Sable éthéréen sylvestre
+Cristaux: 3 Agrégat de foudre, 3 Agrégat de vent
+Total fabriqué: 1
+Difficulté: 4300
+Solidité: 70
+Qualité maximum: 12800
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté requise : 3240 ou plus, Contrôle requis : 3130 ou plus
+Degré: 2
+
 Nom: Manteau des ressources en kudzu
 Classe: Couturier
 Niveau: 65
@@ -89216,6 +91271,21 @@ Solidité: 70
 Qualité maximum: 7900
 Qualité: 50 max.
 Conditions: Synthèse rapide impossible, Habileté requise : 2140 ou plus, Contrôle requis : 1990 ou plus
+Degré: 2
+
+Nom: Manteau à cape du bonheur
+Classe: Couturier
+Niveau: 90
+Livre: Couture experte IX
+Catégorie: Torse
+Matériaux: 1 Étoffe du bonheur, 3 Velours de Caean
+Cristaux: 3 Agrégat de foudre, 3 Agrégat de vent
+Total fabriqué: 1
+Difficulté: 3700
+Solidité: 80
+Qualité maximum: 7400
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté recommandée : 2924
 Degré: 2
 
 Nom: Maquette d'aéronef
@@ -89788,6 +91858,21 @@ Qualité: 50 max.
 Conditions: Contrôle requis : 255 ou plus, Synthèse rapide : Contrôle >= 318
 Degré: 2
 
+Nom: Marteau arrache-clou des associés
+Classe: Forgeron
+Niveau: 90
+Livre: Métallurgie experte IX
+Catégorie: Outil secondaire de menuisier
+Matériaux: 3 Danburite d'Éblana, 3 Lingot d'adamantium sélénien, 1 Lingot de chondrite, 2 Potion alchimique immuable, 1 Sable éthéréen sylvestre
+Cristaux: 3 Agrégat de feu, 3 Agrégat de terre
+Total fabriqué: 1
+Difficulté: 4300
+Solidité: 70
+Qualité maximum: 12800
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté requise : 3240 ou plus, Contrôle requis : 3130 ou plus
+Degré: 2
+
 Nom: Marteau arrache-clou en acier
 Classe: Forgeron
 Niveau: 31
@@ -90343,6 +92428,21 @@ Qualité: 50 max.
 Conditions: Habileté requise : 2140 ou plus, Contrôle requis : 1990 ou plus, Synthèse rapide : Habileté >= 2480
 Degré: 2
 
+Nom: Marteau de batteur des associés
+Classe: Forgeron
+Niveau: 90
+Livre: Métallurgie experte IX
+Catégorie: Outil principal d'armurier
+Matériaux: 3 Danburite d'Éblana, 3 Lingot d'adamantium sélénien, 1 Madrier d'arbre intégral, 2 Potion alchimique immuable, 1 Sable éthéréen mégalithique
+Cristaux: 3 Agrégat de feu, 3 Agrégat de terre
+Total fabriqué: 1
+Difficulté: 4300
+Solidité: 70
+Qualité maximum: 12800
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté requise : 3240 ou plus, Contrôle requis : 3130 ou plus
+Degré: 2
+
 Nom: Marteau de batteur en acier
 Classe: Forgeron
 Niveau: 38
@@ -90716,6 +92816,21 @@ Solidité: 70
 Qualité maximum: 7900
 Qualité: 50 max.
 Conditions: Habileté requise : 2140 ou plus, Contrôle requis : 1990 ou plus, Synthèse rapide : Habileté >= 2480
+Degré: 2
+
+Nom: Marteau de lapidaire des associés
+Classe: Forgeron
+Niveau: 90
+Livre: Métallurgie experte IX
+Catégorie: Outil principal d'orfèvre
+Matériaux: 3 Danburite d'Éblana, 3 Lingot d'adamantium sélénien, 1 Lingot de chondrite, 2 Potion alchimique immuable, 1 Sable éthéréen mégalithique
+Cristaux: 3 Agrégat de feu, 3 Agrégat de terre
+Total fabriqué: 1
+Difficulté: 4300
+Solidité: 70
+Qualité maximum: 12800
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté requise : 3240 ou plus, Contrôle requis : 3130 ou plus
 Degré: 2
 
 Nom: Marteau de lapidaire en azuresprit
@@ -91273,6 +93388,21 @@ Qualité: 50 max.
 Conditions: Habileté requise : 2140 ou plus, Contrôle requis : 1990 ou plus, Synthèse rapide : Habileté >= 2480
 Degré: 2
 
+Nom: Marteau à panne croisée des associés
+Classe: Forgeron
+Niveau: 90
+Livre: Métallurgie experte IX
+Catégorie: Outil principal de forgeron
+Matériaux: 3 Danburite d'Éblana, 3 Lingot d'adamantium sélénien, 1 Madrier d'arbre intégral, 2 Potion alchimique immuable, 1 Sable éthéréen mégalithique
+Cristaux: 3 Agrégat de feu, 3 Agrégat de terre
+Total fabriqué: 1
+Difficulté: 4300
+Solidité: 70
+Qualité maximum: 12800
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté requise : 3240 ou plus, Contrôle requis : 3130 ou plus
+Degré: 2
+
 Nom: Marteau à panne croisée en acier
 Classe: Forgeron
 Niveau: 32
@@ -91828,6 +93958,21 @@ Qualité: 50 max.
 Conditions: Habileté recommandée : 529
 Degré: 2
 
+Nom: Masque de dimachaerus classique
+Classe: Armurier
+Niveau: 90
+Livre: Armurerie experte IX
+Catégorie: Tête
+Matériaux: 2 Lingot d'adamantium sélénien, 1 Cuir d'amynodon, 1 Lingot de chondrite, 2 Eau chimérique de dextérité VI, 1 Sable éthéréen sylvestre
+Cristaux: 3 Agrégat de glace, 3 Agrégat de terre
+Total fabriqué: 1
+Difficulté: 3900
+Solidité: 70
+Qualité maximum: 10920
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté requise : 3180 ou plus, Contrôle requis : 3080 ou plus
+Degré: 2
+
 Nom: Masque de hannya
 Classe: Orfèvre
 Niveau: 70
@@ -91917,6 +94062,21 @@ Qualité maximum: 2280
 Qualité: 50 max.
 Conditions: Habileté recommandée : 529
 Degré: 3
+
+Nom: Masque de secutor classique
+Classe: Armurier
+Niveau: 90
+Livre: Armurerie experte IX
+Catégorie: Tête
+Matériaux: 2 Lingot d'adamantium sélénien, 1 Lingot de rhodium, 1 Lingot de chondrite, 2 Eau chimérique de force VI, 1 Sable éthéréen sylvestre
+Cristaux: 3 Agrégat de glace, 3 Agrégat de terre
+Total fabriqué: 1
+Difficulté: 3900
+Solidité: 70
+Qualité maximum: 10920
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté requise : 3180 ou plus, Contrôle requis : 3080 ou plus
+Degré: 2
 
 Nom: Masque de soigneur de rat des cieux
 Classe: Orfèvre
@@ -94528,19 +96688,34 @@ Qualité: 50 max.
 Conditions: Contrôle requis : 318 ou plus, Synthèse rapide : Contrôle >= 374
 Degré: 3
 
-Nom: Megapiranha au four
-Classe: Cuisinier
-Niveau: 76
-Livre: 
-Catégorie: Plat ou boisson
-Matériaux: 3 Méga piranha, 1 Sel d'Ala Mhigo, 2 Champignon laiteux, 1 Beurre fermenté
-Cristaux: 7 Cristal de feu, 6 Cristal d'eau
-Total fabriqué: 3
-Difficulté: 1500
-Solidité: 80
-Qualité maximum: 4200
-Qualité: 75 max.
-Conditions: Habileté recommandée : 1580
+Nom: Mein gwrac'h
+Classe: Orfèvre
+Niveau: 90
+Livre: Orfèvrerie experte IX
+Catégorie: Arme de sage
+Matériaux: 3 Lingot de rhodium, 2 Lingot d'adamantium sélénien, 1 Quartz étoilé, 2 Eau chimérique d'esprit VI, 1 Sable éthéréen pélagique
+Cristaux: 3 Agrégat de vent, 3 Agrégat de feu
+Total fabriqué: 1
+Difficulté: 3900
+Solidité: 70
+Qualité maximum: 10920
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté requise : 3180 ou plus, Contrôle requis : 3080 ou plus
+Degré: 3
+
+Nom: Mein gwrac'h de la Table ronde
+Classe: Orfèvre
+Niveau: 60
+Livre: Orfèvrerie experte IV
+Catégorie: Arme de sage
+Matériaux: 2 Lingot de mithrite noble, 2 Lingot de fer primordial, 3 Lingot de platine, 3 Fibre lumineuse, 5 Demi-matéria de l'art militaire III
+Cristaux: 3 Agrégat de vent, 2 Agrégat de feu
+Total fabriqué: 1
+Difficulté: 880
+Solidité: 70
+Qualité maximum: 3300
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté requise : 850 ou plus, Contrôle requis : 820 ou plus
 Degré: 2
 
 Nom: Mein gwrac'h en durium noble
@@ -94708,6 +96883,21 @@ Qualité: 75 max.
 Conditions: Habileté requise : 2140 ou plus, Contrôle requis : 1990 ou plus, Synthèse rapide : Habileté >= 2480
 Degré: 3
 
+Nom: Meuble à chaussures
+Classe: Tanneur
+Niveau: 86
+Livre: 
+Catégorie: Table
+Matériaux: 1 Étagère à livres thanalanaise, 4 Cuir de kumbhira, 4 Cuir de saïga, 4 Étoffe de lin boréal
+Cristaux: 8 Cristal de terre, 8 Cristal de vent
+Total fabriqué: 1
+Difficulté: 3100
+Solidité: 80
+Qualité maximum: 6800
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté recommandée : 2590, Haute qualité impossible
+Degré: 4
+
 Nom: Meubles de salon de thé oriental
 Classe: Menuisier
 Niveau: 70
@@ -94872,6 +97062,21 @@ Qualité maximum: 6480
 Qualité: 50 max.
 Conditions: Synthèse rapide impossible, Habileté recommandée : 587, Synthèse collectionnable uniquement
 Degré: 2
+
+Nom: Meule des associés
+Classe: Menuisier
+Niveau: 90
+Livre: Menuiserie experte IX
+Catégorie: Outil secondaire d'orfèvre
+Matériaux: 3 Danburite d'Éblana, 3 Madrier de mempisang, 1 Quartz étoilé, 2 Potion alchimique immuable, 1 Sable éthéréen sylvestre
+Cristaux: 3 Agrégat de vent, 3 Agrégat de glace
+Total fabriqué: 1
+Difficulté: 4300
+Solidité: 70
+Qualité maximum: 12800
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté requise : 3240 ou plus, Contrôle requis : 3130 ou plus
+Degré: 3
 
 Nom: Meule en almandin
 Classe: Menuisier
@@ -95246,6 +97451,21 @@ Solidité: 80
 Qualité maximum: 850
 Qualité: 50 max.
 Conditions: Synthèse rapide impossible, Habileté recommandée : 150, Haute qualité impossible
+Degré: 3
+
+Nom: Mezzanine en bois éclairée
+Classe: Menuisier
+Niveau: 90
+Livre: 
+Catégorie: Mobilier mural
+Matériaux: 6 Madrier d'arbre intégral, 2 Madrier de bois de fer, 2 Chandelle de suif, 2 Verre en cristal
+Cristaux: 32 Cristal de vent, 32 Cristal de glace
+Total fabriqué: 1
+Difficulté: 3500
+Solidité: 80
+Qualité maximum: 7200
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté recommandée : 2805, Haute qualité impossible
 Degré: 3
 
 Nom: Micro-drone magitek
@@ -95637,6 +97857,21 @@ Qualité maximum: 2280
 Qualité: 50 max.
 Conditions: Habileté recommandée : 529
 Degré: 3
+
+Nom: Mitaines des créations des associés
+Classe: Tanneur
+Niveau: 90
+Livre: Tannerie experte IX
+Catégorie: Mains
+Matériaux: 3 Fibre thavnairoise, 2 Cuir d'amynodon, 1 Cuir d'ophiotauros, 1 Potion alchimique immuable, 1 Sable éthéréen mégalithique
+Cristaux: 3 Agrégat de terre, 3 Agrégat de vent
+Total fabriqué: 1
+Difficulté: 4300
+Solidité: 70
+Qualité maximum: 12800
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté requise : 3240 ou plus, Contrôle requis : 3130 ou plus
+Degré: 2
 
 Nom: Mitaines des créations en cuir d'ophiotauros
 Classe: Tanneur
@@ -96433,6 +98668,21 @@ Qualité: 50 max.
 Conditions: Contrôle requis : 255 ou plus, Synthèse rapide : Contrôle >= 318
 Degré: 2
 
+Nom: Mortier des associés
+Classe: Forgeron
+Niveau: 90
+Livre: Métallurgie experte IX
+Catégorie: Outil secondaire d'alchimiste
+Matériaux: 3 Danburite d'Éblana, 3 Lingot d'adamantium sélénien, 1 Madrier d'arbre intégral, 2 Potion alchimique immuable, 1 Sable éthéréen mégalithique
+Cristaux: 3 Agrégat de feu, 3 Agrégat de terre
+Total fabriqué: 1
+Difficulté: 4300
+Solidité: 70
+Qualité maximum: 12800
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté requise : 3240 ou plus, Contrôle requis : 3130 ou plus
+Degré: 2
+
 Nom: Mortier en acier
 Classe: Forgeron
 Niveau: 32
@@ -96958,6 +99208,21 @@ Qualité: 50 max.
 Conditions: Habileté requise : 2140 ou plus, Contrôle requis : 1990 ou plus, Synthèse rapide : Habileté >= 2480
 Degré: 2
 
+Nom: Moulin à vent hingashien
+Classe: Orfèvre
+Niveau: 86
+Livre: 
+Catégorie: Meuble de jardin
+Matériaux: 1 Parchemin de bonne qualité, 3 Lingot d'or phrygien
+Cristaux: 8 Cristal de vent, 8 Cristal de feu
+Total fabriqué: 1
+Difficulté: 3100
+Solidité: 80
+Qualité maximum: 6800
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté recommandée : 2590, Haute qualité impossible
+Degré: 2
+
 Nom: Mousqueton de Shinryu flamboyant
 Classe: Forgeron
 Niveau: 70
@@ -96971,6 +99236,21 @@ Solidité: 70
 Qualité maximum: 4800
 Qualité: 50 max.
 Conditions: Synthèse rapide impossible, Habileté recommandée : 1320
+Degré: 3
+
+Nom: Mousqueton de Susano flamboyant
+Classe: Forgeron
+Niveau: 70
+Livre: Métallurgie experte VI
+Catégorie: Arme de machiniste
+Matériaux: 3 Lingot de chromite, 2 Lingot de palladium, 2 Lingot de molybdène, 1 Lame de Susano, 5 Demi-cristal
+Cristaux: 7 Cristal de feu, 7 Cristal de terre
+Total fabriqué: 1
+Difficulté: 1200
+Solidité: 70
+Qualité maximum: 4800
+Qualité: 50 max.
+Conditions: Recette de spécialiste, Synthèse rapide impossible, Habileté recommandée : 1320
 Degré: 3
 
 Nom: Mousqueton de Tsukuyomi flamboyant
@@ -97213,6 +99493,21 @@ Qualité: 50 max.
 Conditions: Synthèse rapide impossible, Habileté requise : 620 ou plus, Haute qualité impossible
 Degré: 3
 
+Nom: Mur de maisonnette composite coerthienne
+Classe: Alchimiste
+Niveau: 60
+Livre: 
+Catégorie: Élément de façade
+Matériaux: 10 Madrier de châtaignier sombre, 5 Lingot de mithrite, 5 Brique, 10 Granit, 5 Plaque de verre incolore
+Cristaux: 12 Cristal d'eau, 8 Cristal de foudre
+Total fabriqué: 1
+Difficulté: 580
+Solidité: 70
+Qualité maximum: 2700
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté recommandée : 587, Haute qualité impossible
+Degré: 3
+
 Nom: Mur de maisonnette composite noscéenne
 Classe: Orfèvre
 Niveau: 20
@@ -97258,6 +99553,21 @@ Qualité: 50 max.
 Conditions: Synthèse rapide impossible, Habileté recommandée : 94, Haute qualité impossible
 Degré: 3
 
+Nom: Mur de maisonnette en bois coerthienne
+Classe: Menuisier
+Niveau: 60
+Livre: 
+Catégorie: Élément de façade
+Matériaux: 10 Madrier de châtaignier sombre, 5 Lingot de mithrite, 5 Tuile, 10 Granit, 5 Plaque de verre incolore
+Cristaux: 12 Cristal de vent, 8 Cristal de glace
+Total fabriqué: 1
+Difficulté: 580
+Solidité: 70
+Qualité maximum: 2700
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté recommandée : 587, Haute qualité impossible
+Degré: 3
+
 Nom: Mur de maisonnette en bois noscéenne
 Classe: Menuisier
 Niveau: 21
@@ -97301,6 +99611,21 @@ Solidité: 70
 Qualité maximum: 285
 Qualité: 50 max.
 Conditions: Synthèse rapide impossible, Habileté recommandée : 94, Haute qualité impossible
+Degré: 3
+
+Nom: Mur de maisonnette en pierre coerthienne
+Classe: Armurier
+Niveau: 60
+Livre: 
+Catégorie: Élément de façade
+Matériaux: 10 Pépite de titane, 5 Madrier de cèdre sacré, 5 Tuile, 10 Granit, 5 Plaque de verre incolore
+Cristaux: 12 Cristal de glace, 8 Cristal de terre
+Total fabriqué: 1
+Difficulté: 580
+Solidité: 70
+Qualité maximum: 2700
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté recommandée : 587, Haute qualité impossible
 Degré: 3
 
 Nom: Mur de maisonnette en pierre noscéenne
@@ -97393,6 +99718,21 @@ Qualité: 50 max.
 Conditions: Synthèse rapide impossible, Habileté recommandée : 1006, Haute qualité impossible
 Degré: 3
 
+Nom: Mur de pavillon composite coerthien
+Classe: Alchimiste
+Niveau: 60
+Livre: 
+Catégorie: Élément de façade
+Matériaux: 10 Madrier de châtaignier sombre, 10 Lingot de mithrite, 10 Brique, 15 Granit, 10 Plaque de verre incolore
+Cristaux: 20 Cristal d'eau, 16 Cristal de foudre
+Total fabriqué: 1
+Difficulté: 580
+Solidité: 70
+Qualité maximum: 2700
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté recommandée : 587, Haute qualité impossible
+Degré: 3
+
 Nom: Mur de pavillon composite noscéen
 Classe: Orfèvre
 Niveau: 36
@@ -97438,6 +99778,21 @@ Qualité: 50 max.
 Conditions: Synthèse rapide impossible, Habileté recommandée : 129, Haute qualité impossible
 Degré: 3
 
+Nom: Mur de pavillon en bois coerthien
+Classe: Menuisier
+Niveau: 60
+Livre: 
+Catégorie: Élément de façade
+Matériaux: 10 Madrier de châtaignier sombre, 10 Lingot de mithrite, 10 Tuile, 15 Granit, 10 Plaque de verre incolore
+Cristaux: 20 Cristal de vent, 16 Cristal de glace
+Total fabriqué: 1
+Difficulté: 580
+Solidité: 70
+Qualité maximum: 2700
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté recommandée : 587, Haute qualité impossible
+Degré: 3
+
 Nom: Mur de pavillon en bois noscéen
 Classe: Menuisier
 Niveau: 38
@@ -97481,6 +99836,21 @@ Solidité: 80
 Qualité maximum: 670
 Qualité: 50 max.
 Conditions: Synthèse rapide impossible, Habileté recommandée : 136, Haute qualité impossible
+Degré: 3
+
+Nom: Mur de pavillon en pierre coerthien
+Classe: Armurier
+Niveau: 60
+Livre: 
+Catégorie: Élément de façade
+Matériaux: 10 Pépite de titane, 10 Madrier de cèdre sacré, 10 Tuile, 15 Granit, 10 Plaque de verre incolore
+Cristaux: 20 Cristal de glace, 16 Cristal de terre
+Total fabriqué: 1
+Difficulté: 580
+Solidité: 70
+Qualité maximum: 2700
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté recommandée : 587, Haute qualité impossible
 Degré: 3
 
 Nom: Mur de pavillon en pierre noscéen
@@ -97573,6 +99943,21 @@ Qualité: 50 max.
 Conditions: Synthèse rapide impossible, Habileté recommandée : 1056, Haute qualité impossible
 Degré: 3
 
+Nom: Mur de villa composite coerthienne
+Classe: Alchimiste
+Niveau: 60
+Livre: 
+Catégorie: Élément de façade
+Matériaux: 10 Madrier de châtaignier sombre, 15 Lingot de mithrite, 15 Brique, 20 Granit, 15 Plaque de verre incolore
+Cristaux: 20 Cristal d'eau, 20 Cristal de foudre
+Total fabriqué: 1
+Difficulté: 580
+Solidité: 70
+Qualité maximum: 2700
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté recommandée : 587, Haute qualité impossible
+Degré: 3
+
 Nom: Mur de villa composite noscéenne
 Classe: Orfèvre
 Niveau: 50
@@ -97618,6 +100003,21 @@ Qualité: 50 max.
 Conditions: Synthèse rapide impossible, Habileté requise : 275 ou plus, Haute qualité impossible
 Degré: 3
 
+Nom: Mur de villa en bois coerthienne
+Classe: Menuisier
+Niveau: 60
+Livre: 
+Catégorie: Élément de façade
+Matériaux: 10 Madrier de châtaignier sombre, 15 Lingot de mithrite, 15 Tuile, 20 Granit, 15 Plaque de verre incolore
+Cristaux: 20 Cristal de vent, 20 Cristal de glace
+Total fabriqué: 1
+Difficulté: 580
+Solidité: 70
+Qualité maximum: 2700
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté recommandée : 587, Haute qualité impossible
+Degré: 3
+
 Nom: Mur de villa en bois noscéenne
 Classe: Menuisier
 Niveau: 50
@@ -97661,6 +100061,21 @@ Solidité: 80
 Qualité maximum: 1100
 Qualité: 50 max.
 Conditions: Synthèse rapide impossible, Habileté requise : 275 ou plus, Haute qualité impossible
+Degré: 3
+
+Nom: Mur de villa en pierre coerthienne
+Classe: Armurier
+Niveau: 60
+Livre: 
+Catégorie: Élément de façade
+Matériaux: 10 Pépite de titane, 15 Madrier de cèdre sacré, 15 Tuile, 20 Granit, 15 Plaque de verre incolore
+Cristaux: 20 Cristal de glace, 20 Cristal de terre
+Total fabriqué: 1
+Difficulté: 580
+Solidité: 70
+Qualité maximum: 2700
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté recommandée : 587, Haute qualité impossible
 Degré: 3
 
 Nom: Mur de villa en pierre noscéenne
@@ -97783,6 +100198,21 @@ Qualité: 50 max.
 Conditions: Synthèse rapide impossible, Habileté recommandée : 1866, Haute qualité impossible
 Degré: 3
 
+Nom: Muret arqué coerthien
+Classe: Orfèvre
+Niveau: 60
+Livre: 
+Catégorie: Muret
+Matériaux: 15 Lingot de mithrite, 25 Marbre, 15 Granit
+Cristaux: 6 Cristal de vent, 5 Cristal de feu
+Total fabriqué: 1
+Difficulté: 580
+Solidité: 70
+Qualité maximum: 2700
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté recommandée : 587, Haute qualité impossible
+Degré: 3
+
 Nom: Muret boisé thanalanais
 Classe: Menuisier
 Niveau: 33
@@ -97796,6 +100226,21 @@ Solidité: 80
 Qualité maximum: 500
 Qualité: 50 max.
 Conditions: Synthèse rapide impossible, Habileté recommandée : 121, Haute qualité impossible
+Degré: 3
+
+Nom: Muret de jardinage coerthien
+Classe: Orfèvre
+Niveau: 60
+Livre: 
+Catégorie: Muret
+Matériaux: 10 Pousse sombrelinçoise, 10 Formule de croissance zêta, 20 Granit, 15 Pot de mortier
+Cristaux: 6 Cristal de vent, 5 Cristal de feu
+Total fabriqué: 1
+Difficulté: 580
+Solidité: 70
+Qualité maximum: 2700
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté recommandée : 587, Haute qualité impossible
 Degré: 3
 
 Nom: Muret en bois massif sombrelinçois
@@ -97842,6 +100287,21 @@ Qualité maximum: 475
 Qualité: 50 max.
 Conditions: Synthèse rapide impossible, Habileté recommandée : 121, Haute qualité impossible
 Degré: 2
+
+Nom: Muret en pierre coerthien
+Classe: Orfèvre
+Niveau: 60
+Livre: 
+Catégorie: Muret
+Matériaux: 15 Lingot de mithrite, 25 Granit, 15 Pot de mortier
+Cristaux: 6 Cristal de vent, 5 Cristal de feu
+Total fabriqué: 1
+Difficulté: 580
+Solidité: 70
+Qualité maximum: 2700
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté recommandée : 587, Haute qualité impossible
+Degré: 3
 
 Nom: Muret en pierre noscéen
 Classe: Orfèvre
@@ -97993,6 +100453,21 @@ Qualité: 50 max.
 Conditions: Synthèse rapide impossible, Habileté requise : 347 ou plus, Haute qualité impossible
 Degré: 3
 
+Nom: Méga piranha au four
+Classe: Cuisinier
+Niveau: 76
+Livre: 
+Catégorie: Plat ou boisson
+Matériaux: 3 Méga piranha, 1 Sel d'Ala Mhigo, 2 Champignon laiteux, 1 Beurre fermenté
+Cristaux: 7 Cristal de feu, 6 Cristal d'eau
+Total fabriqué: 3
+Difficulté: 1500
+Solidité: 80
+Qualité maximum: 4200
+Qualité: 75 max.
+Conditions: Habileté recommandée : 1580
+Degré: 2
+
 Nom: Méga potion
 Classe: Alchimiste
 Niveau: 43
@@ -98035,7 +100510,7 @@ Difficulté: 2250
 Solidité: 80
 Qualité maximum: 4020
 Qualité: 0 max.
-Conditions: Synthèse rapide impossible, Habileté recommandée : 2549
+Conditions: Synthèse rapide impossible, Habileté recommandée : 2549, Gain d'expérience impossible
 Degré: 1
 
 Nom: Mélange d'épices pour curry éorzéen
@@ -98050,7 +100525,7 @@ Difficulté: 2250
 Solidité: 80
 Qualité maximum: 4020
 Qualité: 0 max.
-Conditions: Synthèse rapide impossible, Habileté recommandée : 2549
+Conditions: Synthèse rapide impossible, Habileté recommandée : 2549, Gain d'expérience impossible
 Degré: 1
 
 Nom: Mélange glacé
@@ -98395,7 +100870,7 @@ Difficulté: 2250
 Solidité: 80
 Qualité maximum: 4020
 Qualité: 0 max.
-Conditions: Synthèse rapide impossible, Habileté recommandée : 2549
+Conditions: Synthèse rapide impossible, Habileté recommandée : 2549, Gain d'expérience impossible
 Degré: 1
 
 Nom: Noyau doré
@@ -98410,7 +100885,7 @@ Difficulté: 2250
 Solidité: 80
 Qualité maximum: 4020
 Qualité: 0 max.
-Conditions: Synthèse rapide impossible, Habileté recommandée : 2549
+Conditions: Synthèse rapide impossible, Habileté recommandée : 2549, Gain d'expérience impossible
 Degré: 1
 
 Nom: Noyau doré
@@ -98425,7 +100900,7 @@ Difficulté: 2250
 Solidité: 80
 Qualité maximum: 4020
 Qualité: 0 max.
-Conditions: Synthèse rapide impossible, Habileté recommandée : 2549
+Conditions: Synthèse rapide impossible, Habileté recommandée : 2549, Gain d'expérience impossible
 Degré: 1
 
 Nom: Nébuleuse du Patriarche
@@ -99688,6 +102163,21 @@ Qualité: 75 max.
 Conditions: Habileté recommandée : 1580
 Degré: 4
 
+Nom: Ouchanka des ressources des associés
+Classe: Couturier
+Niveau: 90
+Livre: Couture experte IX
+Catégorie: Tête
+Matériaux: 3 Fibre thavnairoise, 2 Étoffe de soie dorée, 1 Velours de Caean, 1 Potion alchimique immuable, 1 Sable éthéréen sylvestre
+Cristaux: 3 Agrégat de foudre, 3 Agrégat de vent
+Total fabriqué: 1
+Difficulté: 4300
+Solidité: 70
+Qualité maximum: 12800
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté requise : 3240 ou plus, Contrôle requis : 3130 ou plus
+Degré: 2
+
 Nom: Oukha
 Classe: Cuisinier
 Niveau: 83
@@ -100108,6 +102598,21 @@ Qualité: 0 max.
 Conditions: Synthèse rapide impossible, Habileté recommandée : 1320, Synthèse collectionnable uniquement
 Degré: 1
 
+Nom: Outils des Forges
+Classe: Forgeron
+Niveau: 90
+Livre: 
+Catégorie: Mobilier mural
+Matériaux: 4 Lingot de fer primordial, 4 Lingot de manganèse, 2 Lingot de durium noble
+Cristaux: 8 Cristal de feu, 8 Cristal de terre
+Total fabriqué: 1
+Difficulté: 3500
+Solidité: 80
+Qualité maximum: 7200
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté recommandée : 2805, Haute qualité impossible
+Degré: 2
+
 Nom: Paella
 Classe: Cuisinier
 Niveau: 79
@@ -100121,6 +102626,96 @@ Solidité: 80
 Qualité maximum: 4500
 Qualité: 75 max.
 Conditions: Habileté recommandée : 1702
+Degré: 2
+
+Nom: Pagne d'eques classique
+Classe: Couturier
+Niveau: 90
+Livre: Couture experte IX
+Catégorie: Jambes
+Matériaux: 3 Étoffe de soie dorée, 2 Cuir d'amynodon, 1 Velours de Caean, 2 Eau chimérique de force VI, 1 Sable éthéréen sylvestre
+Cristaux: 3 Agrégat de foudre, 3 Agrégat de vent
+Total fabriqué: 1
+Difficulté: 3900
+Solidité: 70
+Qualité maximum: 10920
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté requise : 3180 ou plus, Contrôle requis : 3080 ou plus
+Degré: 2
+
+Nom: Pagne d'hoplomachus classique
+Classe: Couturier
+Niveau: 90
+Livre: Couture experte IX
+Catégorie: Jambes
+Matériaux: 3 Étoffe de soie dorée, 2 Cuir d'amynodon, 1 Velours de Caean, 2 Eau chimérique de vitalité VI, 1 Sable éthéréen sylvestre
+Cristaux: 3 Agrégat de foudre, 3 Agrégat de vent
+Total fabriqué: 1
+Difficulté: 3900
+Solidité: 70
+Qualité maximum: 10920
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté requise : 3180 ou plus, Contrôle requis : 3080 ou plus
+Degré: 2
+
+Nom: Pagne de dimachaerus classique
+Classe: Couturier
+Niveau: 90
+Livre: Couture experte IX
+Catégorie: Jambes
+Matériaux: 3 Étoffe de soie dorée, 2 Cuir d'amynodon, 1 Velours de Caean, 2 Eau chimérique de dextérité VI, 1 Sable éthéréen sylvestre
+Cristaux: 3 Agrégat de foudre, 3 Agrégat de vent
+Total fabriqué: 1
+Difficulté: 3900
+Solidité: 70
+Qualité maximum: 10920
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté requise : 3180 ou plus, Contrôle requis : 3080 ou plus
+Degré: 2
+
+Nom: Pagne de medicus classique
+Classe: Couturier
+Niveau: 90
+Livre: Couture experte IX
+Catégorie: Jambes
+Matériaux: 3 Étoffe de soie dorée, 2 Cuir d'amynodon, 1 Velours de Caean, 2 Eau chimérique d'esprit VI, 1 Sable éthéréen sylvestre
+Cristaux: 3 Agrégat de foudre, 3 Agrégat de vent
+Total fabriqué: 1
+Difficulté: 3900
+Solidité: 70
+Qualité maximum: 10920
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté requise : 3180 ou plus, Contrôle requis : 3080 ou plus
+Degré: 2
+
+Nom: Pagne de sagittarius classique
+Classe: Couturier
+Niveau: 90
+Livre: Couture experte IX
+Catégorie: Jambes
+Matériaux: 3 Étoffe de soie dorée, 2 Cuir d'amynodon, 1 Velours de Caean, 2 Eau chimérique de dextérité VI, 1 Sable éthéréen sylvestre
+Cristaux: 3 Agrégat de foudre, 3 Agrégat de vent
+Total fabriqué: 1
+Difficulté: 3900
+Solidité: 70
+Qualité maximum: 10920
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté requise : 3180 ou plus, Contrôle requis : 3080 ou plus
+Degré: 2
+
+Nom: Pagne de secutor classique
+Classe: Couturier
+Niveau: 90
+Livre: Couture experte IX
+Catégorie: Jambes
+Matériaux: 3 Étoffe de soie dorée, 2 Cuir d'amynodon, 1 Velours de Caean, 2 Eau chimérique de force VI, 1 Sable éthéréen sylvestre
+Cristaux: 3 Agrégat de foudre, 3 Agrégat de vent
+Total fabriqué: 1
+Difficulté: 3900
+Solidité: 70
+Qualité maximum: 10920
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté requise : 3180 ou plus, Contrôle requis : 3080 ou plus
 Degré: 2
 
 Nom: Pagne en taffetas
@@ -100548,7 +103143,7 @@ Classe: Cuisinier
 Niveau: 86
 Livre: 
 Catégorie: Mobilier de table
-Matériaux: 1 Miel doré, 2 Farine de blé des plateaux, 1 Muscade de l'ancien temps
+Matériaux: 1 Miel doré, 2 Farine de blé des plateaux, 1 Muscade de l'ancien temps, 2 Œuf d'oiseau d'Elpis
 Cristaux: 8 Cristal de feu, 8 Cristal d'eau
 Total fabriqué: 1
 Difficulté: 3100
@@ -102058,6 +104653,21 @@ Qualité: 50 max.
 Conditions: Habileté recommandée : 502
 Degré: 3
 
+Nom: Parfait des merveilles
+Classe: Cuisinier
+Niveau: 90
+Livre: 
+Catégorie: Mobilier de table
+Matériaux: 2 Sucre de palme, 1 Farine de seigle noir, 1 Orange noscéenne, 1 Rolanbaie, 1 Ananas épineux, 1 Amra
+Cristaux: 8 Cristal de feu, 8 Cristal d'eau
+Total fabriqué: 1
+Difficulté: 3500
+Solidité: 80
+Qualité maximum: 7200
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté recommandée : 2805, Haute qualité impossible
+Degré: 2
+
 Nom: Parka arctique
 Classe: Tanneur
 Niveau: 50
@@ -102118,6 +104728,21 @@ Qualité: 50 max.
 Conditions: Synthèse rapide impossible, Habileté requise : 850 ou plus, Contrôle requis : 820 ou plus
 Degré: 3
 
+Nom: Parquet amaurotain
+Classe: Orfèvre
+Niveau: 90
+Livre: 
+Catégorie: Sol
+Matériaux: 8 Granit, 4 Onyx, 4 Pierre à aiguiser en annite, 4 Pot de mortier
+Cristaux: 8 Cristal de vent, 8 Cristal de feu
+Total fabriqué: 1
+Difficulté: 3500
+Solidité: 80
+Qualité maximum: 7200
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté recommandée : 2805, Haute qualité impossible
+Degré: 3
+
 Nom: Parquet bigarré en bois
 Classe: Menuisier
 Niveau: 86
@@ -102147,6 +104772,21 @@ Qualité maximum: 940
 Qualité: 50 max.
 Conditions: Synthèse rapide impossible, Habileté recommandée : 161, Haute qualité impossible
 Degré: 3
+
+Nom: Parquet coerthien
+Classe: Menuisier
+Niveau: 60
+Livre: 
+Catégorie: Sol
+Matériaux: 10 Madrier de châtaignier sombre, 4 Pierre de pavement, 4 Granit
+Cristaux: 6 Cristal de vent, 5 Cristal de glace
+Total fabriqué: 1
+Difficulté: 580
+Solidité: 70
+Qualité maximum: 2700
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté recommandée : 587, Haute qualité impossible
+Degré: 2
 
 Nom: Parquet du Manoir
 Classe: Menuisier
@@ -103903,6 +106543,36 @@ Qualité: 50 max.
 Conditions: Synthèse rapide impossible, Habileté requise : 1320 ou plus, Contrôle requis : 1220 ou plus, Haute qualité impossible
 Degré: 3
 
+Nom: Petite tour d'horloge antique
+Classe: Forgeron
+Niveau: 86
+Livre: 
+Catégorie: Meuble de jardin
+Matériaux: 9 Madrier de bois de fer, 6 Lingot de manganèse, 3 Lingot de plomb-étain
+Cristaux: 32 Cristal de feu, 32 Cristal de terre
+Total fabriqué: 1
+Difficulté: 3100
+Solidité: 80
+Qualité maximum: 6800
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté recommandée : 2590, Haute qualité impossible
+Degré: 2
+
+Nom: Petite épée classique
+Classe: Orfèvre
+Niveau: 90
+Livre: Orfèvrerie experte IX
+Catégorie: Arme de mage rouge
+Matériaux: 3 Lingot de rhodium, 2 Lingot d'adamantium sélénien, 1 Quartz étoilé, 2 Eau chimérique d'intelligence VI, 1 Sable éthéréen sylvestre
+Cristaux: 3 Agrégat de vent, 3 Agrégat de feu
+Total fabriqué: 1
+Difficulté: 3900
+Solidité: 70
+Qualité maximum: 10920
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté requise : 3180 ou plus, Contrôle requis : 3080 ou plus
+Degré: 3
+
 Nom: Petite épée en durium
 Classe: Orfèvre
 Niveau: 65
@@ -104023,6 +106693,21 @@ Qualité: 0 max.
 Conditions: Habileté recommandée : 2748
 Degré: 1
 
+Nom: Philtre chimérique d'esprit VI
+Classe: Alchimiste
+Niveau: 90
+Livre: Alchimie experte IX
+Catégorie: Médicament
+Matériaux: 1 Eau extrêmement dure, 1 Eau chimérique d'esprit V, 1 Sable éthéréen de la lune de l'aube
+Cristaux: 3 Agrégat d'eau, 3 Agrégat de foudre
+Total fabriqué: 3
+Difficulté: 3900
+Solidité: 70
+Qualité maximum: 10920
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté requise : 3180 ou plus, Contrôle requis : 3080 ou plus
+Degré: 2
+
 Nom: Philtre chimérique d'intelligence
 Classe: Alchimiste
 Niveau: 80
@@ -104098,6 +106783,21 @@ Qualité: 0 max.
 Conditions: Habileté recommandée : 2805
 Degré: 1
 
+Nom: Philtre chimérique d'intelligence VI
+Classe: Alchimiste
+Niveau: 90
+Livre: Alchimie experte IX
+Catégorie: Médicament
+Matériaux: 1 Eau extrêmement dure, 1 Eau chimérique d'intelligence V, 1 Sable éthéréen de la lune de l'aube
+Cristaux: 3 Agrégat d'eau, 3 Agrégat de foudre
+Total fabriqué: 3
+Difficulté: 3900
+Solidité: 70
+Qualité maximum: 10920
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté requise : 3180 ou plus, Contrôle requis : 3080 ou plus
+Degré: 2
+
 Nom: Philtre chimérique de dextérité
 Classe: Alchimiste
 Niveau: 80
@@ -104157,6 +106857,21 @@ Qualité maximum: 7200
 Qualité: 0 max.
 Conditions: Habileté recommandée : 2805
 Degré: 1
+
+Nom: Philtre chimérique de dextérité VI
+Classe: Alchimiste
+Niveau: 90
+Livre: Alchimie experte IX
+Catégorie: Médicament
+Matériaux: 1 Eau extrêmement dure, 1 Eau chimérique de dextérité V, 1 Sable éthéréen de la lune de l'aube
+Cristaux: 3 Agrégat d'eau, 3 Agrégat de foudre
+Total fabriqué: 3
+Difficulté: 3900
+Solidité: 70
+Qualité maximum: 10920
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté requise : 3180 ou plus, Contrôle requis : 3080 ou plus
+Degré: 2
 
 Nom: Philtre chimérique de dextérité ll
 Classe: Alchimiste
@@ -104248,6 +106963,21 @@ Qualité: 0 max.
 Conditions: Habileté recommandée : 2805
 Degré: 1
 
+Nom: Philtre chimérique de force VI
+Classe: Alchimiste
+Niveau: 90
+Livre: Alchimie experte IX
+Catégorie: Médicament
+Matériaux: 1 Eau extrêmement dure, 1 Eau chimérique de force V, 1 Sable éthéréen de la lune de l'aube
+Cristaux: 3 Agrégat d'eau, 3 Agrégat de foudre
+Total fabriqué: 3
+Difficulté: 3900
+Solidité: 70
+Qualité maximum: 10920
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté requise : 3180 ou plus, Contrôle requis : 3080 ou plus
+Degré: 2
+
 Nom: Philtre chimérique de vitalité
 Classe: Alchimiste
 Niveau: 79
@@ -104322,6 +107052,21 @@ Qualité maximum: 7100
 Qualité: 0 max.
 Conditions: Habileté recommandée : 2748
 Degré: 1
+
+Nom: Philtre chimérique de vitalité VI
+Classe: Alchimiste
+Niveau: 90
+Livre: Alchimie experte IX
+Catégorie: Médicament
+Matériaux: 1 Eau extrêmement dure, 1 Eau chimérique de vitalité V, 1 Sable éthéréen de la lune de l'aube
+Cristaux: 3 Agrégat d'eau, 3 Agrégat de foudre
+Total fabriqué: 3
+Difficulté: 3900
+Solidité: 70
+Qualité maximum: 10920
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté requise : 3180 ou plus, Contrôle requis : 3080 ou plus
+Degré: 2
 
 Nom: Philtre chimérique sur commande de restauration (4e phase)
 Classe: Alchimiste
@@ -104863,6 +107608,21 @@ Qualité: 50 max.
 Conditions: Synthèse rapide impossible, Habileté requise : 275 ou plus, Haute qualité impossible
 Degré: 2
 
+Nom: Pilier usine désaffectée
+Classe: Forgeron
+Niveau: 90
+Livre: 
+Catégorie: Meuble
+Matériaux: 1 Enduit couleur rouille, 7 Lingot de manganèse, 7 Lingot de bismuth
+Cristaux: 8 Cristal de feu, 8 Cristal de terre
+Total fabriqué: 1
+Difficulté: 3500
+Solidité: 80
+Qualité maximum: 7200
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté recommandée : 2805, Haute qualité impossible
+Degré: 2
+
 Nom: Pilon parfait
 Classe: Forgeron
 Niveau: 50
@@ -104951,6 +107711,21 @@ Solidité: 70
 Qualité maximum: 7900
 Qualité: 50 max.
 Conditions: Habileté requise : 2140 ou plus, Contrôle requis : 1990 ou plus, Synthèse rapide : Habileté >= 2480
+Degré: 2
+
+Nom: Pioche des associés
+Classe: Forgeron
+Niveau: 90
+Livre: Métallurgie experte IX
+Catégorie: Outil principal de mineur
+Matériaux: 3 Danburite d'Éblana, 3 Lingot d'adamantium sélénien, 1 Madrier d'arbre intégral, 2 Potion alchimique immuable, 1 Sable éthéréen pélagique
+Cristaux: 3 Agrégat de feu, 3 Agrégat de terre
+Total fabriqué: 1
+Difficulté: 4300
+Solidité: 70
+Qualité maximum: 12800
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté requise : 3240 ou plus, Contrôle requis : 3130 ou plus
 Degré: 2
 
 Nom: Pioche en acier
@@ -105388,6 +108163,21 @@ Qualité: 50 max.
 Conditions: Synthèse rapide impossible, Habileté requise : 850 ou plus, Contrôle requis : 820 ou plus
 Degré: 2
 
+Nom: Pistolame classique
+Classe: Forgeron
+Niveau: 90
+Livre: Métallurgie experte IX
+Catégorie: Arme de pistosabreur
+Matériaux: 3 Lingot d'adamantium sélénien, 2 Lingot de rhodium, 1 Lingot de chondrite, 2 Eau chimérique de vitalité VI, 1 Sable éthéréen sylvestre
+Cristaux: 3 Agrégat de feu, 3 Agrégat de terre
+Total fabriqué: 1
+Difficulté: 3900
+Solidité: 70
+Qualité maximum: 10920
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté requise : 3180 ou plus, Contrôle requis : 3080 ou plus
+Degré: 2
+
 Nom: Pistolame de Shinryu flamboyante
 Classe: Forgeron
 Niveau: 70
@@ -105416,6 +108206,21 @@ Solidité: 70
 Qualité maximum: 9500
 Qualité: 50 max.
 Conditions: Habileté requise : 2620 ou plus, Contrôle requis : 2540 ou plus, Synthèse rapide : Habileté >= 2900
+Degré: 2
+
+Nom: Pistolame de la Table ronde
+Classe: Forgeron
+Niveau: 60
+Livre: Métallurgie experte IV
+Catégorie: Arme de pistosabreur
+Matériaux: 3 Lingot de mithrite noble, 1 Lingot de fer primordial, 3 Lingot de platine, 3 Fibre lumineuse, 5 Demi-matéria de l'art militaire III
+Cristaux: 3 Agrégat de feu, 2 Agrégat de terre
+Total fabriqué: 1
+Difficulté: 880
+Solidité: 70
+Qualité maximum: 3300
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté requise : 850 ou plus, Contrôle requis : 820 ou plus
 Degré: 2
 
 Nom: Pistolame en acier domien
@@ -106166,6 +108971,21 @@ Solidité: 80
 Qualité maximum: 1375
 Qualité: 50 max.
 Conditions: Synthèse rapide impossible, Habileté requise : 391 ou plus, Contrôle requis : 374 ou plus, Haute qualité impossible
+Degré: 3
+
+Nom: Plafonnier coerthien
+Classe: Forgeron
+Niveau: 60
+Livre: 
+Catégorie: Luminaire
+Matériaux: 6 Pépite de titane, 6 Chandelle de suif, 4 Verre en cristal
+Cristaux: 6 Cristal de feu, 5 Cristal de terre
+Total fabriqué: 1
+Difficulté: 580
+Solidité: 70
+Qualité maximum: 2700
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté recommandée : 587, Haute qualité impossible
 Degré: 3
 
 Nom: Plafonnier noscéen
@@ -107038,6 +109858,21 @@ Qualité: 50 max.
 Conditions: Synthèse rapide impossible, Habileté recommandée : 129, Haute qualité impossible
 Degré: 3
 
+Nom: Poignet d'attaquant classique
+Classe: Menuisier
+Niveau: 90
+Livre: Menuiserie experte IX
+Catégorie: Bracelet
+Matériaux: 2 Madrier de mempisang, 1 Quartz étoilé, 1 Eau chimérique de force VI, 1 Sable éthéréen mégalithique
+Cristaux: 3 Agrégat de vent, 3 Agrégat de glace
+Total fabriqué: 1
+Difficulté: 3900
+Solidité: 70
+Qualité maximum: 10920
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté requise : 3180 ou plus, Contrôle requis : 3080 ou plus
+Degré: 3
+
 Nom: Poignet d'attaquant en quartz étoilé
 Classe: Orfèvre
 Niveau: 89
@@ -107051,6 +109886,21 @@ Solidité: 80
 Qualité maximum: 7100
 Qualité: 50 max.
 Conditions: Habileté recommandée : 2748
+Degré: 3
+
+Nom: Poignet d'incantateur classique
+Classe: Menuisier
+Niveau: 90
+Livre: Menuiserie experte IX
+Catégorie: Bracelet
+Matériaux: 2 Madrier de mempisang, 1 Quartz étoilé, 1 Eau chimérique d'intelligence VI, 1 Sable éthéréen mégalithique
+Cristaux: 3 Agrégat de vent, 3 Agrégat de glace
+Total fabriqué: 1
+Difficulté: 3900
+Solidité: 70
+Qualité maximum: 10920
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté requise : 3180 ou plus, Contrôle requis : 3080 ou plus
 Degré: 3
 
 Nom: Poignet d'incantateur en quartz étoilé
@@ -107068,6 +109918,21 @@ Qualité: 50 max.
 Conditions: Habileté recommandée : 2748
 Degré: 3
 
+Nom: Poignet de pisteur classique
+Classe: Menuisier
+Niveau: 90
+Livre: Menuiserie experte IX
+Catégorie: Bracelet
+Matériaux: 2 Madrier de mempisang, 1 Quartz étoilé, 1 Eau chimérique de dextérité VI, 1 Sable éthéréen mégalithique
+Cristaux: 3 Agrégat de vent, 3 Agrégat de glace
+Total fabriqué: 1
+Difficulté: 3900
+Solidité: 70
+Qualité maximum: 10920
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté requise : 3180 ou plus, Contrôle requis : 3080 ou plus
+Degré: 3
+
 Nom: Poignet de pisteur en quartz étoilé
 Classe: Orfèvre
 Niveau: 89
@@ -107083,6 +109948,21 @@ Qualité: 50 max.
 Conditions: Habileté recommandée : 2748
 Degré: 3
 
+Nom: Poignet de protecteur classique
+Classe: Menuisier
+Niveau: 90
+Livre: Menuiserie experte IX
+Catégorie: Bracelet
+Matériaux: 2 Madrier de mempisang, 1 Quartz étoilé, 1 Eau chimérique de vitalité VI, 1 Sable éthéréen mégalithique
+Cristaux: 3 Agrégat de vent, 3 Agrégat de glace
+Total fabriqué: 1
+Difficulté: 3900
+Solidité: 70
+Qualité maximum: 10920
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté requise : 3180 ou plus, Contrôle requis : 3080 ou plus
+Degré: 3
+
 Nom: Poignet de protecteur en quartz étoilé
 Classe: Orfèvre
 Niveau: 89
@@ -107096,6 +109976,21 @@ Solidité: 80
 Qualité maximum: 7100
 Qualité: 50 max.
 Conditions: Habileté recommandée : 2748
+Degré: 3
+
+Nom: Poignet de soigneur classique
+Classe: Menuisier
+Niveau: 90
+Livre: Menuiserie experte IX
+Catégorie: Bracelet
+Matériaux: 2 Madrier de mempisang, 1 Quartz étoilé, 1 Eau chimérique d'esprit VI, 1 Sable éthéréen mégalithique
+Cristaux: 3 Agrégat de vent, 3 Agrégat de glace
+Total fabriqué: 1
+Difficulté: 3900
+Solidité: 70
+Qualité maximum: 10920
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté requise : 3180 ou plus, Contrôle requis : 3080 ou plus
 Degré: 3
 
 Nom: Poignet de soigneur en quartz étoilé
@@ -107863,6 +110758,21 @@ Qualité: 50 max.
 Conditions: Habileté recommandée : 99
 Degré: 3
 
+Nom: Poings-de-fer de Susano flamboyants
+Classe: Forgeron
+Niveau: 70
+Livre: Métallurgie experte VI
+Catégorie: Arme de pugiliste
+Matériaux: 3 Lingot de chromite, 2 Cuir de vrai griffon, 2 Lingot de molybdène, 1 Lame de Susano, 5 Demi-cristal
+Cristaux: 7 Cristal de feu, 7 Cristal de terre
+Total fabriqué: 1
+Difficulté: 1200
+Solidité: 70
+Qualité maximum: 4800
+Qualité: 50 max.
+Conditions: Recette de spécialiste, Synthèse rapide impossible, Habileté recommandée : 1320
+Degré: 3
+
 Nom: Poings-de-fer rakshasa
 Classe: Forgeron
 Niveau: 70
@@ -108148,6 +111058,21 @@ Qualité: 50 max.
 Conditions: Habileté recommandée : 1079
 Degré: 4
 
+Nom: Pont blanc couvert de lierre
+Classe: Orfèvre
+Niveau: 90
+Livre: 
+Catégorie: Meuble de jardin
+Matériaux: 1 Marbre des profondeurs, 12 Granit, 4 Pousse noscéenne, 4 Formule de croissance kappa
+Cristaux: 32 Cristal de vent, 32 Cristal de feu
+Total fabriqué: 1
+Difficulté: 3500
+Solidité: 80
+Qualité maximum: 7200
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté recommandée : 2805, Haute qualité impossible
+Degré: 2
+
 Nom: Pont de bois oriental
 Classe: Menuisier
 Niveau: 60
@@ -108208,6 +111133,21 @@ Qualité: 50 max.
 Conditions: Habileté requise : 1320 ou plus, Contrôle requis : 1220 ou plus, Synthèse rapide : Habileté >= 1500
 Degré: 1
 
+Nom: Portail de jardin
+Classe: Forgeron
+Niveau: 90
+Livre: 
+Catégorie: Meuble de jardin
+Matériaux: 8 Lingot de chondrite, 4 Lingot de plomb-étain, 8 Granit
+Cristaux: 32 Cristal de feu, 32 Cristal de terre
+Total fabriqué: 1
+Difficulté: 3500
+Solidité: 80
+Qualité maximum: 7200
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté recommandée : 2805, Haute qualité impossible
+Degré: 2
+
 Nom: Porte arquée sombrelinçoise
 Classe: Menuisier
 Niveau: 32
@@ -108253,6 +111193,21 @@ Qualité: 50 max.
 Conditions: Synthèse rapide impossible, Habileté recommandée : 1866, Haute qualité impossible
 Degré: 2
 
+Nom: Porte boisée coerthienne
+Classe: Menuisier
+Niveau: 60
+Livre: 
+Catégorie: Porte
+Matériaux: 5 Madrier de châtaignier sombre, 3 Pépite de titane, 2 Pierre de pavement
+Cristaux: 6 Cristal de vent, 5 Cristal de glace
+Total fabriqué: 1
+Difficulté: 580
+Solidité: 70
+Qualité maximum: 2700
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté recommandée : 587, Haute qualité impossible
+Degré: 2
+
 Nom: Porte boisée noscéenne
 Classe: Menuisier
 Niveau: 32
@@ -108266,6 +111221,21 @@ Solidité: 80
 Qualité maximum: 475
 Qualité: 50 max.
 Conditions: Synthèse rapide impossible, Habileté recommandée : 121, Haute qualité impossible
+Degré: 3
+
+Nom: Porte classique coerthienne
+Classe: Menuisier
+Niveau: 60
+Livre: 
+Catégorie: Porte
+Matériaux: 4 Madrier de châtaignier sanctifié, 3 Pépite de titane, 2 Pierre de pavement
+Cristaux: 6 Cristal de vent, 5 Cristal de glace
+Total fabriqué: 1
+Difficulté: 580
+Solidité: 70
+Qualité maximum: 2700
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté recommandée : 587, Haute qualité impossible
 Degré: 3
 
 Nom: Porte classique sombrelinçoise
@@ -108373,6 +111343,21 @@ Qualité: 50 max.
 Conditions: Synthèse rapide impossible, Habileté recommandée : 1037, Haute qualité impossible
 Degré: 2
 
+Nom: Porte ornée coerthienne
+Classe: Armurier
+Niveau: 60
+Livre: 
+Catégorie: Porte
+Matériaux: 5 Pépite de titane, 3 Madrier de châtaignier sombre, 2 Plaque de verre incolore
+Cristaux: 6 Cristal de glace, 5 Cristal de terre
+Total fabriqué: 1
+Difficulté: 580
+Solidité: 70
+Qualité maximum: 2700
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté recommandée : 587, Haute qualité impossible
+Degré: 3
+
 Nom: Porte ornée noscéenne
 Classe: Forgeron
 Niveau: 27
@@ -108446,6 +111431,21 @@ Solidité: 80
 Qualité maximum: 2300
 Qualité: 50 max.
 Conditions: Synthèse rapide impossible, Habileté recommandée : 1866, Haute qualité impossible
+Degré: 2
+
+Nom: Porte-bûches
+Classe: Forgeron
+Niveau: 90
+Livre: 
+Catégorie: Meuble
+Matériaux: 7 Lingot de chondrite, 4 Lingot de manganèse, 1 Bûches de bois
+Cristaux: 8 Cristal de feu, 8 Cristal de terre
+Total fabriqué: 1
+Difficulté: 3500
+Solidité: 80
+Qualité maximum: 7200
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté recommandée : 2805, Haute qualité impossible
 Degré: 2
 
 Nom: Porte-chapeau
@@ -108807,6 +111807,21 @@ Qualité maximum: 2255
 Qualité: 0 max.
 Conditions: Synthèse rapide impossible, Habileté recommandée : 1539
 Degré: 1
+
+Nom: Potage à la citrouille
+Classe: Cuisinier
+Niveau: 90
+Livre: Cuisine experte IX
+Catégorie: Plat ou boisson
+Matériaux: 1 Citrouille géante, 1 Épices naturelles, 2 Sel de table des mers du Nord, 1 Lait d'ovibos, 1 Oignon extraterrestre, 1 Eau céleste
+Cristaux: 3 Agrégat de feu, 3 Agrégat d'eau
+Total fabriqué: 3
+Difficulté: 3900
+Solidité: 70
+Qualité maximum: 10920
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté requise : 3180 ou plus, Contrôle requis : 3080 ou plus
+Degré: 2
 
 Nom: Potager de botaniste
 Classe: Alchimiste
@@ -109948,6 +112963,21 @@ Qualité: 50 max.
 Conditions: Habileté recommandée : 99
 Degré: 3
 
+Nom: Poêle à frire arkasodara des associés
+Classe: Armurier
+Niveau: 90
+Livre: Armurerie experte IX
+Catégorie: Outil principal de cuisinier
+Matériaux: 3 Danburite d'Éblana, 3 Lingot d'adamantium sélénien, 1 Lingot de chondrite, 2 Potion alchimique immuable, 1 Sable éthéréen sylvestre
+Cristaux: 3 Agrégat de glace, 3 Agrégat de terre
+Total fabriqué: 1
+Difficulté: 4300
+Solidité: 70
+Qualité maximum: 12800
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté requise : 3240 ou plus, Contrôle requis : 3130 ou plus
+Degré: 2
+
 Nom: Poêle à frire bombo
 Classe: Armurier
 Niveau: 27
@@ -111088,6 +114118,36 @@ Qualité: 50 max.
 Conditions: Habileté recommandée : 67
 Degré: 3
 
+Nom: Protège-tête d'eques classique
+Classe: Armurier
+Niveau: 90
+Livre: Armurerie experte IX
+Catégorie: Tête
+Matériaux: 2 Lingot d'adamantium sélénien, 1 Étoffe de soie dorée, 1 Lingot de chondrite, 2 Eau chimérique de force VI, 1 Sable éthéréen sylvestre
+Cristaux: 3 Agrégat de glace, 3 Agrégat de terre
+Total fabriqué: 1
+Difficulté: 3900
+Solidité: 70
+Qualité maximum: 10920
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté requise : 3180 ou plus, Contrôle requis : 3080 ou plus
+Degré: 2
+
+Nom: Protège-tête d'hoplomachus classique
+Classe: Armurier
+Niveau: 90
+Livre: Armurerie experte IX
+Catégorie: Tête
+Matériaux: 2 Lingot d'adamantium sélénien, 1 Lingot de rhodium, 1 Lingot de chondrite, 2 Eau chimérique de vitalité VI, 1 Sable éthéréen sylvestre
+Cristaux: 3 Agrégat de glace, 3 Agrégat de terre
+Total fabriqué: 1
+Difficulté: 3900
+Solidité: 70
+Qualité maximum: 10920
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté requise : 3180 ou plus, Contrôle requis : 3080 ou plus
+Degré: 2
+
 Nom: Protège-tête d'incantateur en azuresprit
 Classe: Armurier
 Niveau: 74
@@ -111853,6 +114913,21 @@ Qualité: 50 max.
 Conditions: Synthèse rapide impossible, Habileté recommandée : 570, Synthèse collectionnable uniquement
 Degré: 3
 
+Nom: Pâtes d'Elpis
+Classe: Cuisinier
+Niveau: 88
+Livre: 
+Catégorie: Plat ou boisson
+Matériaux: 1 Vermicelles, 1 Épaule de dzo, 1 Œuf d'oiseau d'Elpis, 1 Fromage garlemaldais, 2 Poivre sombre, 1 Crème grumeleuse
+Cristaux: 8 Cristal de feu, 8 Cristal d'eau
+Total fabriqué: 3
+Difficulté: 3300
+Solidité: 80
+Qualité maximum: 7000
+Qualité: 50 max.
+Conditions: Habileté recommandée : 2686
+Degré: 3
+
 Nom: Pâtes de restauration
 Classe: Cuisinier
 Niveau: 40
@@ -112588,6 +115663,21 @@ Qualité: 75 max.
 Conditions: Habileté recommandée : 1320
 Degré: 2
 
+Nom: Quoits de la Table ronde
+Classe: Forgeron
+Niveau: 60
+Livre: Métallurgie experte IV
+Catégorie: Arme de danseur
+Matériaux: 2 Lingot de mithrite noble, 2 Madrier de camphrier traité, 3 Lingot de platine, 3 Fibre lumineuse, 5 Demi-matéria de l'art militaire III
+Cristaux: 3 Agrégat de feu, 2 Agrégat de terre
+Total fabriqué: 1
+Difficulté: 880
+Solidité: 70
+Qualité maximum: 3300
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté requise : 850 ou plus, Contrôle requis : 820 ou plus
+Degré: 2
+
 Nom: Quân
 Classe: Couturier
 Niveau: 70
@@ -113188,6 +116278,21 @@ Qualité: 50 max.
 Conditions: Synthèse rapide impossible, Habileté recommandée : 1320
 Degré: 3
 
+Nom: Rapière de Susano flamboyante
+Classe: Orfèvre
+Niveau: 70
+Livre: Orfèvrerie experte VI
+Catégorie: Arme de mage rouge
+Matériaux: 4 Lingot de palladium, 1 Lingot de chromite, 2 Rhodonite, 1 Lame de Susano, 5 Demi-cristal
+Cristaux: 7 Cristal de vent, 7 Cristal de feu
+Total fabriqué: 1
+Difficulté: 1200
+Solidité: 70
+Qualité maximum: 4800
+Qualité: 50 max.
+Conditions: Recette de spécialiste, Synthèse rapide impossible, Habileté recommandée : 1320
+Degré: 3
+
 Nom: Rapière de Suzaku flamboyante
 Classe: Orfèvre
 Niveau: 70
@@ -113698,6 +116803,141 @@ Qualité: 50 max.
 Conditions: Contrôle requis : 318 ou plus, Synthèse rapide : Contrôle >= 374
 Degré: 3
 
+Nom: Ras de cou byregotia blanche
+Classe: Alchimiste
+Niveau: 74
+Livre: 
+Catégorie: Collier
+Matériaux: 1 Bouquet de byregotias blanches, 1 Graisse d'ours, 1 Eau de source des hauts plateaux
+Cristaux: 7 Cristal d'eau, 6 Cristal de foudre
+Total fabriqué: 1
+Difficulté: 1360
+Solidité: 80
+Qualité maximum: 4000
+Qualité: 0 max.
+Conditions: Habileté recommandée : 1498
+Degré: 1
+
+Nom: Ras de cou byregotia bleue
+Classe: Alchimiste
+Niveau: 74
+Livre: 
+Catégorie: Collier
+Matériaux: 1 Bouquet de byregotias bleues, 1 Graisse d'ours, 1 Eau de source des hauts plateaux
+Cristaux: 7 Cristal d'eau, 6 Cristal de foudre
+Total fabriqué: 1
+Difficulté: 1360
+Solidité: 80
+Qualité maximum: 4000
+Qualité: 0 max.
+Conditions: Habileté recommandée : 1498
+Degré: 1
+
+Nom: Ras de cou byregotia jaune
+Classe: Alchimiste
+Niveau: 74
+Livre: 
+Catégorie: Collier
+Matériaux: 1 Bouquet de byregotias jaunes, 1 Graisse d'ours, 1 Eau de source des hauts plateaux
+Cristaux: 7 Cristal d'eau, 6 Cristal de foudre
+Total fabriqué: 1
+Difficulté: 1360
+Solidité: 80
+Qualité maximum: 4000
+Qualité: 0 max.
+Conditions: Habileté recommandée : 1498
+Degré: 1
+
+Nom: Ras de cou byregotia multicolore
+Classe: Alchimiste
+Niveau: 74
+Livre: 
+Catégorie: Collier
+Matériaux: 1 Bouquet de byregotias multicolores, 1 Graisse d'ours, 1 Eau de source des hauts plateaux
+Cristaux: 7 Cristal d'eau, 6 Cristal de foudre
+Total fabriqué: 1
+Difficulté: 1360
+Solidité: 80
+Qualité maximum: 4000
+Qualité: 0 max.
+Conditions: Habileté recommandée : 1498
+Degré: 1
+
+Nom: Ras de cou byregotia noire
+Classe: Alchimiste
+Niveau: 74
+Livre: 
+Catégorie: Collier
+Matériaux: 1 Bouquet de byregotias noires, 1 Graisse d'ours, 1 Eau de source des hauts plateaux
+Cristaux: 7 Cristal d'eau, 6 Cristal de foudre
+Total fabriqué: 1
+Difficulté: 1360
+Solidité: 80
+Qualité maximum: 4000
+Qualité: 0 max.
+Conditions: Habileté recommandée : 1498
+Degré: 1
+
+Nom: Ras de cou byregotia orange
+Classe: Alchimiste
+Niveau: 74
+Livre: 
+Catégorie: Collier
+Matériaux: 1 Bouquet de byregotias orange, 1 Graisse d'ours, 1 Eau de source des hauts plateaux
+Cristaux: 7 Cristal d'eau, 6 Cristal de foudre
+Total fabriqué: 1
+Difficulté: 1360
+Solidité: 80
+Qualité maximum: 4000
+Qualité: 0 max.
+Conditions: Habileté recommandée : 1498
+Degré: 1
+
+Nom: Ras de cou byregotia rouge
+Classe: Alchimiste
+Niveau: 74
+Livre: 
+Catégorie: Collier
+Matériaux: 1 Bouquet de byregotias rouges, 1 Graisse d'ours, 1 Eau de source des hauts plateaux
+Cristaux: 7 Cristal d'eau, 6 Cristal de foudre
+Total fabriqué: 1
+Difficulté: 1360
+Solidité: 80
+Qualité maximum: 4000
+Qualité: 0 max.
+Conditions: Habileté recommandée : 1498
+Degré: 1
+
+Nom: Ras de cou byregotia verte
+Classe: Alchimiste
+Niveau: 74
+Livre: 
+Catégorie: Collier
+Matériaux: 1 Bouquet de byregotias vertes, 1 Graisse d'ours, 1 Eau de source des hauts plateaux
+Cristaux: 7 Cristal d'eau, 6 Cristal de foudre
+Total fabriqué: 1
+Difficulté: 1360
+Solidité: 80
+Qualité maximum: 4000
+Qualité: 0 max.
+Conditions: Habileté recommandée : 1498
+Degré: 1
+
+Nom: Ras de cou byregotia violette
+Classe: Alchimiste
+Niveau: 74
+Livre: 
+Catégorie: Collier
+Matériaux: 1 Bouquet de byregotias violettes, 1 Graisse d'ours, 1 Eau de source des hauts plateaux
+Cristaux: 7 Cristal d'eau, 6 Cristal de foudre
+Total fabriqué: 1
+Difficulté: 1360
+Solidité: 80
+Qualité maximum: 4000
+Qualité: 0 max.
+Conditions: Habileté recommandée : 1498
+Degré: 1
+
 Nom: Ras de cou d'agent impérial
 Classe: Orfèvre
 Niveau: 50
@@ -113712,6 +116952,21 @@ Qualité maximum: 2200
 Qualité: 50 max.
 Conditions: Contrôle requis : 255 ou plus, Synthèse rapide : Contrôle >= 318
 Degré: 2
+
+Nom: Ras de cou d'attaquant classique
+Classe: Tanneur
+Niveau: 90
+Livre: Tannerie experte IX
+Catégorie: Collier
+Matériaux: 1 Cuir d'amynodon, 1 Lingot de rhodium, 1 Quartz étoilé, 1 Eau chimérique de force VI, 1 Sable éthéréen mégalithique
+Cristaux: 3 Agrégat de terre, 3 Agrégat de vent
+Total fabriqué: 1
+Difficulté: 3900
+Solidité: 70
+Qualité maximum: 10920
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté requise : 3180 ou plus, Contrôle requis : 3080 ou plus
+Degré: 3
 
 Nom: Ras de cou d'attaquant de l'exarchat
 Classe: Menuisier
@@ -114012,6 +117267,21 @@ Qualité maximum: 8500
 Qualité: 50 max.
 Conditions: Habileté requise : 2480 ou plus, Contrôle requis : 2195 ou plus, Synthèse rapide : Habileté >= 2620
 Degré: 2
+
+Nom: Ras de cou d'incantateur classique
+Classe: Tanneur
+Niveau: 90
+Livre: Tannerie experte IX
+Catégorie: Collier
+Matériaux: 1 Cuir d'amynodon, 1 Lingot de rhodium, 1 Quartz étoilé, 1 Eau chimérique d'intelligence VI, 1 Sable éthéréen mégalithique
+Cristaux: 3 Agrégat de terre, 3 Agrégat de vent
+Total fabriqué: 1
+Difficulté: 3900
+Solidité: 70
+Qualité maximum: 10920
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté requise : 3180 ou plus, Contrôle requis : 3080 ou plus
+Degré: 3
 
 Nom: Ras de cou d'incantateur de l'exarchat
 Classe: Menuisier
@@ -114343,6 +117613,21 @@ Qualité: 50 max.
 Conditions: Contrôle requis : 255 ou plus, Synthèse rapide : Contrôle >= 318
 Degré: 2
 
+Nom: Ras de cou de pisteur classique
+Classe: Tanneur
+Niveau: 90
+Livre: Tannerie experte IX
+Catégorie: Collier
+Matériaux: 1 Cuir d'amynodon, 1 Lingot de rhodium, 1 Quartz étoilé, 1 Eau chimérique de dextérité VI, 1 Sable éthéréen mégalithique
+Cristaux: 3 Agrégat de terre, 3 Agrégat de vent
+Total fabriqué: 1
+Difficulté: 3900
+Solidité: 70
+Qualité maximum: 10920
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté requise : 3180 ou plus, Contrôle requis : 3080 ou plus
+Degré: 3
+
 Nom: Ras de cou de pisteur de l'exarchat
 Classe: Menuisier
 Niveau: 80
@@ -114643,6 +117928,21 @@ Qualité: 50 max.
 Conditions: Habileté requise : 2480 ou plus, Contrôle requis : 2195 ou plus, Synthèse rapide : Habileté >= 2620
 Degré: 2
 
+Nom: Ras de cou de protecteur classique
+Classe: Tanneur
+Niveau: 90
+Livre: Tannerie experte IX
+Catégorie: Collier
+Matériaux: 1 Cuir d'amynodon, 1 Lingot de rhodium, 1 Quartz étoilé, 1 Eau chimérique de vitalité VI, 1 Sable éthéréen mégalithique
+Cristaux: 3 Agrégat de terre, 3 Agrégat de vent
+Total fabriqué: 1
+Difficulté: 3900
+Solidité: 70
+Qualité maximum: 10920
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté requise : 3180 ou plus, Contrôle requis : 3080 ou plus
+Degré: 3
+
 Nom: Ras de cou de protecteur de l'exarchat
 Classe: Menuisier
 Niveau: 80
@@ -114942,6 +118242,21 @@ Qualité maximum: 8500
 Qualité: 50 max.
 Conditions: Habileté requise : 2480 ou plus, Contrôle requis : 2195 ou plus, Synthèse rapide : Habileté >= 2620
 Degré: 2
+
+Nom: Ras de cou de soigneur classique
+Classe: Tanneur
+Niveau: 90
+Livre: Tannerie experte IX
+Catégorie: Collier
+Matériaux: 1 Cuir d'amynodon, 1 Lingot de rhodium, 1 Quartz étoilé, 1 Eau chimérique d'esprit VI, 1 Sable éthéréen mégalithique
+Cristaux: 3 Agrégat de terre, 3 Agrégat de vent
+Total fabriqué: 1
+Difficulté: 3900
+Solidité: 70
+Qualité maximum: 10920
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté requise : 3180 ou plus, Contrôle requis : 3080 ou plus
+Degré: 3
 
 Nom: Ras de cou de soigneur de l'exarchat
 Classe: Menuisier
@@ -115993,6 +119308,21 @@ Qualité: 50 max.
 Conditions: Habileté recommandée : 129
 Degré: 2
 
+Nom: Ratatouille à la citrouille
+Classe: Cuisinier
+Niveau: 90
+Livre: Cuisine experte IX
+Catégorie: Plat ou boisson
+Matériaux: 1 Citrouille géante, 1 Épices naturelles, 2 Huile de périlla, 1 Concombre, 1 Tomate sanguine, 1 Ail garlemaldais
+Cristaux: 3 Agrégat de feu, 3 Agrégat d'eau
+Total fabriqué: 3
+Difficulté: 3900
+Solidité: 70
+Qualité maximum: 10920
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté requise : 3180 ou plus, Contrôle requis : 3080 ou plus
+Degré: 2
+
 Nom: Ravageuse
 Classe: Forgeron
 Niveau: 50
@@ -116278,6 +119608,21 @@ Qualité: 50 max.
 Conditions: Habileté requise : 2480 ou plus, Contrôle requis : 2195 ou plus, Synthèse rapide : Habileté >= 2620
 Degré: 2
 
+Nom: Revêtement mural amaurotain
+Classe: Orfèvre
+Niveau: 90
+Livre: 
+Catégorie: Tapisserie
+Matériaux: 8 Granit, 5 Pierre à aiguiser en annite, 5 Onyx, 4 Pot de mortier
+Cristaux: 8 Cristal de vent, 8 Cristal de feu
+Total fabriqué: 1
+Difficulté: 3500
+Solidité: 80
+Qualité maximum: 7200
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté recommandée : 2805, Haute qualité impossible
+Degré: 3
+
 Nom: Revêtement mural bleu tempête
 Classe: Alchimiste
 Niveau: 80
@@ -116336,6 +119681,21 @@ Solidité: 80
 Qualité maximum: 1100
 Qualité: 50 max.
 Conditions: Synthèse rapide impossible, Habileté requise : 275 ou plus, Haute qualité impossible
+Degré: 3
+
+Nom: Revêtement mural coerthien
+Classe: Alchimiste
+Niveau: 60
+Livre: 
+Catégorie: Tapisserie
+Matériaux: 8 Granit, 5 Madrier de châtaignier sombre, 5 Pierre à aiguiser en mica blanc, 4 Pot de mortier
+Cristaux: 6 Cristal d'eau, 5 Cristal de foudre
+Total fabriqué: 1
+Difficulté: 580
+Solidité: 70
+Qualité maximum: 2700
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté recommandée : 587, Haute qualité impossible
 Degré: 3
 
 Nom: Revêtement mural de pierres apparentes
@@ -116757,6 +120117,21 @@ Qualité maximum: 2880
 Qualité: 0 max.
 Conditions: Habileté recommandée : 1079
 Degré: 1
+
+Nom: Rideau de lierre
+Classe: Alchimiste
+Niveau: 90
+Livre: 
+Catégorie: Mobilier mural
+Matériaux: 3 Pousse noscéenne, 3 Pousse sombrelinçoise, 3 Formule de croissance kappa
+Cristaux: 8 Cristal d'eau, 8 Cristal de foudre
+Total fabriqué: 1
+Difficulté: 3500
+Solidité: 80
+Qualité maximum: 7200
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté recommandée : 2805, Haute qualité impossible
+Degré: 2
 
 Nom: Rideau de scène
 Classe: Couturier
@@ -118318,6 +121693,21 @@ Qualité: 50 max.
 Conditions: Synthèse rapide impossible, Habileté recommandée : 587, Synthèse collectionnable uniquement
 Degré: 2
 
+Nom: Rouet des associés
+Classe: Menuisier
+Niveau: 90
+Livre: Menuiserie experte IX
+Catégorie: Outil secondaire de couturier
+Matériaux: 3 Danburite d'Éblana, 3 Madrier de mempisang, 1 Cuir d'ophiotauros, 2 Potion alchimique immuable, 1 Sable éthéréen mégalithique
+Cristaux: 3 Agrégat de vent, 3 Agrégat de glace
+Total fabriqué: 1
+Difficulté: 4300
+Solidité: 70
+Qualité maximum: 12800
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté requise : 3240 ou plus, Contrôle requis : 3130 ou plus
+Degré: 2
+
 Nom: Rouet en acajou
 Classe: Menuisier
 Niveau: 40
@@ -118948,6 +122338,21 @@ Qualité: 50 max.
 Conditions: Synthèse rapide impossible, Habileté requise : 620 ou plus, Haute qualité impossible
 Degré: 2
 
+Nom: Rouleau "Endcaller"
+Classe: Alchimiste
+Niveau: 90
+Livre: Alchimie experte VIII
+Catégorie: Rouleau pour orchestrion
+Matériaux: 1 Rouleau d'orchestrion vierge III, 1 Encre de manganèse enchantée, 1 Rouleau abîmé "Endcaller"
+Cristaux: 3 Agrégat d'eau, 3 Agrégat de foudre
+Total fabriqué: 1
+Difficulté: 3700
+Solidité: 80
+Qualité maximum: 7400
+Qualité: 50 max.
+Conditions: Recette de spécialiste, Synthèse rapide impossible, Habileté recommandée : 2924, Haute qualité impossible
+Degré: 2
+
 Nom: Rouleau "Engage"
 Classe: Alchimiste
 Niveau: 60
@@ -119518,6 +122923,21 @@ Qualité: 50 max.
 Conditions: Synthèse rapide impossible, Habileté recommandée : 106, Haute qualité impossible
 Degré: 2
 
+Nom: Rouleau "The Final Day"
+Classe: Alchimiste
+Niveau: 90
+Livre: Alchimie experte IX
+Catégorie: Rouleau pour orchestrion
+Matériaux: 1 Rouleau d'orchestrion vierge III, 1 Encre de manganèse enchantée, 1 Rouleau abîmé "The Final Day"
+Cristaux: 3 Agrégat d'eau, 3 Agrégat de foudre
+Total fabriqué: 1
+Difficulté: 3700
+Solidité: 80
+Qualité maximum: 7400
+Qualité: 50 max.
+Conditions: Recette de spécialiste, Synthèse rapide impossible, Habileté recommandée : 2924, Haute qualité impossible
+Degré: 2
+
 Nom: Rouleau "The Hand that Gives the Rose"
 Classe: Alchimiste
 Niveau: 60
@@ -119773,6 +123193,21 @@ Qualité: 50 max.
 Conditions: Synthèse rapide impossible, Habileté requise : 2000 ou plus, Contrôle requis : 1860 ou plus, Haute qualité impossible
 Degré: 2
 
+Nom: Rouleau "With Hearts Aligned"
+Classe: Alchimiste
+Niveau: 90
+Livre: Alchimie experte IX
+Catégorie: Rouleau pour orchestrion
+Matériaux: 1 Rouleau d'orchestrion vierge III, 1 Encre de manganèse enchantée, 1 Rouleau abîmé "The Final Day"
+Cristaux: 3 Agrégat d'eau, 3 Agrégat de foudre
+Total fabriqué: 1
+Difficulté: 3700
+Solidité: 80
+Qualité maximum: 7400
+Qualité: 50 max.
+Conditions: Recette de spécialiste, Synthèse rapide impossible, Habileté recommandée : 2924, Haute qualité impossible
+Degré: 2
+
 Nom: Rouleau "Woe that Is Madness"
 Classe: Alchimiste
 Niveau: 60
@@ -119802,6 +123237,21 @@ Qualité maximum: 1375
 Qualité: 50 max.
 Conditions: Synthèse rapide impossible, Habileté requise : 391 ou plus, Contrôle requis : 374 ou plus, Haute qualité impossible
 Degré: 3
+
+Nom: Rouleau "Your Answer"
+Classe: Alchimiste
+Niveau: 90
+Livre: Alchimie experte VIII
+Catégorie: Rouleau pour orchestrion
+Matériaux: 1 Rouleau d'orchestrion vierge III, 1 Encre de manganèse enchantée, 1 Rouleau abîmé "Your Answer"
+Cristaux: 3 Agrégat d'eau, 3 Agrégat de foudre
+Total fabriqué: 1
+Difficulté: 3700
+Solidité: 80
+Qualité maximum: 7400
+Qualité: 50 max.
+Conditions: Recette de spécialiste, Synthèse rapide impossible, Habileté recommandée : 2924, Haute qualité impossible
+Degré: 2
 
 Nom: Rouleau d'orchestrion vierge I
 Classe: Menuisier
@@ -124093,6 +127543,21 @@ Qualité: 50 max.
 Conditions: Synthèse rapide impossible, Habileté requise : 1320 ou plus, Contrôle requis : 1220 ou plus, Haute qualité impossible
 Degré: 3
 
+Nom: Sageburger
+Classe: Cuisinier
+Niveau: 90
+Livre: Cuisine experte IX
+Catégorie: Plat ou boisson
+Matériaux: 1 Viande de bœuf de premier choix, 1 Épices naturelles, 2 Farine de seigle noir, 1 Lait d'ovibos, 1 Laitue iceberg, 1 Oignon extraterrestre
+Cristaux: 3 Agrégat de feu, 3 Agrégat d'eau
+Total fabriqué: 3
+Difficulté: 3900
+Solidité: 70
+Qualité maximum: 10920
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté requise : 3180 ou plus, Contrôle requis : 3080 ou plus
+Degré: 2
+
 Nom: Sagepain
 Classe: Cuisinier
 Niveau: 81
@@ -124128,7 +127593,7 @@ Classe: Cuisinier
 Niveau: 88
 Livre: 
 Catégorie: Plat ou boisson
-Matériaux: 1 Farine de seigle noir, 2 Laitue iceberg, 1 Hareng nordique, 1 Oignon extraterrestre, 1 Concombre
+Matériaux: 1 Farine de seigle noir, 2 Laitue iceberg, 1 Hareng nordique, 1 Œuf d'oiseau d'Elpis, 1 Oignon extraterrestre, 1 Concombre
 Cristaux: 8 Cristal de feu, 8 Cristal d'eau
 Total fabriqué: 3
 Difficulté: 3300
@@ -125383,6 +128848,21 @@ Qualité: 50 max.
 Conditions: Habileté recommandée : 502
 Degré: 4
 
+Nom: Saroual des créations des associés
+Classe: Couturier
+Niveau: 90
+Livre: Couture experte IX
+Catégorie: Jambes
+Matériaux: 4 Fibre thavnairoise, 3 Étoffe de soie dorée, 1 Velours de Caean, 2 Potion alchimique immuable, 1 Sable éthéréen mégalithique
+Cristaux: 3 Agrégat de foudre, 3 Agrégat de vent
+Total fabriqué: 1
+Difficulté: 4300
+Solidité: 70
+Qualité maximum: 12800
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté requise : 3240 ou plus, Contrôle requis : 3130 ou plus
+Degré: 2
+
 Nom: Saroual des créations en serge
 Classe: Couturier
 Niveau: 67
@@ -126628,6 +130108,21 @@ Qualité: 50 max.
 Conditions: Habileté recommandée : 150
 Degré: 3
 
+Nom: Scie ronde des associés
+Classe: Forgeron
+Niveau: 90
+Livre: Métallurgie experte IX
+Catégorie: Outil principal de menuisier
+Matériaux: 3 Danburite d'Éblana, 3 Lingot d'adamantium sélénien, 1 Cuir d'ophiotauros, 2 Potion alchimique immuable, 1 Sable éthéréen mégalithique
+Cristaux: 3 Agrégat de feu, 3 Agrégat de terre
+Total fabriqué: 1
+Difficulté: 4300
+Solidité: 70
+Qualité maximum: 12800
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté requise : 3240 ou plus, Contrôle requis : 3130 ou plus
+Degré: 2
+
 Nom: Scie ronde en adamantium
 Classe: Forgeron
 Niveau: 60
@@ -127018,6 +130513,36 @@ Qualité: 50 max.
 Conditions: Synthèse rapide impossible, Habileté requise : 451 ou plus, Contrôle requis : 407 ou plus
 Degré: 2
 
+Nom: Seringues en manganèse
+Classe: Orfèvre
+Niveau: 86
+Livre: 
+Catégorie: Arme de sage
+Matériaux: 2 Zircon bleu, 2 Lingot de manganèse, 1 Lingot d'or phrygien, 1 Pierre à aiguiser en annite
+Cristaux: 8 Cristal de vent, 8 Cristal de feu
+Total fabriqué: 1
+Difficulté: 3100
+Solidité: 80
+Qualité maximum: 6800
+Qualité: 50 max.
+Conditions: Habileté recommandée : 2590
+Degré: 3
+
+Nom: Seringues en or pétré
+Classe: Orfèvre
+Niveau: 72
+Livre: 
+Catégorie: Arme de sage
+Matériaux: 2 Lingot d'or pétré, 2 Lingot d'or incarnat, 1 Hématite, 1 Pierre à aiguiser en mudstone solide
+Cristaux: 6 Cristal de vent, 6 Cristal de feu
+Total fabriqué: 1
+Difficulté: 1220
+Solidité: 80
+Qualité maximum: 3800
+Qualité: 50 max.
+Conditions: Habileté recommandée : 1388
+Degré: 3
+
 Nom: Serres des rafales
 Classe: Forgeron
 Niveau: 50
@@ -127083,7 +130608,7 @@ Classe: Couturier
 Niveau: 70
 Livre: Couture experte VI
 Catégorie: Meuble de jardin
-Matériaux: 3 Thé de la Steppe, 3 Sandwich à la Bismarck, 2 Étoffe de kudzu, 1 Fil de rubicoton, 3 Paille
+Matériaux: 3 Thé de la steppe, 3 Sandwich à la Bismarck, 2 Étoffe de kudzu, 1 Fil de rubicoton, 3 Paille
 Cristaux: 2 Agrégat de foudre, 2 Agrégat de vent
 Total fabriqué: 1
 Difficulté: 1200
@@ -127105,7 +130630,7 @@ Difficulté: 2250
 Solidité: 80
 Qualité maximum: 4020
 Qualité: 0 max.
-Conditions: Synthèse rapide impossible, Habileté recommandée : 2549
+Conditions: Synthèse rapide impossible, Habileté recommandée : 2549, Gain d'expérience impossible
 Degré: 1
 
 Nom: Set d'écriture branché
@@ -127120,7 +130645,7 @@ Difficulté: 2250
 Solidité: 80
 Qualité maximum: 4020
 Qualité: 0 max.
-Conditions: Synthèse rapide impossible, Habileté recommandée : 2549
+Conditions: Synthèse rapide impossible, Habileté recommandée : 2549, Gain d'expérience impossible
 Degré: 1
 
 Nom: Set d'écriture branché
@@ -127135,7 +130660,7 @@ Difficulté: 2250
 Solidité: 80
 Qualité maximum: 4020
 Qualité: 0 max.
-Conditions: Synthèse rapide impossible, Habileté recommandée : 2549
+Conditions: Synthèse rapide impossible, Habileté recommandée : 2549, Gain d'expérience impossible
 Degré: 1
 
 Nom: Set de pique-nique oriental douillet
@@ -128358,7 +131883,7 @@ Classe: Cuisinier
 Niveau: 90
 Livre: 
 Catégorie: Plat ou boisson
-Matériaux: 2 Oignon extraterrestre, 1 Bouillon de poulet, 1 Farine de blé des plateaux, 1 Fromage garlemaldais, 1 Sel de table des mers du Nord
+Matériaux: 2 Oignon extraterrestre, 1 Bouillon de poulet, 1 Farine de blé des plateaux, 1 Œuf d'oiseau d'Elpis, 1 Fromage garlemaldais, 1 Sel de table des mers du Nord
 Cristaux: 8 Cristal de feu, 8 Cristal d'eau
 Total fabriqué: 3
 Difficulté: 3500
@@ -129358,6 +132883,21 @@ Qualité: 50 max.
 Conditions: Synthèse rapide impossible, Habileté requise : 1650 ou plus, Contrôle requis : 1600 ou plus, Haute qualité impossible
 Degré: 3
 
+Nom: Statuette de poroggo
+Classe: Menuisier
+Niveau: 86
+Livre: 
+Catégorie: Meuble de jardin
+Matériaux: 7 Rondin de bois de fer, 7 Rondin de pin sylvestre, 4 Glu sélénienne
+Cristaux: 8 Cristal de vent, 8 Cristal de glace
+Total fabriqué: 1
+Difficulté: 3100
+Solidité: 80
+Qualité maximum: 6800
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté recommandée : 2590, Haute qualité impossible
+Degré: 2
+
 Nom: Steak de bouquetin
 Classe: Cuisinier
 Niveau: 26
@@ -129853,6 +133393,21 @@ Qualité: 50 max.
 Conditions: Habileté requise : 1100 ou plus, Contrôle requis : 1080 ou plus, Synthèse rapide : Habileté >= 1320
 Degré: 2
 
+Nom: Suspension coerthienne
+Classe: Forgeron
+Niveau: 60
+Livre: 
+Catégorie: Luminaire
+Matériaux: 5 Lingot de mithrite, 6 Chandelle de suif, 4 Plaque de verre incolore
+Cristaux: 6 Cristal de feu, 5 Cristal de terre
+Total fabriqué: 1
+Difficulté: 580
+Solidité: 70
+Qualité maximum: 2700
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté recommandée : 587, Haute qualité impossible
+Degré: 3
+
 Nom: Suspension noscéenne
 Classe: Forgeron
 Niveau: 21
@@ -129928,36 +133483,6 @@ Qualité: 50 max.
 Conditions: Habileté recommandée : 2805
 Degré: 2
 
-Nom: Syringes en manganèse
-Classe: Orfèvre
-Niveau: 86
-Livre: 
-Catégorie: Arme de sage
-Matériaux: 2 Zircon bleu, 2 Lingot de manganèse, 1 Lingot d'or phrygien, 1 Pierre à aiguiser en annite
-Cristaux: 8 Cristal de vent, 8 Cristal de feu
-Total fabriqué: 1
-Difficulté: 3100
-Solidité: 80
-Qualité maximum: 6800
-Qualité: 50 max.
-Conditions: Habileté recommandée : 2590
-Degré: 3
-
-Nom: Syringes en or pétré
-Classe: Orfèvre
-Niveau: 72
-Livre: 
-Catégorie: Arme de sage
-Matériaux: 2 Lingot d'or pétré, 2 Lingot d'or incarnat, 1 Hématite, 1 Pierre à aiguiser en mudstone solide
-Cristaux: 6 Cristal de vent, 6 Cristal de feu
-Total fabriqué: 1
-Difficulté: 1220
-Solidité: 80
-Qualité maximum: 3800
-Qualité: 50 max.
-Conditions: Habileté recommandée : 1388
-Degré: 3
-
 Nom: Système photogène
 Classe: Orfèvre
 Niveau: 50
@@ -130031,6 +133556,21 @@ Solidité: 70
 Qualité maximum: 4800
 Qualité: 50 max.
 Conditions: Synthèse rapide impossible, Habileté recommandée : 1320
+Degré: 2
+
+Nom: Sûtra de Susano flamboyant
+Classe: Alchimiste
+Niveau: 70
+Livre: Alchimie experte VI
+Catégorie: Arme d'arcaniste
+Matériaux: 3 Cuir de vrai griffon, 2 Madrier de kaya, 2 Encre de palladium enchantée, 1 Lame de Susano, 5 Demi-cristal
+Cristaux: 7 Cristal d'eau, 7 Cristal de foudre
+Total fabriqué: 1
+Difficulté: 1200
+Solidité: 70
+Qualité maximum: 4800
+Qualité: 50 max.
+Conditions: Recette de spécialiste, Synthèse rapide impossible, Habileté recommandée : 1320
 Degré: 2
 
 Nom: Sûtra de Suzaku flamboyant
@@ -131233,6 +134773,21 @@ Qualité: 50 max.
 Conditions: Synthèse rapide impossible, Habileté recommandée : 150, Haute qualité impossible
 Degré: 3
 
+Nom: Tachi de Susano flamboyant
+Classe: Forgeron
+Niveau: 70
+Livre: Métallurgie experte VI
+Catégorie: Arme de samouraï
+Matériaux: 4 Lingot de chromite, 1 Cuir de vrai griffon, 2 Lingot de molybdène, 1 Lame de Susano, 5 Demi-cristal
+Cristaux: 7 Cristal de feu, 7 Cristal de terre
+Total fabriqué: 1
+Difficulté: 1200
+Solidité: 70
+Qualité maximum: 4800
+Qualité: 50 max.
+Conditions: Recette de spécialiste, Synthèse rapide impossible, Habileté recommandée : 1320
+Degré: 3
+
 Nom: Tachi en acier domien
 Classe: Forgeron
 Niveau: 67
@@ -131952,6 +135507,21 @@ Qualité maximum: 2750
 Qualité: 50 max.
 Conditions: Synthèse rapide impossible, Habileté requise : 391 ou plus, Contrôle requis : 374 ou plus
 Degré: 3
+
+Nom: Tarte à la pêche
+Classe: Cuisinier
+Niveau: 90
+Livre: Cuisine experte IX
+Catégorie: Plat ou boisson
+Matériaux: 1 Pêche blanche, 1 Épices naturelles, 2 Farine de seigle noir, 1 Œuf d'oiseau d'Elpis, 1 Lait d'ovibos, 1 Eau céleste
+Cristaux: 3 Agrégat de feu, 3 Agrégat d'eau
+Total fabriqué: 3
+Difficulté: 3900
+Solidité: 70
+Qualité maximum: 10920
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté requise : 3180 ou plus, Contrôle requis : 3080 ou plus
+Degré: 2
 
 Nom: Tarte à la tomate
 Classe: Cuisinier
@@ -135253,6 +138823,21 @@ Qualité: 50 max.
 Conditions: Contrôle requis : 255 ou plus, Synthèse rapide : Contrôle >= 318
 Degré: 3
 
+Nom: Tenailles des associés
+Classe: Forgeron
+Niveau: 90
+Livre: Métallurgie experte IX
+Catégorie: Outil secondaire d'armurier
+Matériaux: 3 Danburite d'Éblana, 3 Lingot d'adamantium sélénien, 1 Madrier d'arbre intégral, 2 Potion alchimique immuable, 1 Sable éthéréen sylvestre
+Cristaux: 3 Agrégat de feu, 3 Agrégat de terre
+Total fabriqué: 1
+Difficulté: 4300
+Solidité: 70
+Qualité maximum: 12800
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté requise : 3240 ou plus, Contrôle requis : 3130 ou plus
+Degré: 2
+
 Nom: Tenailles en acier
 Classe: Forgeron
 Niveau: 35
@@ -135718,7 +139303,7 @@ Qualité: 50 max.
 Conditions: Synthèse rapide impossible, Habileté recommandée : 2140
 Degré: 2
 
-Nom: Thé de la Steppe
+Nom: Thé de la steppe
 Classe: Cuisinier
 Niveau: 70
 Livre: Cuisine experte V
@@ -136213,6 +139798,21 @@ Qualité: 0 max.
 Conditions: Habileté requise : 275 ou plus, Synthèse rapide : Habileté >= 347
 Degré: 1
 
+Nom: Toit de maisonnette composite coerthienne
+Classe: Alchimiste
+Niveau: 60
+Livre: 
+Catégorie: Toit
+Matériaux: 10 Madrier de châtaignier sombre, 5 Pierre de pavement, 5 Brique, 10 Patte en fer, 10 Pot de mortier
+Cristaux: 12 Cristal d'eau, 8 Cristal de foudre
+Total fabriqué: 1
+Difficulté: 580
+Solidité: 70
+Qualité maximum: 2700
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté recommandée : 587, Haute qualité impossible
+Degré: 3
+
 Nom: Toit de maisonnette composite noscéenne
 Classe: Menuisier
 Niveau: 19
@@ -136258,6 +139858,21 @@ Qualité: 50 max.
 Conditions: Synthèse rapide impossible, Habileté recommandée : 94, Haute qualité impossible
 Degré: 3
 
+Nom: Toit de maisonnette en bois coerthienne
+Classe: Menuisier
+Niveau: 60
+Livre: 
+Catégorie: Toit
+Matériaux: 10 Madrier de châtaignier sombre, 5 Pierre de pavement, 5 Tuile, 10 Patte en fer, 10 Pot de mortier
+Cristaux: 12 Cristal de vent, 8 Cristal de glace
+Total fabriqué: 1
+Difficulté: 580
+Solidité: 70
+Qualité maximum: 2700
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté recommandée : 587, Haute qualité impossible
+Degré: 3
+
 Nom: Toit de maisonnette en bois noscéenne
 Classe: Alchimiste
 Niveau: 20
@@ -136301,6 +139916,21 @@ Solidité: 70
 Qualité maximum: 285
 Qualité: 50 max.
 Conditions: Synthèse rapide impossible, Habileté recommandée : 94, Haute qualité impossible
+Degré: 3
+
+Nom: Toit de maisonnette en pierre coerthienne
+Classe: Armurier
+Niveau: 60
+Livre: 
+Catégorie: Toit
+Matériaux: 10 Pépite de titane, 5 Pierre de pavement, 5 Tuile, 10 Patte en fer, 10 Pot de mortier
+Cristaux: 12 Cristal de glace, 8 Cristal de terre
+Total fabriqué: 1
+Difficulté: 580
+Solidité: 70
+Qualité maximum: 2700
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté recommandée : 587, Haute qualité impossible
 Degré: 3
 
 Nom: Toit de maisonnette en pierre noscéenne
@@ -136393,6 +140023,21 @@ Qualité: 50 max.
 Conditions: Synthèse rapide impossible, Habileté recommandée : 1006, Haute qualité impossible
 Degré: 3
 
+Nom: Toit de pavillon composite coerthien
+Classe: Alchimiste
+Niveau: 60
+Livre: 
+Catégorie: Toit
+Matériaux: 10 Madrier de châtaignier sombre, 10 Pierre de pavement, 10 Brique, 15 Patte en acier, 15 Pot de mortier
+Cristaux: 16 Cristal d'eau, 12 Cristal de foudre
+Total fabriqué: 1
+Difficulté: 580
+Solidité: 70
+Qualité maximum: 2700
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté recommandée : 587, Haute qualité impossible
+Degré: 3
+
 Nom: Toit de pavillon composite noscéen
 Classe: Menuisier
 Niveau: 35
@@ -136438,6 +140083,21 @@ Qualité: 50 max.
 Conditions: Synthèse rapide impossible, Habileté recommandée : 129, Haute qualité impossible
 Degré: 3
 
+Nom: Toit de pavillon en bois coerthien
+Classe: Menuisier
+Niveau: 60
+Livre: 
+Catégorie: Toit
+Matériaux: 10 Madrier de châtaignier sombre, 10 Pierre de pavement, 10 Tuile, 15 Patte en acier, 15 Pot de mortier
+Cristaux: 16 Cristal de vent, 12 Cristal de glace
+Total fabriqué: 1
+Difficulté: 580
+Solidité: 70
+Qualité maximum: 2700
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté recommandée : 587, Haute qualité impossible
+Degré: 3
+
 Nom: Toit de pavillon en bois noscéen
 Classe: Alchimiste
 Niveau: 36
@@ -136481,6 +140141,21 @@ Solidité: 80
 Qualité maximum: 670
 Qualité: 50 max.
 Conditions: Synthèse rapide impossible, Habileté recommandée : 136, Haute qualité impossible
+Degré: 3
+
+Nom: Toit de pavillon en pierre coerthien
+Classe: Armurier
+Niveau: 60
+Livre: 
+Catégorie: Toit
+Matériaux: 10 Pépite de titane, 10 Pierre de pavement, 10 Tuile, 15 Patte en acier, 15 Pot de mortier
+Cristaux: 16 Cristal de glace, 12 Cristal de terre
+Total fabriqué: 1
+Difficulté: 580
+Solidité: 70
+Qualité maximum: 2700
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté recommandée : 587, Haute qualité impossible
 Degré: 3
 
 Nom: Toit de pavillon en pierre noscéen
@@ -136573,6 +140248,21 @@ Qualité: 50 max.
 Conditions: Synthèse rapide impossible, Habileté recommandée : 1044, Haute qualité impossible
 Degré: 3
 
+Nom: Toit de villa composite coerthienne
+Classe: Alchimiste
+Niveau: 60
+Livre: 
+Catégorie: Toit
+Matériaux: 10 Madrier de châtaignier sombre, 15 Pierre de pavement, 15 Brique, 20 Patte en cobalt, 20 Pot de mortier
+Cristaux: 20 Cristal d'eau, 20 Cristal de foudre
+Total fabriqué: 1
+Difficulté: 580
+Solidité: 70
+Qualité maximum: 2700
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté recommandée : 587, Haute qualité impossible
+Degré: 3
+
 Nom: Toit de villa composite noscéenne
 Classe: Menuisier
 Niveau: 50
@@ -136618,6 +140308,21 @@ Qualité: 50 max.
 Conditions: Synthèse rapide impossible, Habileté requise : 275 ou plus, Haute qualité impossible
 Degré: 3
 
+Nom: Toit de villa en bois coerthienne
+Classe: Menuisier
+Niveau: 60
+Livre: 
+Catégorie: Toit
+Matériaux: 10 Madrier de châtaignier sombre, 15 Pierre de pavement, 15 Tuile, 20 Patte en cobalt, 20 Pot de mortier
+Cristaux: 20 Cristal de vent, 20 Cristal de glace
+Total fabriqué: 1
+Difficulté: 580
+Solidité: 70
+Qualité maximum: 2700
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté recommandée : 587, Haute qualité impossible
+Degré: 3
+
 Nom: Toit de villa en bois noscéenne
 Classe: Alchimiste
 Niveau: 50
@@ -136661,6 +140366,21 @@ Solidité: 80
 Qualité maximum: 1100
 Qualité: 50 max.
 Conditions: Synthèse rapide impossible, Habileté requise : 275 ou plus, Haute qualité impossible
+Degré: 3
+
+Nom: Toit de villa en pierre coerthienne
+Classe: Armurier
+Niveau: 60
+Livre: 
+Catégorie: Toit
+Matériaux: 10 Pépite de titane, 15 Pierre de pavement, 15 Tuile, 20 Patte en cobalt, 20 Pot de mortier
+Cristaux: 20 Cristal de glace, 20 Cristal de terre
+Total fabriqué: 1
+Difficulté: 580
+Solidité: 70
+Qualité maximum: 2700
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté recommandée : 587, Haute qualité impossible
 Degré: 3
 
 Nom: Toit de villa en pierre noscéenne
@@ -136782,6 +140502,21 @@ Qualité maximum: 2350
 Qualité: 50 max.
 Conditions: Habileté recommandée : 539
 Degré: 3
+
+Nom: Tonfas classiques
+Classe: Forgeron
+Niveau: 90
+Livre: Métallurgie experte IX
+Catégorie: Arme de pugiliste
+Matériaux: 3 Lingot d'adamantium sélénien, 2 Madrier de mempisang, 1 Lingot de chondrite, 2 Eau chimérique de force VI, 1 Sable éthéréen mégalithique
+Cristaux: 3 Agrégat de feu, 3 Agrégat de terre
+Total fabriqué: 1
+Difficulté: 3900
+Solidité: 70
+Qualité maximum: 10920
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté requise : 3180 ou plus, Contrôle requis : 3080 ou plus
+Degré: 2
 
 Nom: Tonfas en bismuth
 Classe: Forgeron
@@ -136992,6 +140727,51 @@ Qualité maximum: 850
 Qualité: 50 max.
 Conditions: Synthèse rapide impossible, Habileté recommandée : 150, Haute qualité impossible
 Degré: 2
+
+Nom: Torques de poignets de medicus classiques
+Classe: Orfèvre
+Niveau: 90
+Livre: Orfèvrerie experte IX
+Catégorie: Mains
+Matériaux: 2 Lingot de rhodium, 1 Lingot d'adamantium sélénien, 1 Quartz étoilé, 2 Eau chimérique d'esprit VI, 1 Sable éthéréen mégalithique
+Cristaux: 3 Agrégat de vent, 3 Agrégat de feu
+Total fabriqué: 1
+Difficulté: 3900
+Solidité: 70
+Qualité maximum: 10920
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté requise : 3180 ou plus, Contrôle requis : 3080 ou plus
+Degré: 3
+
+Nom: Torques de poignets de sagittarius classiques
+Classe: Couturier
+Niveau: 90
+Livre: Couture experte IX
+Catégorie: Mains
+Matériaux: 2 Étoffe de soie dorée, 1 Lingot de rhodium, 1 Cuir d'ophiotauros, 2 Eau chimérique de dextérité VI, 1 Sable éthéréen mégalithique
+Cristaux: 3 Agrégat de foudre, 3 Agrégat de vent
+Total fabriqué: 1
+Difficulté: 3900
+Solidité: 70
+Qualité maximum: 10920
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté requise : 3180 ou plus, Contrôle requis : 3080 ou plus
+Degré: 2
+
+Nom: Torquetum classique
+Classe: Orfèvre
+Niveau: 90
+Livre: Orfèvrerie experte IX
+Catégorie: Arme d'astromancien
+Matériaux: 3 Lingot de rhodium, 2 Lingot d'adamantium sélénien, 1 Quartz étoilé, 2 Eau chimérique d'esprit VI, 1 Sable éthéréen pélagique
+Cristaux: 3 Agrégat de vent, 3 Agrégat de feu
+Total fabriqué: 1
+Difficulté: 3900
+Solidité: 70
+Qualité maximum: 10920
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté requise : 3180 ou plus, Contrôle requis : 3080 ou plus
+Degré: 3
 
 Nom: Tour de guet hingashienne (mokuzo)
 Classe: Menuisier
@@ -137922,6 +141702,36 @@ Qualité maximum: 4250
 Qualité: 50 max.
 Conditions: Synthèse rapide impossible, Habileté recommandée : 2480, Haute qualité impossible
 Degré: 2
+
+Nom: Trophée de la Lumière divine
+Classe: Armurier
+Niveau: 90
+Livre: Armurerie experte VIII
+Catégorie: Mobilier de table
+Matériaux: 1 Cristal de la Lumière divine, 3 Lingot de chondrite, 2 Madrier d'arbre intégral, 1 Quartz étoilé
+Cristaux: 3 Agrégat de glace, 3 Agrégat de terre
+Total fabriqué: 1
+Difficulté: 3700
+Solidité: 80
+Qualité maximum: 7400
+Qualité: 50 max.
+Conditions: Recette de spécialiste, Synthèse rapide impossible, Habileté recommandée : 2924, Haute qualité impossible
+Degré: 3
+
+Nom: Trophée des Ténèbres infinies
+Classe: Armurier
+Niveau: 90
+Livre: Armurerie experte VIII
+Catégorie: Mobilier de table
+Matériaux: 1 Cristal des Ténèbres infinies, 3 Lingot de chondrite, 2 Madrier d'arbre intégral, 1 Quartz étoilé
+Cristaux: 3 Agrégat de glace, 3 Agrégat de terre
+Total fabriqué: 1
+Difficulté: 3700
+Solidité: 80
+Qualité maximum: 7400
+Qualité: 50 max.
+Conditions: Recette de spécialiste, Synthèse rapide impossible, Habileté recommandée : 2924, Haute qualité impossible
+Degré: 3
 
 Nom: Trophée du Dragon-dieu
 Classe: Forgeron
@@ -138957,6 +142767,21 @@ Qualité maximum: 3420
 Qualité: 50 max.
 Conditions: Habileté recommandée : 1069
 Degré: 3
+
+Nom: Turban des créations des associés
+Classe: Couturier
+Niveau: 90
+Livre: Couture experte IX
+Catégorie: Tête
+Matériaux: 3 Fibre thavnairoise, 2 Étoffe de soie dorée, 1 Velours de Caean, 1 Potion alchimique immuable, 1 Sable éthéréen sylvestre
+Cristaux: 3 Agrégat de foudre, 3 Agrégat de vent
+Total fabriqué: 1
+Difficulté: 4300
+Solidité: 70
+Qualité maximum: 12800
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté requise : 3240 ou plus, Contrôle requis : 3130 ou plus
+Degré: 2
 
 Nom: Turban des créations en akaso
 Classe: Couturier
@@ -140443,6 +144268,21 @@ Qualité: 50 max.
 Conditions: Synthèse rapide impossible, Habileté recommandée : 99, Haute qualité impossible
 Degré: 3
 
+Nom: Vases de fleurs en noyer
+Classe: Alchimiste
+Niveau: 86
+Livre: 
+Catégorie: Mobilier de table
+Matériaux: 4 Madrier de noyer, 2 Bulbes de tulipe, 2 Graines de rosier ancien, 4 Terreau de feuilles, 4 Formule de croissance kappa
+Cristaux: 8 Cristal d'eau, 8 Cristal de foudre
+Total fabriqué: 1
+Difficulté: 3100
+Solidité: 80
+Qualité maximum: 6800
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté recommandée : 2590, Haute qualité impossible
+Degré: 2
+
 Nom: Vasque de mercadonies
 Classe: Alchimiste
 Niveau: 33
@@ -141598,6 +145438,21 @@ Qualité: 0 max.
 Conditions: Synthèse rapide impossible, Habileté requise : 2480 ou plus, Contrôle requis : 2195 ou plus, Recettes avancées, Synthèse collectionnable uniquement
 Degré: 1
 
+Nom: Échalas classique
+Classe: Menuisier
+Niveau: 90
+Livre: Menuiserie experte IX
+Catégorie: Arme à deux mains d'occultiste
+Matériaux: 3 Madrier de mempisang, 2 Lingot d'adamantium sélénien, 1 Madrier d'arbre intégral, 2 Eau chimérique d'intelligence VI, 1 Sable éthéréen sylvestre
+Cristaux: 3 Agrégat de vent, 3 Agrégat de glace
+Total fabriqué: 1
+Difficulté: 3900
+Solidité: 70
+Qualité maximum: 10920
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté requise : 3180 ou plus, Contrôle requis : 3080 ou plus
+Degré: 2
+
 Nom: Échalas du Maître des lames
 Classe: Orfèvre
 Niveau: 60
@@ -141851,6 +145706,21 @@ Solidité: 70
 Qualité maximum: 4800
 Qualité: 50 max.
 Conditions: Synthèse rapide impossible, Habileté recommandée : 1320
+Degré: 2
+
+Nom: Écrit de Susano flamboyant
+Classe: Alchimiste
+Niveau: 70
+Livre: Alchimie experte VI
+Catégorie: Arme d'érudit
+Matériaux: 2 Cuir de vrai griffon, 3 Madrier de kaya, 2 Encre de palladium enchantée, 1 Lame de Susano, 5 Demi-cristal
+Cristaux: 7 Cristal d'eau, 7 Cristal de foudre
+Total fabriqué: 1
+Difficulté: 1200
+Solidité: 70
+Qualité maximum: 4800
+Qualité: 50 max.
+Conditions: Recette de spécialiste, Synthèse rapide impossible, Habileté recommandée : 1320
 Degré: 2
 
 Nom: Écrit de Suzaku flamboyant
@@ -143413,6 +147283,21 @@ Qualité: 50 max.
 Conditions: Synthèse rapide impossible, Habileté recommandée : 1320
 Degré: 3
 
+Nom: Éphéméridosphère de Susano flamboyante
+Classe: Orfèvre
+Niveau: 70
+Livre: Orfèvrerie experte VI
+Catégorie: Arme d'astromancien
+Matériaux: 3 Lingot de palladium, 2 Lingot de chromite, 2 Rhodonite, 1 Lame de Susano, 5 Demi-cristal
+Cristaux: 7 Cristal de vent, 7 Cristal de feu
+Total fabriqué: 1
+Difficulté: 1200
+Solidité: 70
+Qualité maximum: 4800
+Qualité: 50 max.
+Conditions: Recette de spécialiste, Synthèse rapide impossible, Habileté recommandée : 1320
+Degré: 3
+
 Nom: Éphéméridosphère de Suzaku flamboyante
 Classe: Orfèvre
 Niveau: 70
@@ -143801,6 +147686,21 @@ Solidité: 80
 Qualité maximum: 1280
 Qualité: 50 max.
 Conditions: Habileté recommandée : 129
+Degré: 2
+
+Nom: Épée longue classique
+Classe: Forgeron
+Niveau: 90
+Livre: Métallurgie experte IX
+Catégorie: Arme de gladiateur
+Matériaux: 3 Lingot d'adamantium sélénien, 1 Lingot de chondrite, 1 Eau chimérique de vitalité VI, 1 Sable éthéréen sylvestre
+Cristaux: 3 Agrégat de feu, 3 Agrégat de terre
+Total fabriqué: 1
+Difficulté: 3900
+Solidité: 70
+Qualité maximum: 10920
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté requise : 3180 ou plus, Contrôle requis : 3080 ou plus
 Degré: 2
 
 Nom: Épée longue en acier
@@ -145257,6 +149157,21 @@ Qualité maximum: 2900
 Qualité: 50 max.
 Conditions: Habileté requise : 718 ou plus, Contrôle requis : 695 ou plus, Synthèse rapide : Habileté >= 850
 Degré: 2
+
+Nom: Étoffe de soie dorée
+Classe: Couturier
+Niveau: 90
+Livre: Couture experte IX
+Catégorie: Tissu
+Matériaux: 4 Cocon doré, 2 Fil de soie de Thavnair
+Cristaux: 3 Agrégat de foudre, 3 Agrégat de vent
+Total fabriqué: 1
+Difficulté: 2925
+Solidité: 35
+Qualité maximum: 7800
+Qualité: 0 max.
+Conditions: Synthèse rapide impossible, Habileté requise : 3180 ou plus, Contrôle requis : 3080 ou plus
+Degré: 1
 
 Nom: Étoffe de soie iridescente
 Classe: Couturier

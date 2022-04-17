@@ -100,12 +100,12 @@ Exemple de configuration :
 ```json
     "pageRecettes": {
         "activer": true,
-        "nombrePages": 195,
+        "nombrePages": 200,
         "fichierSortie": "Recettes.csv"
     },
 ```
 
-Il convient de modifier la configuration afin d'ajuster notamment le nombre de pages relatives aux recettes, soit 195 pour la version 6.00.
+Il convient de modifier la configuration afin d'ajuster notamment le nombre de pages relatives aux recettes, soit 200 pour la version 6.10.
 
 ### 3.4. Fonctionnalité de récupération des récoltes
 
@@ -121,7 +121,7 @@ Exemple de configuration :
     },
 ```
 
-Il convient de modifier la configuration afin d'ajuster notamment le nombre de pages relatives aux récoltes, soit 20 pour la version 6.00.
+Il convient de modifier la configuration afin d'ajuster notamment le nombre de pages relatives aux récoltes, soit 20 pour la version 6.10.
 
 ### 3.5. Fonctionnalité de gestion des personnages
 

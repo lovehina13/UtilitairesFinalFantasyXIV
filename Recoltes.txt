@@ -38,7 +38,7 @@ Classe: Botaniste
 Sous-classe: Coupe
 Niveau: 50
 Catégorie: Cristal
-Points de récolte: Mor Dhona - Mor Dhona - Rive nord de Pleurargent: 50 (intact)
+Points de récolte: Mor Dhona - Mor Dhona - Rive nord de Pleurargent: 50 (intact), Ilsabard - Thavnair - Résipiscence de Pavana: 90 (éphémère)
 
 Nom: Agrégat de feu
 Classe: Mineur
@@ -59,7 +59,7 @@ Classe: Mineur
 Sous-classe: Extraction de minerai
 Niveau: 50
 Catégorie: Cristal
-Points de récolte: Othard - Steppe d'Azim - Calcul de Ragill: 70 (éphémère), Norvrandt - Grand-Lac - Porte de l'Exarque: 80 (éphémère)
+Points de récolte: Othard - Steppe d'Azim - Calcul de Ragill: 70 (éphémère), Norvrandt - Grand-Lac - Porte de l'Exarque: 80 (éphémère), Ilsabard - Garlemald - Forum Patens: 90 (éphémère)
 
 Nom: Agrégat de foudre
 Classe: Mineur
@@ -157,7 +157,7 @@ Classe: Botaniste
 Sous-classe: Fauche
 Niveau: 50
 Catégorie: Cristal
-Points de récolte: Coerthas - Hautes terres du Coerthas occidental - Rougebord: 60 (éphémère), Abalathia - L'Écume des cieux d'Abalathia - Ok' Vundu Mok: 60 (éphémère), Othard - Yanxia - Bassin rutilant: 70 (éphémère), Norvrandt - Rak'tika - Astropole des K'mul: 80 (éphémère)
+Points de récolte: Coerthas - Hautes terres du Coerthas occidental - Rougebord: 60 (éphémère), Abalathia - L'Écume des cieux d'Abalathia - Ok' Vundu Mok: 60 (éphémère), Othard - Yanxia - Bassin rutilant: 70 (éphémère), Norvrandt - Rak'tika - Astropole des K'mul: 80 (éphémère), Mers du Nord - Le Labyrinthos - Logistikon gamma: 90 (éphémère)
 
 Nom: Agrégat de vent
 Classe: Mineur
@@ -234,14 +234,14 @@ Classe: Mineur
 Sous-classe: Extraction de pierre
 Niveau: 84
 Catégorie: Réactif
-Points de récolte: 
+Points de récolte: Ilsabard - Garlemald - Station d'observation G: 85
 
 Nom: Alun d'Éblana collectionnable
 Classe: Mineur
 Sous-classe: Extraction de pierre
 Niveau: 90
 Catégorie: Divers
-Points de récolte: 
+Points de récolte: Ilsabard - Garlemald - Horrea Campi: 90 (intact)
 
 Nom: Alun gyrabanien
 Classe: Mineur
@@ -367,14 +367,14 @@ Classe: Mineur
 Sous-classe: Extraction de minerai
 Niveau: 81
 Catégorie: Pierre
-Points de récolte: 
+Points de récolte: Mers du Nord - Le Labyrinthos - Tholos de l'Abondance: 85
 
 Nom: Amétrine brute collectionnable
 Classe: Mineur
 Sous-classe: Extraction de minerai
 Niveau: 81
 Catégorie: Divers
-Points de récolte: 
+Points de récolte: Mers du Nord - Le Labyrinthos - Psyché: 85 (intact)
 
 Nom: Ananas épineux
 Classe: Botaniste
@@ -444,7 +444,7 @@ Classe: Botaniste
 Sous-classe: Fauche
 Niveau: 86
 Catégorie: Réactif
-Points de récolte: 
+Points de récolte: Mers du Nord - Le Labyrinthos - Logistikon gamma: 90 (éphémère)
 
 Nom: Argile granuleuse
 Classe: Botaniste
@@ -563,7 +563,7 @@ Classe: Botaniste
 Sous-classe: Fauche
 Niveau: 84
 Catégorie: Ingrédient
-Points de récolte: 
+Points de récolte: Ilsabard - Garlemald - Gare de limes n°4: 85
 
 Nom: Betterave potagère
 Classe: Botaniste
@@ -1151,7 +1151,7 @@ Classe: Botaniste
 Sous-classe: Fauche
 Niveau: 83
 Catégorie: Ingrédient
-Points de récolte: 
+Points de récolte: Ilsabard - Garlemald - Gare de limes n°4: 85
 
 Nom: Corail collectionnable
 Classe: Botaniste
@@ -1270,28 +1270,28 @@ Classe: Mineur
 Sous-classe: Extraction de minerai
 Niveau: 26
 Catégorie: Cristal
-Points de récolte: Abalathia - L'Écume des cieux d'Abalathia - Voor Sian Siran: 60, Abalathia - L'Écume des cieux d'Abalathia - Dos-brisé: 75, Othard - Mer de Rubis - Fosse de Turquoise: 60, Othard - Mer de Rubis - Couvercle des enfers: 65, Norvrandt - Il Mheg - Thysm Lran: 70, Norvrandt - Il Mheg - Villégiature du Lettré: 75, Norvrandt - Rak'tika - Astropole des K'mul: 80 (éphémère), Norvrandt - Rak'tika - La Frairie sauvage: 80
+Points de récolte: Abalathia - L'Écume des cieux d'Abalathia - Voor Sian Siran: 60, Abalathia - L'Écume des cieux d'Abalathia - Dos-brisé: 75, Othard - Mer de Rubis - Fosse de Turquoise: 60, Othard - Mer de Rubis - Couvercle des enfers: 65, Norvrandt - Il Mheg - Thysm Lran: 70, Norvrandt - Il Mheg - Villégiature du Lettré: 75, Norvrandt - Rak'tika - Astropole des K'mul: 80 (éphémère), Norvrandt - Rak'tika - La Frairie sauvage: 80, Mers du Nord - Le Labyrinthos - Tholos de l'Abondance: 85
 
 Nom: Cristal d'eau
 Classe: Mineur
 Sous-classe: Extraction de pierre
 Niveau: 26
 Catégorie: Cristal
-Points de récolte: Thanalan - Thanalan occidental - Sources de Nophica: 30, Othard - Mer de Rubis - Rasen Kaikyo: 65, Othard - Mer de Rubis - Le Kobayashi Maru: 75, Norvrandt - Rak'tika - Conquête de Lozatl: 75
+Points de récolte: Thanalan - Thanalan occidental - Sources de Nophica: 30, Othard - Mer de Rubis - Rasen Kaikyo: 65, Othard - Mer de Rubis - Le Kobayashi Maru: 75, Norvrandt - Rak'tika - Conquête de Lozatl: 75, Mers du Nord - Le Labyrinthos - Acrinthos inférieur: 85
 
 Nom: Cristal de feu
 Classe: Botaniste
 Sous-classe: Coupe
 Niveau: 26
 Catégorie: Cristal
-Points de récolte: Noscea - Noscea centrale - Le Coude de Trois-Malms: 30, Noscea - Noscea centrale - Estival: 50, Dravania - Avant-pays dravanien - Terres fumantes: 55, Dravania - Avant-pays dravanien - Les Cent Râles: 75, Gyr Abania - Les Marges - Confins est: 65, Gyr Abania - Les Marges - Ternebois: 70, Gyr Abania - Les Marges - Virdjala: 75, Norvrandt - Amh Araeng - La Louche: 80
+Points de récolte: Noscea - Noscea centrale - Le Coude de Trois-Malms: 30, Noscea - Noscea centrale - Estival: 50, Dravania - Avant-pays dravanien - Terres fumantes: 55, Dravania - Avant-pays dravanien - Les Cent Râles: 75, Gyr Abania - Les Marges - Confins est: 65, Gyr Abania - Les Marges - Ternebois: 70, Gyr Abania - Les Marges - Virdjala: 75, Norvrandt - Amh Araeng - La Louche: 80, Ilsabard - Thavnair - Le Grand Œuvre: 85, Ilsabard - Thavnair - Résipiscence de Pavana: 90 (éphémère)
 
 Nom: Cristal de feu
 Classe: Botaniste
 Sous-classe: Fauche
 Niveau: 26
 Catégorie: Cristal
-Points de récolte: Dravania - Avant-pays dravanien - Forêt des chocobos: 55, Dravania - Avant-pays dravanien - Déclin d'Avalonia: 60, Gyr Abania - Les Marges - Confins est: 60, Gyr Abania - Les Marges - Ternebois: 65, Norvrandt - Amh Araeng - La Truffe: 70
+Points de récolte: Dravania - Avant-pays dravanien - Forêt des chocobos: 55, Dravania - Avant-pays dravanien - Déclin d'Avalonia: 60, Gyr Abania - Les Marges - Confins est: 60, Gyr Abania - Les Marges - Ternebois: 65, Norvrandt - Amh Araeng - La Truffe: 70, Ilsabard - Thavnair - Mines de fiel-de-géant: 85
 
 Nom: Cristal de feu
 Classe: Mineur
@@ -1326,14 +1326,14 @@ Classe: Mineur
 Sous-classe: Extraction de minerai
 Niveau: 26
 Catégorie: Cristal
-Points de récolte: Abalathia - L'Écume des cieux d'Abalathia - Voor Sian Siran: 60, Othard - Steppe d'Azim - Calcul de Ragill: 70 (éphémère), Norvrandt - Grand-Lac - Ivraie: 75, Norvrandt - Grand-Lac - Porte de l'Exarque: 80 (éphémère), Norvrandt - Grand-Lac - Église de l'Aurore: 80
+Points de récolte: Abalathia - L'Écume des cieux d'Abalathia - Voor Sian Siran: 60, Othard - Steppe d'Azim - Calcul de Ragill: 70 (éphémère), Norvrandt - Grand-Lac - Ivraie: 75, Norvrandt - Grand-Lac - Porte de l'Exarque: 80 (éphémère), Norvrandt - Grand-Lac - Église de l'Aurore: 80, Ilsabard - Garlemald - Forum Patens: 90 (éphémère)
 
 Nom: Cristal de foudre
 Classe: Mineur
 Sous-classe: Extraction de pierre
 Niveau: 26
 Catégorie: Cristal
-Points de récolte: Thanalan - Thanalan méridional - Eaux-Mortes: 30, Coerthas - Hautes terres du Coerthas occidental - Pont du Fer noir: 60 (éphémère), Abalathia - L'Écume des cieux d'Abalathia - Ok' Gundu: 60 (éphémère), Othard - Steppe d'Azim - Onsal Hakair: 70, Othard - Steppe d'Azim - Kahkol Iloh: 80
+Points de récolte: Thanalan - Thanalan méridional - Eaux-Mortes: 30, Coerthas - Hautes terres du Coerthas occidental - Pont du Fer noir: 60 (éphémère), Abalathia - L'Écume des cieux d'Abalathia - Ok' Gundu: 60 (éphémère), Othard - Steppe d'Azim - Onsal Hakair: 70, Othard - Steppe d'Azim - Kahkol Iloh: 80, Ilsabard - Garlemald - Station d'observation G: 85
 
 Nom: Cristal de glace
 Classe: Botaniste
@@ -1354,28 +1354,28 @@ Classe: Mineur
 Sous-classe: Extraction de minerai
 Niveau: 26
 Catégorie: Cristal
-Points de récolte: Coerthas - Hautes terres du Coerthas occidental - Deux-Rivières: 50, Coerthas - Hautes terres du Coerthas occidental - Prairie de Gorgagne: 55, Coerthas - Hautes terres du Coerthas occidental - Rougebord: 60, Coerthas - Hautes terres du Coerthas occidental - Lit d'os: 65, Gyr Abania - Les Lacs - Hautes berges: 70 (éphémère), Gyr Abania - Les Lacs - Jardins de la Reine: 75
+Points de récolte: Coerthas - Hautes terres du Coerthas occidental - Deux-Rivières: 50, Coerthas - Hautes terres du Coerthas occidental - Prairie de Gorgagne: 55, Coerthas - Hautes terres du Coerthas occidental - Rougebord: 60, Coerthas - Hautes terres du Coerthas occidental - Lit d'os: 65, Gyr Abania - Les Lacs - Hautes berges: 70 (éphémère), Gyr Abania - Les Lacs - Jardins de la Reine: 75, Ilsabard - Thavnair - Akyaali: 85
 
 Nom: Cristal de glace
 Classe: Mineur
 Sous-classe: Extraction de pierre
 Niveau: 26
 Catégorie: Cristal
-Points de récolte: Noscea - Noscea occidentale - Quartpierre: 30, Noscea - Noscea occidentale - Quartpierre: 50, Coerthas - Hautes terres du Coerthas occidental - Les Jumeaux: 55, Coerthas - Hautes terres du Coerthas occidental - Le Convictoire: 75
+Points de récolte: Noscea - Noscea occidentale - Quartpierre: 30, Noscea - Noscea occidentale - Quartpierre: 50, Coerthas - Hautes terres du Coerthas occidental - Les Jumeaux: 55, Coerthas - Hautes terres du Coerthas occidental - Le Convictoire: 75, Ilsabard - Thavnair - Couvoir des hamsa: 85
 
 Nom: Cristal de terre
 Classe: Botaniste
 Sous-classe: Coupe
 Niveau: 26
 Catégorie: Cristal
-Points de récolte: Forêt de Sombrelinceul - Forêt du nord - Sommière de la Paix: 30, Dravania - L'Écume des cieux de Dravania - Eil Tohm: 60, Gyr Abania - Les Pics - Pleur caché: 75, Norvrandt - Grand-Lac - Les mille Lacis: 75, Norvrandt - Grand-Lac - Le Guêpier: 80
+Points de récolte: Forêt de Sombrelinceul - Forêt du nord - Sommière de la Paix: 30, Dravania - L'Écume des cieux de Dravania - Eil Tohm: 60, Gyr Abania - Les Pics - Pleur caché: 75, Norvrandt - Grand-Lac - Les mille Lacis: 75, Norvrandt - Grand-Lac - Le Guêpier: 80, Ilsabard - Garlemald - Camp Bris-de-glace: 85
 
 Nom: Cristal de terre
 Classe: Botaniste
 Sous-classe: Fauche
 Niveau: 26
 Catégorie: Cristal
-Points de récolte: Dravania - Avant-pays dravanien - Déclin d'Avalonia: 60 (éphémère), Dravania - Arrière-pays dravanien - Arboretum Sainte-Mocianne: 60 (éphémère), Dravania - L'Écume des cieux de Dravania - Colonie des Maîtres terriens: 55, Dravania - L'Écume des cieux de Dravania - Fort-Heaume: 60, Dravania - L'Écume des cieux de Dravania - Clos-Vert: 60 (éphémère), Dravania - L'Écume des cieux de Dravania - Ohl Tahn: 65, Othard - Steppe d'Azim - Retraite de Nhaama: 70, Othard - Steppe d'Azim - Onsal Hakair: 80, Norvrandt - Grand-Lac - Forêt du Berger égaré: 75, Norvrandt - Grand-Lac - Dents-de-pierre: 80 (éphémère), Norvrandt - Grand-Lac - Ivraie: 80
+Points de récolte: Dravania - Avant-pays dravanien - Déclin d'Avalonia: 60 (éphémère), Dravania - Arrière-pays dravanien - Arboretum Sainte-Mocianne: 60 (éphémère), Dravania - L'Écume des cieux de Dravania - Colonie des Maîtres terriens: 55, Dravania - L'Écume des cieux de Dravania - Fort-Heaume: 60, Dravania - L'Écume des cieux de Dravania - Clos-Vert: 60 (éphémère), Dravania - L'Écume des cieux de Dravania - Ohl Tahn: 65, Othard - Steppe d'Azim - Retraite de Nhaama: 70, Othard - Steppe d'Azim - Onsal Hakair: 80, Norvrandt - Grand-Lac - Forêt du Berger égaré: 75, Norvrandt - Grand-Lac - Dents-de-pierre: 80 (éphémère), Norvrandt - Grand-Lac - Ivraie: 80, Ilsabard - Garlemald - Gare de limes n°4: 85
 
 Nom: Cristal de terre
 Classe: Mineur
@@ -1396,14 +1396,14 @@ Classe: Botaniste
 Sous-classe: Coupe
 Niveau: 26
 Catégorie: Cristal
-Points de récolte: Forêt de Sombrelinceul - Forêt centrale - Brancharquée: 30, Dravania - Arrière-pays dravanien - Quartier des Fabricateurs: 75, Othard - Yanxia - Envol du Héron: 65, Norvrandt - Rak'tika - Solide Serment: 75
+Points de récolte: Forêt de Sombrelinceul - Forêt centrale - Brancharquée: 30, Dravania - Arrière-pays dravanien - Quartier des Fabricateurs: 75, Othard - Yanxia - Envol du Héron: 65, Norvrandt - Rak'tika - Solide Serment: 75, Mers du Nord - Le Labyrinthos - Canal de drainage: 85
 
 Nom: Cristal de vent
 Classe: Botaniste
 Sous-classe: Fauche
 Niveau: 26
 Catégorie: Cristal
-Points de récolte: Coerthas - Hautes terres du Coerthas occidental - Rougebord: 60 (éphémère), Abalathia - L'Écume des cieux d'Abalathia - Ok' Vundu Mok: 60 (éphémère), Dravania - Arrière-pays dravanien - Quartier académique: 60, Dravania - Arrière-pays dravanien - Delta de Grand-Flot: 75, Othard - Yanxia - Bassin rutilant: 70 (éphémère), Othard - Yanxia - Doma: 70, Othard - Yanxia - Manoir des Yuzuka: 75, Norvrandt - Rak'tika - Géant accroupi: 75, Norvrandt - Rak'tika - Astropole des K'mul: 80 (éphémère), Norvrandt - Rak'tika - La Frairie sauvage: 80
+Points de récolte: Coerthas - Hautes terres du Coerthas occidental - Rougebord: 60 (éphémère), Abalathia - L'Écume des cieux d'Abalathia - Ok' Vundu Mok: 60 (éphémère), Dravania - Arrière-pays dravanien - Quartier académique: 60, Dravania - Arrière-pays dravanien - Delta de Grand-Flot: 75, Othard - Yanxia - Bassin rutilant: 70 (éphémère), Othard - Yanxia - Doma: 70, Othard - Yanxia - Manoir des Yuzuka: 75, Norvrandt - Rak'tika - Géant accroupi: 75, Norvrandt - Rak'tika - Astropole des K'mul: 80 (éphémère), Norvrandt - Rak'tika - La Frairie sauvage: 80, Mers du Nord - Le Labyrinthos - Laboratoire agronomique de Meryall: 85, Mers du Nord - Le Labyrinthos - Logistikon gamma: 90 (éphémère)
 
 Nom: Cristal de vent
 Classe: Mineur
@@ -1502,6 +1502,13 @@ Sous-classe: Extraction de minerai
 Niveau: 18
 Catégorie: Pierre
 Points de récolte: Noscea - Noscea occidentale - Vallée du Crâne: 20
+
+Nom: Danburite brute d'Éblana
+Classe: Mineur
+Sous-classe: Extraction de minerai
+Niveau: 90
+Catégorie: Pierre
+Points de récolte: 
 
 Nom: Diamant brut
 Classe: Mineur
@@ -1641,6 +1648,13 @@ Classe: Mineur
 Sous-classe: Extraction de minerai
 Niveau: 90
 Catégorie: Réactif
+Points de récolte: Ilsabard - Garlemald - Plateforme Juturna G: 90 (intact)
+
+Nom: Eau extrêmement dure
+Classe: Mineur
+Sous-classe: Extraction de pierre
+Niveau: 90
+Catégorie: Réactif
 Points de récolte: 
 
 Nom: Eau minérale extraordinaire de restauration (4e phase)
@@ -1705,6 +1719,13 @@ Sous-classe: Fauche
 Niveau: 66
 Catégorie: Ingrédient
 Points de récolte: Othard - Steppe d'Azim - Retraite de Nhaama: 70
+
+Nom: Feuille d'égarante
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 90
+Catégorie: Réactif
+Points de récolte: 
 
 Nom: Feuille de laurier de Menphina
 Classe: Botaniste
@@ -2656,14 +2677,14 @@ Classe: Botaniste
 Sous-classe: Fauche
 Niveau: 81
 Catégorie: Ingrédient
-Points de récolte: 
+Points de récolte: Mers du Nord - Le Labyrinthos - Laboratoire agronomique de Meryall: 85
 
 Nom: Laitue iceberg collectionnable
 Classe: Botaniste
 Sous-classe: Fauche
 Niveau: 90
 Catégorie: Divers
-Points de récolte: 
+Points de récolte: Mers du Nord - Le Labyrinthos - Logistikon bêta: 90 (intact)
 
 Nom: Laitue noscéenne
 Classe: Botaniste
@@ -2761,7 +2782,7 @@ Classe: Botaniste
 Sous-classe: Fauche
 Niveau: 83
 Catégorie: Ingrédient
-Points de récolte: 
+Points de récolte: Ilsabard - Garlemald - Gare de limes n°4: 85
 
 Nom: Lentilles lalafelles
 Classe: Botaniste
@@ -2775,7 +2796,7 @@ Classe: Botaniste
 Sous-classe: Fauche
 Niveau: 84
 Catégorie: Tissu
-Points de récolte: 
+Points de récolte: Ilsabard - Garlemald - Gare de limes n°4: 85
 
 Nom: Liquide isolant
 Classe: Botaniste
@@ -3078,6 +3099,13 @@ Niveau: 80
 Catégorie: Pierre
 Points de récolte: Abalathia - Azys Lla - Quadrant gamma: 80
 
+Nom: Minerai d'adamantium sélénien
+Classe: Mineur
+Sous-classe: Extraction de pierre
+Niveau: 90
+Catégorie: Pierre
+Points de récolte: 
+
 Nom: Minerai d'argent
 Classe: Mineur
 Sous-classe: Extraction de minerai
@@ -3125,14 +3153,14 @@ Classe: Mineur
 Sous-classe: Extraction de pierre
 Niveau: 83
 Catégorie: Pierre
-Points de récolte: 
+Points de récolte: Ilsabard - Garlemald - Station d'observation G: 85
 
 Nom: Minerai d'or phrygien collectionnable
 Classe: Mineur
 Sous-classe: Extraction de pierre
 Niveau: 87
 Catégorie: Divers
-Points de récolte: 
+Points de récolte: Ilsabard - Garlemald - Horrea Campi: 90 (intact)
 
 Nom: Minerai d'électrum
 Classe: Mineur
@@ -3300,14 +3328,14 @@ Classe: Mineur
 Sous-classe: Extraction de minerai
 Niveau: 82
 Catégorie: Pierre
-Points de récolte: 
+Points de récolte: Ilsabard - Thavnair - Akyaali: 85
 
 Nom: Minerai de durium noble collectionnable
 Classe: Mineur
 Sous-classe: Extraction de minerai
 Niveau: 81
 Catégorie: Divers
-Points de récolte: 
+Points de récolte: Ilsabard - Thavnair - Le Grand Œuvre: 85
 
 Nom: Minerai de fer
 Classe: Mineur
@@ -3391,7 +3419,7 @@ Classe: Mineur
 Sous-classe: Extraction de pierre
 Niveau: 90
 Catégorie: Divers
-Points de récolte: 
+Points de récolte: Ilsabard - Thavnair - Temple du Purusa: 90 (intact)
 
 Nom: Minerai de mithril
 Classe: Mineur
@@ -3447,7 +3475,7 @@ Classe: Mineur
 Sous-classe: Extraction de pierre
 Niveau: 82
 Catégorie: Pierre
-Points de récolte: 
+Points de récolte: Ilsabard - Thavnair - Couvoir des hamsa: 85
 
 Nom: Minerai de pyrite
 Classe: Mineur
@@ -3664,7 +3692,7 @@ Classe: Botaniste
 Sous-classe: Fauche
 Niveau: 81
 Catégorie: Tissu
-Points de récolte: 
+Points de récolte: Mers du Nord - Le Labyrinthos - Laboratoire agronomique de Meryall: 85
 
 Nom: Nid d'abeilles géantes
 Classe: Botaniste
@@ -3685,14 +3713,14 @@ Classe: Botaniste
 Sous-classe: Coupe
 Niveau: 82
 Catégorie: Ingrédient
-Points de récolte: 
+Points de récolte: Ilsabard - Thavnair - Le Grand Œuvre: 85
 
 Nom: Noix de coco collectionnable
 Classe: Botaniste
 Sous-classe: Coupe
 Niveau: 85
 Catégorie: Divers
-Points de récolte: 
+Points de récolte: Ilsabard - Thavnair - Couvoir des hamsa: 85 (intact)
 
 Nom: Noix de muscade
 Classe: Botaniste
@@ -3916,7 +3944,7 @@ Classe: Mineur
 Sous-classe: Extraction de minerai
 Niveau: 90
 Catégorie: Pierre
-Points de récolte: 
+Points de récolte: Ilsabard - Garlemald - Forum Patens: 90 (éphémère)
 
 Nom: Pierre de feu
 Classe: Mineur
@@ -4294,7 +4322,7 @@ Classe: Botaniste
 Sous-classe: Fauche
 Niveau: 82
 Catégorie: Ingrédient
-Points de récolte: 
+Points de récolte: Ilsabard - Thavnair - Mines de fiel-de-géant: 85
 
 Nom: Pomme de fée
 Classe: Botaniste
@@ -4462,14 +4490,14 @@ Classe: Botaniste
 Sous-classe: Fauche
 Niveau: 82
 Catégorie: Ingrédient
-Points de récolte: 
+Points de récolte: Ilsabard - Thavnair - Mines de fiel-de-géant: 85
 
 Nom: Périlla thavnairoise collectionnable
 Classe: Botaniste
 Sous-classe: Fauche
 Niveau: 81
 Catégorie: Divers
-Points de récolte: 
+Points de récolte: Ilsabard - Thavnair - Yedlihmad: 85
 
 Nom: Pétalite brute
 Classe: Mineur
@@ -4833,7 +4861,7 @@ Classe: Botaniste
 Sous-classe: Coupe
 Niveau: 81
 Catégorie: Bois
-Points de récolte: 
+Points de récolte: Mers du Nord - Le Labyrinthos - Canal de drainage: 85
 
 Nom: Rondin de châtaignier sombre
 Classe: Botaniste
@@ -4940,6 +4968,13 @@ Niveau: 70
 Catégorie: Bois
 Points de récolte: Gyr Abania - Les Lacs - Hautes berges: 70 (intact)
 
+Nom: Rondin de mempisang
+Classe: Botaniste
+Sous-classe: Coupe
+Niveau: 90
+Catégorie: Bois
+Points de récolte: 
+
 Nom: Rondin de mélèze
 Classe: Botaniste
 Sous-classe: Coupe
@@ -4973,14 +5008,14 @@ Classe: Botaniste
 Sous-classe: Coupe
 Niveau: 82
 Catégorie: Bois
-Points de récolte: 
+Points de récolte: Ilsabard - Thavnair - Le Grand Œuvre: 85
 
 Nom: Rondin de palmier collectionnable
 Classe: Botaniste
 Sous-classe: Coupe
 Niveau: 81
 Catégorie: Divers
-Points de récolte: 
+Points de récolte: Ilsabard - Thavnair - Couvoir des hamsa: 85 (intact)
 
 Nom: Rondin de pin
 Classe: Botaniste
@@ -5001,14 +5036,14 @@ Classe: Botaniste
 Sous-classe: Coupe
 Niveau: 84
 Catégorie: Bois
-Points de récolte: 
+Points de récolte: Ilsabard - Garlemald - Camp Bris-de-glace: 85
 
 Nom: Rondin de pin sylvestre collectionnable
 Classe: Botaniste
 Sous-classe: Coupe
 Niveau: 83
 Catégorie: Divers
-Points de récolte: 
+Points de récolte: Ilsabard - Garlemald - Céruleoduc: 85 (intact)
 
 Nom: Rondin de plaqueminier
 Classe: Botaniste
@@ -5260,7 +5295,7 @@ Classe: Mineur
 Sous-classe: Extraction de pierre
 Niveau: 81
 Catégorie: Pierre
-Points de récolte: 
+Points de récolte: Mers du Nord - Le Labyrinthos - Acrinthos inférieur: 85
 
 Nom: Sable de fer
 Classe: Mineur
@@ -5338,6 +5373,13 @@ Sous-classe: Extraction de pierre
 Niveau: 69
 Catégorie: Pierre
 Points de récolte: Othard - Steppe d'Azim - Onsal Hakair: 70
+
+Nom: Sable de rhodium
+Classe: Mineur
+Sous-classe: Extraction de pierre
+Niveau: 90
+Catégorie: Pierre
+Points de récolte: 
 
 Nom: Sable de tamahagane
 Classe: Mineur
@@ -5505,14 +5547,14 @@ Classe: Mineur
 Sous-classe: Extraction de pierre
 Niveau: 81
 Catégorie: Pierre
-Points de récolte: 
+Points de récolte: Mers du Nord - Le Labyrinthos - Acrinthos inférieur: 85
 
 Nom: Schiste vert collectionnable
 Classe: Mineur
 Sous-classe: Extraction de pierre
 Niveau: 90
 Catégorie: Divers
-Points de récolte: 
+Points de récolte: Mers du Nord - Le Labyrinthos - Petite Sharlayan: 90
 
 Nom: Schörl
 Classe: Mineur
@@ -5554,14 +5596,14 @@ Classe: Botaniste
 Sous-classe: Fauche
 Niveau: 81
 Catégorie: Ingrédient
-Points de récolte: 
+Points de récolte: Mers du Nord - Le Labyrinthos - Laboratoire agronomique de Meryall: 85
 
 Nom: Seigle noir collectionnable
 Classe: Botaniste
 Sous-classe: Fauche
 Niveau: 89
 Catégorie: Divers
-Points de récolte: 
+Points de récolte: Mers du Nord - Le Labyrinthos - Logistikon bêta: 90 (intact)
 
 Nom: Sel d'Ala Mhigo
 Classe: Mineur
@@ -5596,14 +5638,14 @@ Classe: Mineur
 Sous-classe: Extraction de minerai
 Niveau: 81
 Catégorie: Ingrédient
-Points de récolte: 
+Points de récolte: Mers du Nord - Le Labyrinthos - Tholos de l'Abondance: 85
 
 Nom: Sel gemme des mers du Nord collectionnable
 Classe: Mineur
 Sous-classe: Extraction de minerai
 Niveau: 85
 Catégorie: Divers
-Points de récolte: 
+Points de récolte: Mers du Nord - Le Labyrinthos - Psyché: 85 (intact)
 
 Nom: Sel gemme extraordinaire de restauration (4e phase)
 Classe: Mineur
@@ -5673,7 +5715,7 @@ Classe: Botaniste
 Sous-classe: Coupe
 Niveau: 82
 Catégorie: Ingrédient
-Points de récolte: 
+Points de récolte: Ilsabard - Thavnair - Le Grand Œuvre: 85
 
 Nom: Soja
 Classe: Botaniste
@@ -6471,7 +6513,7 @@ Classe: Botaniste
 Sous-classe: Coupe
 Niveau: 90
 Catégorie: Bois
-Points de récolte: 
+Points de récolte: Ilsabard - Thavnair - Résipiscence de Pavana: 90 (éphémère)
 
 Nom: Élément nécessaire à la reproduction d'une culture ancienne
 Classe: Botaniste
@@ -6506,28 +6548,28 @@ Classe: Botaniste
 Sous-classe: Coupe
 Niveau: 83
 Catégorie: Autre
-Points de récolte: 
+Points de récolte: Ilsabard - Garlemald - Camp Bris-de-glace: 85
 
 Nom: Élément nécessaire à la reproduction de la culture de Garlemald
 Classe: Mineur
 Sous-classe: Extraction de pierre
 Niveau: 83
 Catégorie: Autre
-Points de récolte: 
+Points de récolte: Ilsabard - Garlemald - Station d'observation G: 85
 
 Nom: Élément nécessaire à la reproduction de la culture de Radz-at-Han
 Classe: Botaniste
 Sous-classe: Fauche
 Niveau: 81
 Catégorie: Autre
-Points de récolte: 
+Points de récolte: Ilsabard - Thavnair - Mines de fiel-de-géant: 85
 
 Nom: Élément nécessaire à la reproduction de la culture de Radz-at-Han
 Classe: Mineur
 Sous-classe: Extraction de pierre
 Niveau: 81
 Catégorie: Autre
-Points de récolte: 
+Points de récolte: Ilsabard - Thavnair - Couvoir des hamsa: 85
 
 Nom: Élément nécessaire à une fermentation
 Classe: Botaniste
@@ -6564,6 +6606,13 @@ Niveau: 50
 Catégorie: Pierre
 Points de récolte: Thanalan - Thanalan central - Roncenoire: 50 (intact)
 
+Nom: Épi de maïs thavnairois
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 90
+Catégorie: Ingrédient
+Points de récolte: 
+
 Nom: Épices de la Steppe d'Azim
 Classe: Botaniste
 Sous-classe: Fauche
@@ -6580,10 +6629,17 @@ Points de récolte: Othard - Steppe d'Azim - Onsal Hakair: 70
 
 Nom: Épices naturelles
 Classe: Botaniste
-Sous-classe: Fauche
+Sous-classe: Coupe
 Niveau: 90
 Catégorie: Ingrédient
 Points de récolte: 
+
+Nom: Épices naturelles
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 90
+Catégorie: Ingrédient
+Points de récolte: Ilsabard - Thavnair - Jungle des Sangha: 90 (intact)
 
 Nom: Épices parfumées
 Classe: Botaniste
