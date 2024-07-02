@@ -35,7 +35,7 @@ class ConfigurationPageRecettes:
     fichierSortie = str("fichierSortie")
 
     # Valeurs par défaut
-    defaut = {activer: False, nombrePages: 200, fichierSortie: str("Recettes.csv")}
+    defaut = {activer: False, nombrePages: 233, fichierSortie: str("Recettes.csv")}
 
 
 class ConfigurationPageRecoltes:
@@ -46,7 +46,7 @@ class ConfigurationPageRecoltes:
     fichierSortie = str("fichierSortie")
 
     # Valeurs par défaut
-    defaut = {activer: False, nombrePages: 20, fichierSortie: str("Recoltes.csv")}
+    defaut = {activer: False, nombrePages: 23, fichierSortie: str("Recoltes.csv")}
 
 
 class ConfigurationGestionPersonnages:

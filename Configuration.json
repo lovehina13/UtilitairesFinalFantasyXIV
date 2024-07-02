@@ -7,12 +7,12 @@
     },
     "pageRecettes": {
         "activer": false,
-        "nombrePages": 200,
+        "nombrePages": 233,
         "fichierSortie": "Recettes.csv"
     },
     "pageRecoltes": {
         "activer": false,
-        "nombrePages": 20,
+        "nombrePages": 23,
         "fichierSortie": "Recoltes.csv"
     },
     "gestionPersonnages": {

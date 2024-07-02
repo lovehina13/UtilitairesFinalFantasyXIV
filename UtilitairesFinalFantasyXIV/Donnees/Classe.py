@@ -43,12 +43,14 @@ class Classe(SousElement):
     NIN = str("Ninja")
     SAM = str("Samouraï")
     FCH = str("Faucheur")
+    VPR = str("Rôdeur vipère")
     BRD = str("Barde")
     MCH = str("Machiniste")
     DNS = str("Danseur")
     MNO = str("Mage noir")
     INV = str("Invocateur")
     MRG = str("Mage rouge")
+    PIC = str("Pictomancien")
     MBU = str("Mage bleu")
     MEN = str("Menuisier")
     FRG = str("Forgeron")
@@ -95,12 +97,14 @@ class Classes(SousEnsemble):
                    Classe.NIN: Classe(Classe.NIN, Classe.dpsMelee, 0),
                    Classe.SAM: Classe(Classe.SAM, Classe.dpsMelee, 0),
                    Classe.FCH: Classe(Classe.FCH, Classe.dpsMelee, 0),
+                   Classe.VPR: Classe(Classe.VPR, Classe.dpsMelee, 0),
                    Classe.BRD: Classe(Classe.BRD, Classe.dpsPhysiqueDistance, 0),
                    Classe.MCH: Classe(Classe.MCH, Classe.dpsPhysiqueDistance, 0),
                    Classe.DNS: Classe(Classe.DNS, Classe.dpsPhysiqueDistance, 0),
                    Classe.MNO: Classe(Classe.MNO, Classe.dpsMagiqueDistance, 0),
                    Classe.INV: Classe(Classe.INV, Classe.dpsMagiqueDistance, 0),
                    Classe.MRG: Classe(Classe.MRG, Classe.dpsMagiqueDistance, 0),
+                   Classe.PIC: Classe(Classe.PIC, Classe.dpsMagiqueDistance, 0),
                    Classe.MBU: Classe(Classe.MBU, Classe.dpsMagiqueDistance, 0),
                    Classe.MEN: Classe(Classe.MEN, Classe.artisan, 0),
                    Classe.FRG: Classe(Classe.FRG, Classe.artisan, 0),
